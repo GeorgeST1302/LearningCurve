@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+keras
+imblearn
+seaborn
+imbalanced-learn                                                     
+pillow                                   
+scipy                                    
+PyPDF2
+pdfminer.six  
+pdfplumber                   
+pymupdf
+nltk
