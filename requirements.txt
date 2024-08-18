@@ -13,4 +13,3 @@ pdfminer.six
 pdfplumber                   
 pymupdf
 nltk
-git-filter-repo
