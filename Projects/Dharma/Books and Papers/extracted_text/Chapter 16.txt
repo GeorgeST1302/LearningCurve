@@ -1,0 +1,2412 @@
+Journal ofIndian Philosophy (2005)33: 455–511 (cid:1)Springer 2005
+DOI 10.1007/s10781-005-7050-9
+ALFHILTEBEITEL
+NOT WITHOUT SUBTALES: TELLING LAWS AND TRUTHS
+IN THE SANSKRIT EPICS
+This article on India’s two Sanskrit epics, the Maha(cid:1)bha(cid:1)rata and
+Ra(cid:1)ma(cid:1)yan:a, will address four topics:1 how they have been defined by
+scholars and by themselves; how each conceptualizes the relationship
+between its whole and its parts, and particularly its subtales;2 how
+subtales figure in their main stories; and how each creates grand
+narrative out of this configuration. This article favors the priority of
+the Maha(cid:1)bha(cid:1)rata and will be presented from that standpoint.3
+EPIC CUES AND SCHOLARLY VIEWS
+The Maha(cid:1)bha(cid:1)rata describes itself as ‘‘sprung from the oceanic mind
+(manah:sa(cid:1)garasambhu(cid:1)ta(cid:1)m)’’ (1.53.34a) of its author Vy(cid:1)asa and to be
+his ‘‘entire thought’’ (1.1.23; 1.55.2) in a text of a hundred thousand
+couplets (s(cid:2)lokas) (1.56.13). Although no known edition reaches that
+number, when the Maha(cid:1)bha(cid:1)rata describes texts of that size it denotes
+their originary vastness. As one lost prototype,4 it mentions that
+aeonsagosevensagesknownastheCitras´ikhan:d:ins,‘‘havingbecome
+ofasinglethought,promulgated5asupremetreatise(tairekamatibhir
+1Manyoftheideasinthispaper,alongwithfullersynopsesofbothepics,appear
+as separate entries on each epic in Wolpert in press. I thank the editors for
+permission todevelop that materialfurther for thisarticle.
+2 I will favor the translation ‘‘subtale’’ for upa(cid:1)khya(cid:1)na, with perhaps a hint of
+subtext.
+3IagreewithMadeleineBiardeau’schronologicalpositioningoftheMaha(cid:1)bha(cid:1)rata
+asolderthantheRa(cid:1)ma(cid:1)yan:a(2002,I,700-1andff.,726;1999,xxxiii–xxxv),thoughI
+seea shorter time betweenthem. SeeHiltebeitel 2001a, 15–31, 165; in press-c.
+4 It was destined to be lost after the golden age reign of King Vasu Uparicara
+(12.322.48).
+5Forproktam,seeMinkowski1989,402,411–12concerningpra+vac/proktah: as
+having Vedic overtones, with ‘‘the sense of an original utterance’’; cf. Hiltebeitel
+2001a, 98–99.
+456 ALFHILTEBEITEL
+bhu(cid:1)tva(cid:1)yatproktam: (cid:2)sa(cid:1)stram uttamam)(cid:1)(cid:1)(cid:1) consisting of a hundred
+thousandverses,fromwhichproceedsdharmafortheentireloom6of
+the worlds (k:rtam: (cid:2)satasahasram: hi (cid:2)sloka(cid:1)na(cid:1)m idam uttamam/loka-
+tantrasya k:rtsnasya yasma(cid:1)d dharmah: pravartate)’’ (12.322.26d and
+36). Even grander, it recalls a ‘‘treatise’’ ((cid:2)sa(cid:1)stra) by Brahm(cid:1)a of
+originally one hundred thousand adhya(cid:1)yas or chapters (12.59.29) –
+thereareabout2000adhya(cid:1)yasintheMaha(cid:1)bha(cid:1)rata7–thatunderwent
+fourabridgments:byS´ivato 10,000chapters,Indratofivethousand,
+B:rhaspati to three thousand, and K(cid:1)avya Us´anas to one thousand
+(59.86–91). Indeed, amid a wider discussion of abridgments in clas-
+sical Indian literature, Sylvain Le´vi points out that in claiming
+100,000-verses,8 the Maha(cid:1)bha(cid:1)rata would have come into ‘‘competi-
+tion with Buddhism,’’ since the designation ‘‘inevitably calls to our
+mind … the S(cid:2)atasahasrika Prajn˜a(cid:1)pa(cid:1)ramita(cid:1). For passing into current
+usage the [latter] work must have been submitted to successive
+reductions to 25,000, 8000 (a:st:asahasrika, which is the classical form
+of the treatise), 700 and 500’’ ([1917] 1918–20, 18–19; slightly modi-
+fied).9
+To describe the Maha(cid:1)bha(cid:1)rata’s magnitude, many also cite a verse
+that occurs twice – once near its beginning and once near its end –
+that claims, ‘‘Whatever is here may be found elsewhere; what is not
+here does not exist anywhere’’ (1.56.33; 18.5.38). One strain of
+scholarship takes this verse to suggest that by the time the
+Maha(cid:1)bha(cid:1)rata reached its ‘‘extant’’ mass, it would have grown from
+6‘‘Loom’’ fortantra,ormore prosaically,perhaps, ‘‘course.’’
+7The PuneCritical Editionhas1995‘‘chapters’’ or‘‘lessons’’ (adhya(cid:1)yas).
+8 Le´vi seems to suggest that the designation ‘‘hundred thousand-versed’’ ‘‘had
+been consecrated since the fifth century,’’ citing its appearance on a fifth century
+inscription.ButthatinscriptionwouldbequotingMbh1.56.13and12.331.2,where
+theclaimismadeintheepicitself.ThereisnoreasontothinkthattheMaha(cid:1)bha(cid:1)rata
+number wasreached onlyby thefifth century andannouncedatthat point.
+9 Le´vi’s Prajn˜aapa(cid:1)ramita(cid:1) sequencing is uncertain; see Conze (1960). My view
+would be that his instinct is likelier for the Maha(cid:1)bha(cid:1)rata, with which the Buddhist
+textswouldhave‘‘caughtup.’’OnLe´vi’shypothesis,theS´atasahasrikawouldhave
+‘‘lent itself to this process without difficulty: it was only necessary to cut down the
+tautologies, the redundancies, and the repetitions which swelled it and gave it an
+enormous bulk.… Inits steady effort for the beautiful [or perfect], India has mani-
+festly passed through the intermediate stage of the colossal. Before relishing and
+realizing thebeautythatconsists inaharmonious equilibrium oflines,the mindof
+man first permits itself to be carried away by mere mass’’ ([1917] 1918–20, 19).
+Evolutionary claims aside, Le´vi’s conclusion could be said to anticipate what this
+article hastosay about themore local stanceofV(cid:1)alm(cid:1)(cid:3)ki visa` vis Vy(cid:1)asa.
+NOTWITHOUTSUBTALES:TELLINGLAWS 457
+oral origins into a massive ‘‘encyclopedia’’ – a text of such monu-
+mental self-sufficiency that it could have considered itself to have
+absorbed everything that would have haphazardly come its way as a
+reflexofitssnowballdescentthroughcenturies.10Manysuchscholars
+cite another verse in support of this theory, which says that Vy(cid:1)asa
+‘‘composedaBha(cid:1)rata-collection(sam: hita(cid:1))of24,000coupletswithout
+the subtales (upa(cid:1)khya(cid:1)nair vina(cid:1)); so much is called Bha(cid:1)rata by the
+wise’’ (1.1.61).11 Although a 100,000 verse Bha(cid:1)rata is also mentioned
+(12.331.2), translators have sought to help the developmental argu-
+ment along by adding that Vy(cid:1)asa composed this shorter version
+‘‘first’’ (van Buitenen, 1973, I, 22; cf. Ghosh, 1991, 9) or ‘‘originally’’
+(Ganguli [1884–96] 1970, I, 6). But the verse says nothing about
+anything coming first. Since ‘‘without’’ implies a subtraction, and
+since the passage describes Vy(cid:1)asa’s afterthoughts, the 24,000 verse
+Bha(cid:1)rata would probably be a digest or abridgment12 that knowers of
+the Maha(cid:1)bha(cid:1)rata could consult or cite for purposes of performance
+10 This approach gained authoritative status in Hopkins ([1901] 1969) and has
+recently been slightly refined (bardic background, a post-As´okan first written
+redaction, and a normative redaction under the Guptas yielding a ‘‘library’’) in
+Fitzgerald 2004b, 52–55, 68–70. For counter-arguments, see Hiltebeitel 2001a: that
+the epic wouldhavebeen composed overa shorter period(1–31; also Hiltebeitel in
+press-c), with nothing required from the Guptas (2001a, 25–26); and that the term
+‘‘encyclopedia’’hasbeenmisleadinglyappliedtotheMaha(cid:1)bha(cid:1)rata,particularlywith
+referencetothe‘‘Whateverisheremaybefoundelsewhere…’’verse,which,rather
+than defining the exhaustiveness of the text, is pitched toward an ‘‘ontological
+debate’’ (162–163).
+11 Sukthankar illustrates the lengths to which scholars have gone in fitting the
+24,000 verse ‘‘Bh(cid:1)arata without upa(cid:1)khya(cid:1)nas’’ into their theories of the text, notably
+his theory of Bh:rguization: ‘‘in my opinion we should have no hesitation in con-
+cludingthatinourversionoftheMaha(cid:1)bha(cid:1)ratathereisaconscious–naydeliberate–
+stitching together of the Bha(cid:1)rata legends with the Bha(cid:1)rgava stories (author’s italics).
+The question how precisely this Bh(cid:1)argava element, which we find concentrated
+mostlyin theupa(cid:1)khya(cid:1)nascameinto thecycleofthe Bh(cid:1)aratalegends…islargely a
+matterofspeculation.Evenaccordingtothetraditionalview,itwasnottheworkof
+Vy(cid:1)asa, the reputed author of the Mah(cid:1)abh(cid:1)arata, because the diaskeuasts have been
+fortunately frank enough to admit that his work, the Bh(cid:1)arata, which originally
+consistedmerelyof24,000stanzas,hadnoepisodestospeakof’’(1936,70).Thereis
+nothingdemonstrably‘‘traditional’’ aboutthisviewofVy(cid:1)asa,andthefranknessof
+the diaskeuastsis a fancy.On ‘‘Bh:rguization,’’seeHiltebeitel (2001a,105–118).
+12Shulman([1991]2001),25,asthefirstIknowtohaveseenthefallacyofarguing
+that the 24,000-verse ‘‘Bha(cid:1)rata’’ came first, takes the verse to imply that Vy(cid:1)asa
+‘‘compressed’’ the 100,000 verses ‘‘by eliminating the various minor stories
+(upa(cid:1)khya(cid:1)na) into amere 24,000verses.’’
+458 ALFHILTEBEITEL
+from a written text.13 Another passage tells us that the divine Seers
+(surar:sis)oncegatheredtoweighthe‘‘Bha(cid:1)rata’’onascaleagainstthe
+four Vedas; when the ‘‘Bha(cid:1)rata’’ proved heavier in both size and
+weight, the Seers dubbed it the ‘‘Maha(cid:1)bha(cid:1)rata’’ (1.1.208–9), thereby
+providing a double ‘‘etymology’’ (nirukta) forone and the same huge
+text.14 Yet despite nothing surviving of this shorter Bha(cid:1)rata, scholars
+have used it to argue for an originally oral bardic and heroic story
+that would have lacked not only subtales but frame stories, tales
+about the author both in the frames and elsewhere, didactic addi-
+tions, and devotional passages with ‘‘divinized’’ heroes. Some have
+assumed that K:r:sn:a would have been ‘‘divinized’’ before the intro-
+ductionofstill‘‘later’’passagesglorifyingS´ivaandeventheGoddess;
+and there were even those who wanted to argue that K:r:sn:a was not
+original to the earliest bardic version. Although these ideas domi-
+nated Western scholarship only in the late 19th and early 20th cen-
+turies,theyarestillvigorous.Itis,however,nolongerpossibletofind
+a serious scholar who wants to argue for an originally K:r:sn:a-less
+epic,andtherearenowthosewhoseeprinciplesofongoingdesignas
+guiding the Maha(cid:1)bha(cid:1)rata’s agglutination rather than historical
+accident.
+13 Fitzgerald still asks ‘‘at what stage was a putative Bha(cid:1)rata story recast as the
+‘Maha(cid:1)’Bha(cid:1)rata…?’’(inpress,26),andinafootnotetothiscontinuingquestioncites
+‘‘thepurportedhistoricalobservationofVy(cid:1)asaat1.1.61…[as]evidencethatatleast
+some in ancient India distinguished larger and smaller versions of this epic’’
+(43n.21).WhilenotclaimingdirectlytheshorterBha(cid:1)rata’sprecedence,heimpliesit
+(itwouldbenousetohisdevelopmentalargumentwereitnotearlier).Suggestingby
+themovetoafootnotethatthisBha(cid:1)ratamightbethesameas‘‘aputativeBh(cid:1)arata
+story’’thatwouldhavethispriorityovertheMaha(cid:1)bha(cid:1)rata,heignoresthequestionof
+whatkindoftextitwouldbe‘‘withouttheupa(cid:1)khya(cid:1)nas’’(43n.21).Butthatelement
+of the verse in question is where one must begin (as Sukthankar did, claiming that
+theoriginal‘‘hadnoepisodestospeakof’’;seen.11above)inconsideringhowthe
+epic ‘‘distinguished larger and smaller versions of’’ itself (rather than gratuitously
+attributing thedistinction to ‘‘some in ancientIndia,’’implying ‘‘some Brahmans,’’
+whom Fitzgerald frequently invokes with the suggestion that sociological divisions
+would have produced the textual variations in which he usually sees additions).
+Fitzgerald tries to relate 1.1.61 to his argument for centuries of sequential devel-
+opment in the composition of Books 12 and 13, and to explain ‘‘sectors’’ of the
+Bh(cid:1)argava R(cid:1)ama dossier by associating the Vais´amp(cid:1)ayana and Ugras´ravas frames
+withtwoof‘‘four,ormore,distinctpoeticorredactionalefforts’’(2002,115;99–100,
+104–107, 112–113) – an opportunistic (I believe) association between frames and
+redactions also made by Sukthankar and some others (see Hiltebeitel, 2001a, 105
+n. 47andabove n. 11).
+14 Cf. 1.56.31: ‘‘The Maha(cid:1)bha(cid:1)rata, they say, is the great Birth of the Bh(cid:1)aratas
+(bha(cid:1)rata(cid:1)na(cid:1)m mahaj janma): he who knows this etymology (nirukta) is rid of all his
+sins.’’
+NOTWITHOUTSUBTALES:TELLINGLAWS 459
+New developments have thus complicated this profile. These
+include intertextual studies positioning the Maha(cid:1)bha(cid:1)rata in relation
+to both Indo-European and Indian texts; genre study, including the
+history of ka(cid:1)vya or Sanskrit ‘‘poetry’’ composed according to
+classical aesthetic norms; debate on the likely period of the
+Maha(cid:1)bha(cid:1)rata’s composition in written form; and the completion of
+the Pune Critical Edition, along with wider recognition of the
+Maha(cid:1)bha(cid:1)rata’s design. For a signal result of theMaha(cid:1)bha(cid:1)rata’s Pune
+Critical Edition is its establishment of a textual ‘‘archetype.’’ There
+remainsdebateastowhetherthisarchetypetakesusbacktothetext’s
+firstcomposition,ortoalaterredactionthatwouldputafinalstamp
+on centuries of cumulative growth. This essay favors the first option.
+In either case, this archetype includes a design of eighteen Books or
+parvans,15 nearly all the epic’s one hundred ‘‘little books’’ or
+upaparvans (the list of these at 1.2.30–70 problematically includes as
+numbers 99 and 100 parts of the Harivam: s(cid:2)a as the last two), and its
+often adroit adhya(cid:1)ya breaks. Similar developments apply to
+Ra(cid:1)ma(cid:1)yan:a studies.
+15 Schlinghoff’s contrary claims (1969) about the Maha(cid:1)bha(cid:1)rata’s ‘‘oldest extant
+parvan-list’’ based on the Ku:s(cid:1)an:a period ‘‘Spitzer manuscript’’ found in east
+Turkestan have been revived by Franco (2004), with some additional information
+andsuggestions:thatitmayhavecomefrom‘‘theGreatGandharaarea’’andbeen
+written using a broad-nibbed copper pen (vol. 1, 11); that it is probably a Sarv(cid:1)a-
+stiv(cid:1)adin text (19) from ‘‘around the second half of the third century’’ (33); that it
+includedarefutationofGodinonefragment(18–19);andthatitsreferencetosome
+Maha(cid:1)bha(cid:1)rata units and brief encapsulation of the Ra(cid:1)ma(cid:1)yan:a ‘‘may have been oc-
+casionedbyadiscussionoftheBuddha’somniscience’’(17).Ifthelasttwothingsare
+true,ithardlyseemsthattheBuddha’somnisciencewasdirectedtowardthe‘‘extant’’
+totality of either epic. Indeed, not knowing the context, we cannot know what the
+unitswerelistedfor,whybothparvansandsubparvanswereselected,whyinsome
+cases theyare apparently listed outof sequenceand in otherswith one inclusive of
+another, why the Maha(cid:1)bha(cid:1)rata is digested by (selected) components and the
+Ra(cid:1)ma(cid:1)yan:a as a (minimalist) consecutive narrative, or even that the four fragments
+mentioningthesefeatureswereallonthesamepage.NoMaha(cid:1)bha(cid:1)ratascholarusing
+the find as evidence of a once-shorter text (see Brockington, 1998, 131–132;
+Fitzgerald in press, 1, 24 and nn. 17 and 19) has tried to explain what kind of
+‘‘Bha(cid:1)rata’’ it would have been with the odd assortment of units mentioned. With
+such uncertainties, notions that the Vira(cid:1)t:a- and Anus(cid:2)a(cid:1)sana-Parvans would not yet
+havebeenextant(Schlinghoff,338;Franco,vol.1,10;BrockingtonandFitzgeraldas
+cited)mustbetakencumgranosalis.RegardingBook4,theonlyevidenceisthatno
+Vira(cid:1)t:aparvan is mentioned between a unit beginning with a or a(cid:1), for which
+Schlinghoff (338) proposes a(cid:1)(ran:eyam:) ‘‘or perhaps a(cid:1)(jagara)’’ – both subparvans
+ofBook3–and(ni)ryya(cid:1)n:am: fortheAbhinirya(cid:1)n:asubparvanofBook5.Butacould
+provide a(jn˜a(cid:1)tava(cid:1)sa), the ‘‘residence incognito’’ widely used to describe the
+Vira(cid:1)t:aparvan (see Hiltebeitel, 1980b, 148 n. 4), or a(bhimanyu-viva(cid:1)ha), the main
+adhya(cid:1)yaname (4.66–67)in Book4’sconcluding subparvan.
+460 ALFHILTEBEITEL
+Traditional Ra(cid:1)ma(cid:1)yan:a scholarship has been marked by what
+RobertGoldmancallsa‘‘zeal’’(1984,63)todemonstratethatmostor
+allofthisepic’sfirstbookislate.Books2–6aretakentosupplymostor
+allofthepoem’s‘‘‘genuine’portions,’’andtheclosingBook7istaken
+asaxiomaticallylate.Forsuchscholars,Books2–6havepresentedthe
+possibility of making a case that they narrate a largely consecutive
+heroicstoryofamanwhoisforthemostpartnotyet‘‘divinized.’’
+This view has also been challenged over the last several decades.
+Pivotalto thisrethinkinghas beenthe completionof theRa(cid:1)ma(cid:1)yan:a’s
+Baroda Critical Edition (1960–1975). Most of the key passages that
+speakofR(cid:1)amaasanincarnationofVi:sn:umaketheCriticalEdition’s
+cut. The lateness of R(cid:1)ama’s ‘‘divinization’’ has thus been challenged
+by Sheldon Pollock (1984) and supported by Goldman and Sally
+Sutherland Goldman (1996). Pollock’s argument is that R(cid:1)ama’s
+seeming humanity is a structural piece of the story threaded into the
+poem along with a boon obtained by R(cid:1)avan:a from Brahm(cid:1)a: that of
+invulnerabilityto deathfromalldifferentclasses ofbeingsotherthan
+humans, whom he omitted because he disdained them. R(cid:1)ama must
+thus be born as a man to slay R(cid:1)avan:a; more than this, he must think
+heisamanuntilheaccomplishesthisgoal.ThefactthatR(cid:1)amakeeps
+fairly well to this sense of himself until he has killed R(cid:1)avan:a would
+then be a feature of the narrative rather than a way of disqualifying
+theboonpassage,whichoccursinBook7,andthepassageinBook6
+where,afterkillingR(cid:1)avan:a,R(cid:1)ama’sdivinityisfinallyrevealedtohim
+by Brahm(cid:1)a.
+Pollock (1986, 38–42) and Biardeau (1997a, 77–119) have also
+introduced a consideration based on comparison with the
+Maha(cid:1)bha(cid:1)rata and the fruits of its Pune Critical Edition. Up to
+Book 2, each epic follows a similar archetypal design, with (in partly
+my terms) each Book 1 introducing Frames, Origins, and the Youths
+of the Heroes, and each Book 2 describing a pivotal Court Intrigue.
+This approach can be carried further: Book 3: Forest (in the title of
+both epics’ third books); Book 4: Inversions (the P(cid:1)an:d:avas’ topsy
+turvy disguises in Vir(cid:1)at:a’s kingdom of Matsya, ‘‘Fish’’; R(cid:1)ama’s
+engagementwiththetopsyturvyworldofmonkeys,inwhosecapital,
+Ki:skindh(cid:1)a,theleadmonkeysplayoutareverseimageofR(cid:1)ama’sown
+story); Book 5: ‘‘Effort’’ (udyoga; Ra(cid:1)m 5.10.24; 33.66 uses this
+Maha(cid:1)bha(cid:1)rata term) made in Preparation for War (by both sides in
+the Maha(cid:1)bha(cid:1)rata; by Hanum(cid:1)an and all the monkeys in the
+Ra(cid:1)ma(cid:1)yan:a) with K:r:sn:a and Hanum(cid:1)an going as Divine Messengers
+into the Enemy Camp where there are Attempts to Capture Them;
+NOTWITHOUTSUBTALES:TELLINGLAWS 461
+War Books (Ra(cid:1)ma(cid:1)yan:a 6; Maha(cid:1)bha(cid:1)rata 6–11), and Denouments
+(Ra(cid:1)ma(cid:1)yan:a 7; Maha(cid:1)bha(cid:1)rata 12–18). As we shall see, this is only bare
+bones that can be further fleshed out. The Ra(cid:1)ma(cid:1)yan:a’s term for its
+Books is ka(cid:1)n:d:a, meaning a ‘‘section’’ of a stalk of a plant, such as
+bamboo, between its joints; the Maha(cid:1)bha(cid:1)rata’s is parvan, which can
+mean the joints themselves of such a plant. Together they could
+describe a complete stalk of a noded plant. Such closeness of design
+cannot be accidental. In favoring the priority of the Maha(cid:1)bha(cid:1)rata,
+this article holds that Ra(cid:1)ma(cid:1)yan:a Books 1 and 7 are integral to its
+earliest design and that the Ra(cid:1)ma(cid:1)yan:a poet is not only familiar with
+the Maha(cid:1)bha(cid:1)rata’s design but intent upon refining it.
+Such a relation can be exemplified by the two epics’ frame stories,
+whichareopenedatthebeginningofthefirstBooksandleftpending
+into the denouments.In both epics the frames are three-tiered. Inthe
+Maha(cid:1)bha(cid:1)rata, there are in fact three frames. Initially, Vy(cid:1)asa recites
+theepictohisfiveBrahmandisciples,firsttohissonS´ukaandthento
+the other four, including Vais´amp(cid:1)ayana (1.1.63). Second, Vai-
+s´amp(cid:1)ayana recites it at Vy(cid:1)asa’s bidding to King Janamejaya, a
+descendantof theP(cid:1)an:d:avas,at hissnake sacrificesothathecan hear
+the story of his ancestors. And third, the Bard Ugras´ravas, who
+overheard Vais´amp(cid:1)ayana’s narration, brings it to S´aunaka and the
+R::sis of the Naimi:sa Forestand recites it there in 18 Books(2.3.71).16
+Unlike the Maha(cid:1)bha(cid:1)rata’s three frame stories, which present a serial
+layering of the first threerecitalsof supposedly thesame textthatare
+scattered over its first 56 chapters and resumed in late portions of its
+12thBook,theRa(cid:1)ma(cid:1)yan:aframe,inonlyitsfirstfourchaptersknown
+as the upodgha(cid:1)ta or preamble, presents two progressive unfoldings of
+the story – the first by the sage N(cid:1)arada to the hermit V(cid:1)alm(cid:1)(cid:3)ki; the
+second by V(cid:1)alm(cid:1)(cid:3)ki himself, now a poet – that trace its ripening into
+the third full unfolding, the Va(cid:1)lm(cid:1)iki Ra(cid:1)ma(cid:1)yan:a itself.
+In the first, in answer to V(cid:1)alm(cid:1)(cid:3)ki’s opening question whether there
+is an ideal man in the world today (1.1.2–5), N(cid:1)arada satisfies the
+question with a brief and entirely laudatory account of R(cid:1)ama’s vir-
+tues and adult life, presumably to date (1.1.7–76). Saying the mini-
+mum about R(cid:1)ama’s killing of the monkey V(cid:1)alin (1.1.49, 55), N(cid:1)arada
+hardly hints at anything problematic in R(cid:1)ama’s life and omits both
+S(cid:1)(cid:3)t(cid:1)a’s fire ordeal and her banishment. Among the great R::sis or seers
+16 The 18 parvans are mentioned again at 1.2.244ab toward the end of the
+Parvasam:grahaor‘‘SummariesoftheBooks’’–asiftosaythatwhatwegetisthis
+Naimi:sa Forestedition.
+462 ALFHILTEBEITEL
+R(cid:1)ama encounters, he mentions only Vasi:st:ha (29) and Agastya
+(33–34).
+In the second sarga, once N(cid:1)arada has left, V(cid:1)alm(cid:1)(cid:3)ki witnesses the
+cries of grief of a female Kraun˜ca bird (probably the large monog-
+amoussaruscrane(seeLeslie,1998)overtheslayingofhermatebya
+‘‘cruel hunter,’’ and is provoked into the spontaneous utterance that
+creates ‘‘verse’’ (and thus poetry) out of ‘‘grief’’ (s(cid:2)loka out of s(cid:2)oka;
+1.2.9–15). As this verse is said to mark the origins of poetry, the
+Ra(cid:1)ma(cid:1)yan:a is called the a(cid:1)dika(cid:1)vya or ‘‘first poem’’ – a term that does
+not occur in the Baroda Critical Edition, though it probably should
+since it occurs in a universally attested sarga where, after S(cid:1)(cid:3)t(cid:1)a has
+vanished into the earth, the god Brahm(cid:1)a encourages R(cid:1)ama to hear
+the rest of this a(cid:1)dika(cid:1)vya (7, Appendix I, No. 13, lines 31–39). Now,
+however,thesameBrahm(cid:1)aappears(22–36)topromptV(cid:1)alm(cid:1)(cid:3)kitotell
+the storyhehas just heardfromN(cid:1)arada,and giveshim the insightto
+see what he did not know and what is still yet to happen – with,
+moreover, the confirmation that his poem will endure so long as the
+rivers and mountains last on earth and that it will all be true (1.2.33–
+35). Brahm(cid:1)a thus assures V(cid:1)alm(cid:1)(cid:3)ki that he will know things omitted
+from N(cid:1)arada’s encomium. Upon Brahm(cid:1)a’s vanishing, V(cid:1)alm(cid:1)(cid:3)ki now
+conceives the idea of composing ‘‘the entire Ra(cid:1)ma(cid:1)yan:a poem (ka(cid:1)vya)
+in verses such as these’’ (1.2.40cd) – that is, such as the (cid:2)sloka he has
+just uttered.
+In the third sarga, V(cid:1)alm(cid:1)(cid:3)ki meditatively enters into this project for
+thefirst time(1.3.2) andhasasort ofpreviewof thestory(3–28):not
+a retrospective table of contents like the Parvasam: graha (PS) – the
+lengthy ‘‘Summaries of the Books’’ that forms the Maha(cid:1)bha(cid:1)rata’s
+second adhya(cid:1)ya and second upaparvan – but a kind of first glimpse
+and unfolding of what his poem will contain. Here he provides the
+first reference to some of R(cid:1)ama’s encounters with important R::sis (he
+will hear Vis´v(cid:1)amitra’s stories [4], face R(cid:1)ama J(cid:1)amadagnya [5], and
+hear Bharadv(cid:1)aja’s instructions [8]). Most important, while adding
+nothing problematic on the slaying of V(cid:1)alin (15–16) and without
+having mentioned S(cid:1)(cid:3)t(cid:1)a’s fire ordeal, he closes with S(cid:1)(cid:3)t(cid:1)a’s banishment
+(28).
+Then, looking back upon the poem’s completion, the fourth sarga
+hints at the context in which V(cid:1)alm(cid:1)(cid:3)ki’s Ra(cid:1)ma(cid:1)yan:a will finally be told
+bythetwinsKus´aandLavatotheirfatherR(cid:1)ama.Justasinformation
+on the Maha(cid:1)bha(cid:1)rata’s frame is resumed with further revelations
+about Vy(cid:1)asa, S´uka and his co-disciples, and the Naimi:sa Forest is in
+NOTWITHOUTSUBTALES:TELLINGLAWS 463
+Book 12,17 the Ra(cid:1)ma(cid:1)yan:a’s frame will be picked up in Book 7 when
+Kus´a and Lava do just that: pick up the frame in the Naimi:sa Forest
+(Ra(cid:1)m 7.82.14b)!18 The main difference is that when the Ra(cid:1)ma(cid:1)yan:a
+frame is reentered in Book 7, it is not just a matter of further reve-
+lations about the composition that are difficult to relate to the main
+story. V(cid:1)alm(cid:1)(cid:3)ki’s dramatic entry into the main story presents the
+occasion to reveal the poetic heart of the whole poem through its
+effectsonitsheroanditsheroine.Nonetheless,inbothepicsthereisa
+moment where the author emerges from the frames to speak directly
+to the epic’s main listener. In the Ra(cid:1)ma(cid:1)yan:a this occurs at this cli-
+mactic moment when V(cid:1)alm(cid:1)(cid:3)ki addresses R(cid:1)ama and confirms S(cid:1)(cid:3)t(cid:1)a’s
+veracity before she enters the earth. In the Maha(cid:1)bha(cid:1)rata, in a much
+less noticed but still quite dramatic passage, it occurs in the one time
+that Vy(cid:1)asa addresses Janamejaya directly to tell the subtale
+(upa(cid:1)khya(cid:1)na)oftheHorse’sHeadinanswertoaculminatingquestion
+of the Na(cid:1)ra(cid:1)yan:(cid:1)iya (see Hiltebeitel, in press-b).
+V(cid:1)alm(cid:1)(cid:3)ki thus gets a triple inspiration – from N(cid:1)arada, the kraun˜c(cid:1)i,
+and Brahm(cid:1)a. Yet the upodgha(cid:1)ta leaves us in suspenseas to when S(cid:1)(cid:3)t(cid:1)a
+cametohisashram.WasitbeforeoraftertheKraun˜ cabirdincident?
+The poem never tells whether V(cid:1)alm(cid:1)(cid:3)ki’s response to the female bird
+comes before or after his familiarity with S(cid:1)(cid:3)t(cid:1)a’s grief at her banish-
+ment. But in either case, now that V(cid:1)alm(cid:1)(cid:3)ki knows the whole story
+from Brahm(cid:1)a, he could connectS(cid:1)(cid:3)t(cid:1)a’sbanishment with the cry of the
+kraun˜c(cid:1)i whenever she arrived. What we do know is that, having had
+pity (karun:a(cid:1); 1.2.11d) for the female bird, V(cid:1)alm(cid:1)(cid:3)ki will compose his
+poem with pity as its predominant aesthetic flavor (an_g(cid:1)irasa) in
+relation to grief (s(cid:2)oka) as its underlying stha(cid:1)yibha(cid:1)va or ‘‘stable aes-
+thetic emotion.’’ The Maha(cid:1)bha(cid:1)rata provides no such developmental
+inspiration story for its author Vy(cid:1)asa, although I believe the father-
+son story of Vy(cid:1)asa and S´ uka is its analogue.19 Even though
+Ugras´ravas seems to tell the Pauloma and A(cid:1)st(cid:1)ika subparvans on his
+own, there is no suggestion that they are anything but the ‘‘entire
+thought’’ofVy(cid:1)asa,andthereisnohintatanygrowthprocess–either
+17InstoriesaboutS´ukaincludingtheS(cid:2)ukotpattior‘‘BirthofS´uka’’(12.310–20),
+and inthe Na(cid:1)ra(cid:1)yan:(cid:1)iya(12.321–39);seeSection Eof hisarticle.
+18 The site where the twins recite the Ra(cid:1)ma(cid:1)yan:a at R(cid:1)ama’s As´vamedha sacrifice.
+On the coincidence of the sites for the third narrations, which suggests a nod to
+Maha(cid:1)bha(cid:1)rata precedence,seeHiltebeitel (2001a, 285–286).
+19Bothincludepoignantbirdstories(seeHiltebeitel,2001a,279–322;inpress-c).
+As in the Ra(cid:1)ma(cid:1)yan:a, the S´uka story is presented in a way that appears disjointed
+fromthemainstory,andintheMaha(cid:1)bha(cid:1)rata’sdenouementratherthanitspreamble.
+It isthusmuch moredifficult to traceinto the main story.
+464 ALFHILTEBEITEL
+inthepoet’smindorintheperformancesbyeitherofthenarrators.20
+The Ra(cid:1)ma(cid:1)yan:a frame is thus shorter, more developmental, more
+focused, and more poetically traceable into the main narrative and
+the whole poem.
+Indeed,oncepasttheupodgha(cid:1)ta,theRa(cid:1)ma(cid:1)yan:a’smainstorybegins
+immediatelywithabriefpraiseoftheRa(cid:1)ma(cid:1)yan:aitselfandtheIk:sv(cid:1)aku
+dynasty(R(cid:1)ama’sancestors)thatquicklynarrowsdowntothecountry
+of Kosala, its capital city of Ayodhy(cid:1)a, and the current reign there of
+R(cid:1)ama’sfatherDas´aratha(1.5.1–9),allpresumablyasitwascomposed
+byV(cid:1)alm(cid:1)(cid:3)kiandimpartedtoberecitedbyKus´aandLavatoR(cid:1)ama.So
+itcontinuestoitsend–again,unliketheMaha(cid:1)bha(cid:1)rata,whichhasthe
+overriding device of presenting its multiple frame stories as inter-
+twining dialogues between its narrators and their listeners (see
+Shulman[1991]2001,28–33).Althoughtheupodgha(cid:1)taconcludeswith
+R(cid:1)ama, as chief-auditor-to-be, inviting his brothers to join him in lis-
+tening to Kus´a and Lava, whom he is yet to recognize as his sons, he
+interrupts their narration to question them only once: when, having
+listenedforsometime,heasksthemwhoauthoredthispoem(ka(cid:1)vya)
+(7.85.19). Otherwise, until he recognizes them soon after this and
+wants to see their banished mother (86.2–6), he is the rapt and silent
+listener.Yetnotetheconcludingwordsoftheupodgha(cid:1)tawithwhichhe
+launches their recital: ‘‘Moreover, it is said that the profound adven-
+ture(maha(cid:1)nubha(cid:1)vam: caritam)theytellishighlybeneficialevenforme.
+Listen to it’’ (1.4.26d). Who has said this? Why beneficial to R(cid:1)ama?
+The preamble leaves us with such implicit and subtle questions. The
+pointseemstobethatlisteningtoV(cid:1)alm(cid:1)(cid:3)ki’spoemwillawakenR(cid:1)ama
+to recall S(cid:1)(cid:3)t(cid:1)a after he has banished her.
+WHOLES, PARTS, AND TERMS OF IDENTIFICATION
+In these passages, we see two of the three leading terms by which the
+Ra(cid:1)ma(cid:1)yan:a describes itself: ka(cid:1)vya (poem) and carita (adventure), the
+third being a(cid:1)khya(cid:1)na (tale, narrative). Let us look at how these and
+other terms are used by each epic to identify itself and to define the
+relationship of its whole to its parts.
+20 See Hiltebeitel (2001a, 99–105). Ugras´ravas recital in eighteen parvans (see
+above at n. 16) would not add anything but rather be his way of arranging the
+‘‘whole’’ tomeet thesacrificial timetableoftheNaimi:sa ForestR::sis’12-yearsattra
+(1.1.1-2).
+NOTWITHOUTSUBTALES:TELLINGLAWS 465
+Most frequently, the Maha(cid:1)bha(cid:1)rata characterizes itself fourteen
+times as a ‘‘narrative’’ (a(cid:1)khya(cid:1)na: 1.1.16a; 1.2.29b, 235c, 238a, 239b,
+240b, and 241b; 1.53.31d and 32a; 1.56.1c, 30c, 32c; 12.337.10a,
+18.45.53a) and eight times as a ‘‘history’’ (itiha(cid:1)sa: 1.1.17a, 24d, 52c;
+1.2.237a,1.51.16c,1.56.18cand19a,1.93.46c).Butitalsocallsitselfa
+work of ‘‘ancient lore’’ (pura(cid:1)n:a: 1.1.15b, 1.56.15d), a ‘‘story’’ (katha(cid:1):
+1.56.2a), a ‘‘collection’’ (sam: hita(cid:1): 1.1.19.1c and 61b), a ‘‘fifth Veda’’
+(1.57.74ab, 12.327.18ab), the ‘‘Veda that pertains to K:r:sn:a’’ (Ka(cid:1)r:sn:a
+Veda, probably referring primarily to K:r:sn:a Dvaip(cid:1)ayana Vy(cid:1)asa –
+1.1.205a, 1.56.17c), a ‘‘great knowledge’’ (mahaj-jn˜a(cid:1)na: 1.1.25b and
+49a), a ‘‘treatise’’ (s(cid:2)a(cid:1)stra: 1.56.21: indeed, in this verse, a dhar-
+mas(cid:2)a(cid:1)stra, arthas(cid:2)a(cid:1)stra, and mok:sas(cid:2)a(cid:1)stra; and probably 12.238.13c),21
+an upani:sad (1.1.191a), a ‘‘biography’’ or ‘‘adventure’’ (carita:
+1.56.1d),22 a‘‘victory’’(jaya:1.56.19a),and,surprisingly,a ‘‘subtale’’
+(upa(cid:1)khya(cid:1)na: 1.2.236a)! In addition, while not calling itself one as a
+whole,theepicisalsoadefacto‘‘dialogue’’(sam: va(cid:1)da),foritsustains
+the dialogical interlacing of each of its three dialogical frame levels,
+not to mention the multiple dialogues that the frame narrators and
+other narrators report – like the Bhagavad G(cid:1)ita(cid:1), which Sam: jaya can
+report to Dh:rtar(cid:1)a:st:ra ‘‘by the grace of Vy(cid:1)asa’’ (BhG 18.73 and 75 =
+Mbh 6.40.73 and 75) thanks to Vy(cid:1)asa’s having given him the divine
+eye (6.2.9–13; see Hiltebeitel 2001a, 56–59).
+Indeed, most of these terms are used doubly. The more ‘‘didactic’’
+(veda, sam: hita(cid:1), upani:sad, and s(cid:2)a(cid:1)stra) not only describe the
+Maha(cid:1)bha(cid:1)rataasawhole,but,farmoreoften,refertosourcesoutside
+of it that the epic’s narrators cite as authoritative and sometimes
+quote in part or digest – particularly the many s(cid:2)a(cid:1)stras or ‘‘treatises’’
+mentioned by Bh(cid:1)(cid:3):sma in Book 12. But the more ‘‘narrative’’ terms
+(sam: va(cid:1)da,a(cid:1)khya(cid:1)na,itiha(cid:1)sa,pura(cid:1)n:a,carita,katha(cid:1),andupa(cid:1)khya(cid:1)na)can
+also be cited as authoritative tales. In this way the Maha(cid:1)bha(cid:1)rata
+sustains itself as a multigenre work both in terms of its multiple self-
+designations for the whole and in the interreferentiality between the
+whole and its parts. This contrasts with the Ra(cid:1)ma(cid:1)yan:a, whose poet
+V(cid:1)alm(cid:1)(cid:3)ki composeshis workunder the single-genre title ofka(cid:1)vya.The
+Maha(cid:1)bha(cid:1)rata is not called a ka(cid:1)vya until a famous interpolation,
+probablyintroducedby400CE,inwhichthegodBrahm(cid:1)aappearsto
+21 Seethe discussion ofthis referencein Section Ebelow.
+22Althoughthereisconstantoverlapintheuseofthemainnarrativeterms,there
+is also sometimes a helpful distinction, such as at 13.107.141 where four narrative
+genresarementionedaseachtobealwaysheard:pura(cid:1)n:a,itiha(cid:1)sa,whatevera(cid:1)khya(cid:1)nas
+there are, and‘‘biography of thegreat-souled’’ (maha(cid:1)tmana(cid:1)m: cacaritam).
+466 ALFHILTEBEITEL
+Vy(cid:1)asa to pronounce on the genre question: Says Vy(cid:1)asa, ‘‘O Blessed
+one, I have created this highly venerated ka(cid:1)vya (ka(cid:1)vyam: para-
+mapu(cid:1)jitam) in which I have proclaimed the secret of the Vedas
+(vedarahasyam) and other topics’’ (Vulgate 1.1.61–62; Pune Critical
+Edition1,App.I,lines13–14),towhichBrahm(cid:1)areplies,‘‘Iknowthat
+since your birth you have truthfully given voice to the brahman. You
+have called this a ka(cid:1)vya, and therefore a ka(cid:1)vya it shall be. No poets
+(kavayo) are equal to the excellence of this ka(cid:1)vya’’ (Vulgate 1.1.72–
+73b; Critical Ed. 1, App. I, lines 33–35). In a second and later
+interpolation that reads now as part of the same passage, Brahm(cid:1)a
+then recommends that Gan:es´a be Vy(cid:1)asa’s scribe (Vulgate 1.1.74–83;
+Critical Ed. 1, App. I, apud line 36).
+One striking thing about the Maha(cid:1)bha(cid:1)rata’s ‘‘narrative’’ terms for
+itself anditsparts,includingcarita23andeventuallyka(cid:1)vya24–thatis,
+the terms themselves, even though the genres they describe all de-
+velop, change, and overlap by classical times– is that theyare all but
+one Vedic. Indeed, the Vedic resonances of three of them – a(cid:1)khya(cid:1)na,
+itiha(cid:1)sa,andsam: va(cid:1)da25–aresostrongthattheywereonceattheheart
+of long debates centered on an ‘‘a(cid:1)khya(cid:1)na theory’’ of the origins of
+Vedic poetry itself (see Patton, 1996, 195–214). The one non-Vedic
+exception seems to be upa(cid:1)khya(cid:1)na – a term that may have been given
+itsfirstlifebytheauthorsoftheMaha(cid:1)bha(cid:1)rata.26Theypresentatopic
+23 Lubotsky(1997,527), cites1.110.2.
+24Seee.g.R:V8.79.1describingSomaas‘‘asageandaseerinspiredbypoetry(:r:sir
+vipra ka(cid:1)vyena).’’
+25SeePatton(1996,197–198)onearlyappearancesofa(cid:1)khya(cid:1)na,itiha(cid:1)sa,andpura(cid:1)n:a
+in the Aitareya and S(cid:2)atapatha Bra(cid:1)hman:as, with the use of itiha(cid:1)sa to interpret Rg
+Vedic sam:va(cid:1)da hymns, leading to an aitiha(cid:1)sika ‘‘school’’ of interpretation; mention
+of a(cid:1)khya(cid:1)navids as ‘‘those who know the stories’’; Cha(cid:1)ndogya Upani:sad 7.1.2 where
+itiha(cid:1)sapura(cid:1)n:areferstoafifthVeda;and202onthequestionofthecoherenceofR:g
+Vedic sam:va(cid:1)das independent ofa(cid:1)khya(cid:1)nasand itiha(cid:1)sas.
+26 That is, as far as I can ascertain it is a non-Vedic term: see Monier-Williams
+([1899] 1964, 212), citing nothing earlier than the Maha(cid:1)bha(cid:1)rata. Barbara Gombach
+introduces some uncertainty here. While positing throughout her dissertation that
+theMaha(cid:1)bha(cid:1)rata’s‘‘ancillarystoriesmaketheepicaVeda’’and‘‘Vedicize’’themain
+story(Gombach,2000,I,345andpassim)–asifthemainstorywerenotfilledwith
+Vedic allusionsitself—shelists upa(cid:1)khya(cid:1)naamongterms‘‘knownfromearlier Vedic
+literature’’alongwithitiha(cid:1)sa,a(cid:1)khya(cid:1)na,ga(cid:1)tha(cid:1),andsam:va(cid:1)da(346).Butthisiswithout
+citation.Gombachhasdoneimmensely valuableworkin mappingthenumberand
+variety of the epic’s interior sub-narratives, butthe term ‘‘ancillary’’ carries for her
+the general imputation of ‘‘addition’’ and ‘‘interpolation’’ (24, 184, 319) through
+‘‘centuriesofcompilation’’(302),inparticularwiththesuggestionthattheclustering
+of stories in Books 1, 3, 12, and 13 ‘‘might help explain different degrees of inter-
+polation’’(24).Allthisissaidwhilegranting‘‘thatsomeoftheancillarymaterialwas
+inspiredby theepic itself’’ (165).
+NOTWITHOUTSUBTALES:TELLINGLAWS 467
+whose significance – for both epics – has not been sufficiently
+appreciated.27
+As observed, the upa(cid:1)khya(cid:1)nas are precisely the units mentioned as
+omitted in the ‘‘Bha(cid:1)rata.’’ But what are the upa(cid:1)khya(cid:1)nas and, first of
+all, how many are there? Although one could arrive at shorter lists, I
+will count 67 upa(cid:1)khya(cid:1)nas in the Maha(cid:1)bha(cid:1)rata, as listed:
+1. S(cid:2)akuntala(cid:1)-Upa(cid:1)khya(cid:1)na 1.62–69
+2. Yaya(cid:1)ti-Upa(cid:1)khya(cid:1)na 1.70–80
+3. Maha(cid:1)bhi:sa-Upa(cid:1)khya(cid:1)na 1.91
+4. An:ima(cid:1)n:d:avya-Upa(cid:1)khya(cid:1)na 1.101
+5. Vyu:sita(cid:1):sva-Upa(cid:1)khya(cid:1)na 1.112
+6. Tapat(cid:1)i-Upa(cid:1)khya(cid:1)na 1.160–163
+7. Vasi:st:ha-Upa(cid:1)khya(cid:1)na 1.164–68, 173
+8. Aurva-Upa(cid:1)khya(cid:1)na 1.169–172
+9. Pan˜cendra-Upa(cid:1)khya(cid:1)na 1.189
+10. Sunda-Upasunda-Upa(cid:1)khya(cid:1)na 1.201–4
+11. S(cid:2)a(cid:1)rn_gaka-Upa(cid:1)khya(cid:1)na 1.220–25
+12. Saubhavadha-Upa(cid:1)khya(cid:1)na 3.15–23
+13. Nala-Upa(cid:1)khya(cid:1)na 3.50–78
+14. Agastya-Upa(cid:1)khya(cid:1)na 3.94–108
+15. R:(cid:2)syas(cid:2):rn_ga-Upa(cid:1)khya(cid:1)na 3.110–13
+16. Ka(cid:1)rtav(cid:1)irya/Ja(cid:1)madagnya-Upa(cid:1)khya(cid:1)na 3.115–17
+17. Sukanya(cid:1)-Upa(cid:1)khya(cid:1)na 3.122–25
+18. Ma(cid:1)ndha(cid:1)t:r-Upa(cid:1)khya(cid:1)na:r 3.126
+19. Jantu-Upa(cid:1)khya(cid:1)na 3.127–128
+Figure1. Maha(cid:1)bha(cid:1)rata Upa(cid:1)khya(cid:1)nas.
+27 Sukthankar partially tracked the Maha(cid:1)bha(cid:1)rata’s upa(cid:1)khya(cid:1)nas (those that have
+somethingtodowithBh(cid:1)argavas)withtheassumptionthatupa(cid:1)khya(cid:1)nasarenotonly
+‘‘episodes’’ but ‘‘digressions’’ (1936, 14, 17, 33, 35, 44, 65; see n. 11 above); Dange
+(1969) brings a Frazerian comparative folklore approach to many upa(cid:1)khya(cid:1)nas
+among the legends he discusses; Van Buitenen (1975, III, 182) also introduces the
+‘‘episodes’’inBook3asmore‘‘pious’’thanthoseinBook1,and‘‘extraneoustothe
+main story’’ yet ‘‘preserved in the library that is The Maha(cid:1)bha(cid:1)rata’’ because they
+each have ‘‘their own interest’’ – a view he extends elsewhere, as will be noted. Sri
+Aurobindo claimed to be able to identify two upa(cid:1)khya(cid:1)nas – Sa(cid:1)vitr(cid:1)i and Nala – as
+Vy(cid:1)asa’s by ‘‘the ultimate test of style’’ (Ghosh, 1991, 12, 44–54). Richest are Jami-
+son’s(1996) andParida’s(2004,47–172)treatmentsofnumerousupa(cid:1)khya(cid:1)nasmainly
+around the theme of hospitality: Jamison discussing nineteen of those listed below
+(numbers 1, 2, 6, 7, 13–15, 29, 31, 34–35, 40, 48, 50–51, 55, 57, 62, and 67), and
+Paridatwenty-oneofthem(numbers1,2,7,10,13–15,17,20,29–33,42,47,48,50,
+55,64,and67)—thelatter,whilestillbracketingthemamong‘‘interestingepisodes’’
+that were‘‘inserted’’ as‘‘this Epicgrew toa great extent’’(2004, 76).
+468 ALFHILTEBEITEL
+20. S(cid:2)yena-Kapot(cid:1)iya-Upa(cid:1)khya(cid:1)na 3.130–131
+21. A:st:a(cid:1)vakr(cid:1)iya-Upa(cid:1)khya(cid:1)na 3.132–134
+22. Yavakr(cid:1)ita-Upa(cid:1)khya(cid:1)na 3.135–139
+23. Vainya-Upa(cid:1)khya(cid:1)na 3.183
+24. Matsya-Upa(cid:1)khya(cid:1)na 3.185
+25. Mandu(cid:1)ka-Upa(cid:1)khya(cid:1)na 3.190
+26. Indradyumna-Upa(cid:1)khya(cid:1)na 3.191
+27. Dhundhuma(cid:1)ra-Upa(cid:1)khya(cid:1)na 3.192–195
+28. Pativrata(cid:1)-Upa(cid:1)khya(cid:1)na 3.196–206
+29. Mudgala-Upa(cid:1)khya(cid:1)na 3.246–247
+30. Ra(cid:1)ma-Upa(cid:1)khya(cid:1)na 3.257–276
+31. Sa(cid:1)vitr(cid:1)i-Upa(cid:1)khya(cid:1)na 3.277–283
+32. A(cid:1)ran:eyam upa(cid:1)khya(cid:1)nam yatra dharmo ’nvaz(cid:1)at sutam 3.295–299
+33. Indravijaya-Upa(cid:1)khya(cid:1)na 5.9–18
+34. Dambhodbhava-Upa(cid:1)khya(cid:1)na 5.94
+35. Amba(cid:1)-Upa(cid:1)khya(cid:1)na 5.170–193
+36. Vis(cid:2)va-Upa(cid:1)khya(cid:1)na 6.61–64
+37. Tripura-Upa(cid:1)khya(cid:1)na; Tripura-Vadha-Upa(cid:1)khya(cid:1)na 8.24
+38. [Karn:a-S(cid:2)alya-Sam: va(cid:1)da] Ham: sa-Ka(cid:1)k(cid:1)iya-Upa(cid:1)khya(cid:1)na 8.28
+39. Indra-Namuci-Upa(cid:1)khya(cid:1)na 9.42
+40. V:rddha-Kuma(cid:1)r(cid:1)i-Upa(cid:1)khya(cid:1)na 9.51
+41. S:od:as(cid:2)ara(cid:1)j[ik]a-Upa(cid:1)khya(cid:1)na 12.29
+42. Na(cid:1)rada-Pa(cid:1)rvata-Upa(cid:1)khya(cid:1)na 12.30
+43. Ra(cid:1)ma-Upa(cid:1)khya(cid:1)na 12.48–49
+44. Mucukunda-Upa(cid:1)khya(cid:1)na 12.75
+45. U:st:ragr(cid:1)iva-Upa(cid:1)khya(cid:1)na 12.113
+46. Dan:d:a-Utpatti-kathana-(Upa(cid:1)khya(cid:1)na) 12.122
+47. R::sabha-G(cid:1)(cid:3)t(cid:1)a/Sumitra-Upa(cid:1)khya(cid:1)na 12.125–126
+48. Kapota-Upa(cid:1)khya(cid:1)na 12.141–45
+49. K:rtaghna-Upa(cid:1)khya(cid:1)na 12.162–67
+50. Ja(cid:1)paka-Upa(cid:1)khya(cid:1)na 12.189–93
+51. Ciraka(cid:1)ri-Upa(cid:1)khya(cid:1)na 12.258
+52. Kun:d:adha(cid:1)ra-Upa(cid:1)khya(cid:1)na 12.263
+53. Na(cid:1)ra(cid:1)yan:(cid:1)iye Hayas(cid:2)ira-Upa(cid:1)khya(cid:1)na 12.335
+54. Un˜chav:rtty-Upa(cid:1)khya(cid:1)na 12.340–353
+55. Sudar(cid:2)sana-Upa(cid:1)khya(cid:1)na 13.2
+56. Vis(cid:2)va(cid:1)mitra-Upa(cid:1)khya(cid:1)na 13.3–4
+57. Bhan_ga(cid:1)s(cid:2)vana-Upa(cid:1)khya(cid:1)na 13.12
+58. Upamanyu-Upa(cid:1)khya(cid:1)na 13.14–18
+Figure1. (Continued).
+NOTWITHOUTSUBTALES:TELLINGLAWS 469
+59. Matan_ga-Upa(cid:1)khya(cid:1)na 13.28–30
+60. V(cid:1)itahavya-Upa(cid:1)khya(cid:1)na 13.31
+61. Vipula-Upa(cid:1)khya(cid:1)na 13.39–43
+62. Cyavana-Upa(cid:1)khya(cid:1)na 13.50–51
+63. N:rga-Upa(cid:1)khya(cid:1)na 13.69
+64. Na(cid:1)chiketa-Upa(cid:1)khya(cid:1)na 13.70
+65. K(cid:1)it:a-Upa(cid:1)khya(cid:1)na 13.118–120
+66. Ut[t]an_ka-Upa(cid:1)khya(cid:1)na 14.52–57
+67. Nakula-Upa(cid:1)khya(cid:1)na 14.92–96
+Figure1. (Continued).
+Thisnumberisreachedbyincludingallunitsthatarementionedtobe
+upa(cid:1)khya(cid:1)nas either in passing in the text,28 cited as upa(cid:1)khya(cid:1)nas in the
+PS,29orcalledupa(cid:1)khya(cid:1)nasinthecolophonsand/ortherunningheads
+forunitsinthePuneCriticalEdition.Inassessinginstancesmentioned
+onlyinthecolophons,Ierrtowardgenerosityandcountanythingasan
+upa(cid:1)khya(cid:1)nathatappearstobecalledsuchastheprominenttitleineither
+theNorthern(N)orSouthern(S)Recension.30Intreatingthisnumber
+forspecialattention,itshouldthusbeclearitisnotaboundariedgroup
+without overlap with other ‘‘ancillary story’’ material (see Gombach,
+28 There are three of these: numbers 27 (see 3.195.37c); 33 (see 5.18.16a), and 39
+(see 9.42.28a). The first two are also named upakhya(cid:1)nas in the colophons and
+headings; the thirdonly inpassing.
+29ThePSmentionstwoinBook1:numbers9(at1.2.87)and10(atverse90);four
+in Book 3: numbers 20 (115ab), 21 (auddalak(cid:1)iya = A:st:a(cid:1)vakr(cid:1)iyam) and 23 as two
+cited together (126ab), and 32 (127cd); and one in Book 5: number 35 (mentioned
+twice at 54a and 150f). Curiously, the PS’s description of the Ra(cid:1)ma-Upa(cid:1)khya(cid:1)na is
+‘‘theverydetailedRa(cid:1)ma(cid:1)yan:aupa(cid:1)khya(cid:1)na’’(ra(cid:1)ma(cid:1)yan:amupa(cid:1)khya(cid:1)nam…bahuvistaram;
+1.2.126cd).
+30Whilehighlightingsomeofthosediscussedbelow,thosewiththebestupa(cid:1)khya(cid:1)na
+credentialsforbothNandSarenumbers7(Vasi:st:ha),8,10(Sunda-Upasunda),11,
+13(Nala),15(R:(cid:2)sya(cid:2)srn_ga),27,28,30(Ra(cid:1)ma,usuallyasRa(cid:1)ma(cid:1)yan:a-Upa(cid:1)khya(cid:1)nainS),
+31(Sa(cid:1)vit:r),34,49(K:rtaghna),50(Ja(cid:1)paka,onwhichseeBedekar1963),51(Ciraka(cid:1)ri;
+onwhichseeBedekar,1962;Gombach,2000,I,209–317;Fitzgerald,2002,112),52,
+54(Un˜chav:rtti),60, 61, 66, and67(Nakula);those called upa(cid:1)khya(cid:1)nas only in N are
+numbers 3 (Maha(cid:1)bhi:sa), 9 (Pan˜cendra), 12, 16 (Ka(cid:1)rtav(cid:1)irya), 18, 20, 36, 37, 43
+(Ra(cid:1)ma[-Ja(cid:1)madagnya]), 45, 46, and 65; those only in S, numbers 29 (Mudgala), 47
+(Sumitra, called R::sabha-G(cid:1)ita(cid:1) in N), 48, 53 (Hayas(cid:2)iras), and 59. Mudgala has an
+apparent descendent named Mavutkalliyar (Maudgalya) Muni who, in Tamil
+(cid:1)
+Draupad(cid:1)(cid:3) cult stories, was married to Draupad(cid:1)(cid:3) in her previous life; see Hiltebeitel
+(1991, 484–485).
+470 ALFHILTEBEITEL
+2000). Rather, I wish to take the 67 and the reverberations between
+themasakindofsonarwith whichto plumbtheepic’sdepths.
+Itisnotevidenthowcertainsubtalescametobecalledupa(cid:1)khya(cid:1)nas
+and others by other genre terms. But there does not seem to be any-
+thing to discourage the view that traditional unit titles would have
+beenpartofthetext’searliestself-conception,sinceboththeNorthern
+and Southern Recensions provide intelligible patterns, in what one
+could call a colophon discourse, of giving common, similar, and
+sometimes alternate upa(cid:1)khya(cid:1)na and other names for adhya(cid:1)yas and
+largernarrativeunits.ThisisnotthecaseintheRa(cid:1)ma(cid:1)yan:a,forwhichI
+consider the number of upa(cid:1)khya(cid:1)nas to be zero. The Ra(cid:1)ma(cid:1)yan:a men-
+tions no upa(cid:1)khya(cid:1)nas in passing or in the upodgha(cid:1)ta, which would be
+the closest analogue to the PS; and the practice of giving names to
+sargasandlargerunitsdiffersfromthatforadhya(cid:1)yasandlargerunits
+in the Maha(cid:1)bha(cid:1)rata in one important respect. The Ra(cid:1)ma(cid:1)yan:a’s Ba-
+rodaCriticalEditionshowsthatwhileNorthernRecensioncolophons
+do name a few units primarily as upa(cid:1)khya(cid:1)nas,31 the Southern
+Recension gives none as either primary or secondary names. In fact,
+theSouthernRecensiongiveshardlyanysargaorlargerunitnamesat
+all.32 The extensive absence of Southern Recension sarga names,
+especially the total absence with regard to the few units called
+upa(cid:1)khya(cid:1)nas in the Northern Recension, confirms that there would be
+no upa(cid:1)khya(cid:1)nas in the Ra(cid:1)ma(cid:1)yan:a insofar as they could be counted as
+suchintheBarodaCriticalEdition,whichwouldrequiresomeparity
+across recensions. I take this as evidence that the few instances of
+naming units upa(cid:1)khya(cid:1)nas in Northern Ra(cid:1)ma(cid:1)yan:a manuscripts is late
+and probably affected by the usage in the Maha(cid:1)bha(cid:1)rata. Indeed, it
+would appear that whereas the Maha(cid:1)bha(cid:1)rata’s names for adhya(cid:1)yas
+31 These are the R:s(cid:2)ya(cid:2)s:rn_ga-Upa(cid:1)khya(cid:1)na (1.8–10), Vedavat(cid:1)i-Upa(cid:1)khya(cid:1)na (7.17),
+Sauda(cid:1)sa/Mitrasaha-Upa(cid:1)khya(cid:1)na (7.57), Mandha(cid:1)t:r-Upa(cid:1)khya(cid:1)na (7.59), S(cid:2)veta-Upa(cid:1)khya(cid:1)na
+(7.69), and Id:a(cid:1)/Ila(cid:1)-Upa(cid:1)khya(cid:1)na (7.78–79). R:s´yas´:rn_ga and Mandh(cid:1)at:r also give their
+names to Maha(cid:1)bha(cid:1)rata upa(cid:1)khya(cid:1)nas. Seven units are also given upa(cid:1)khya(cid:1)na as a
+secondary title: Surabh(cid:1)i-Upa(cid:1)khya(cid:1)na (2.68), Sugr(cid:1)iva-Vaira-Upa(cid:1)khya(cid:1)na (4.10),
+Dundubhi(bher)-Upa(cid:1)khya(cid:1)na (4.11), Pu:spaka-Upa(cid:1)khya(cid:1)na (6.109), Dan:d:a/Dan:d:aka-
+Upa(cid:1)khyana (7.70–72), V:rtra-Vadha-Upa(cid:1)khya(cid:1)na (7.75–76), and Yajn˜a-Upa(cid:1)khya(cid:1)na
+(7.77) – again, only in the Northern Recension, as with minor usages in the collo-
+phonsto2.58,6.79,and7.81.Likewise,amidNorthernvariantsfor1.52,onereads
+S(cid:2)ata(cid:1)nanda-Upa(cid:1)khya(cid:1)ne [Vasi:st:ha]-Vis(cid:2)va(cid:1)mitra-sam:va(cid:1)dah: as a secondary title using
+upa(cid:1)khya(cid:1)nawith referenceto the tale’snarratorrather thanitstopic.
+32Anintelligibleexceptionoccursfrom6.97to100,fromthedeathofR(cid:1)avan:atothe
+consecrationofVibh(cid:1)(cid:3):san:a.Heresouthernmanuscriptsbeginashortdisplayofinterest
+innamingsargas,evidentlybecausetheyconcernasuccessioninthissouthernroyal
+line.Cf.6.116,withaflourishofsoutherninterestintitlingR(cid:1)ama’sconsecration.
+NOTWITHOUTSUBTALES:TELLINGLAWS 471
+and larger units tend to be genre-related, the Ra(cid:1)ma(cid:1)yan:a’s names for
+sargas and larger units tend to be mainly descriptive of events that
+transpire in the sarga. Most important, the Ra(cid:1)ma(cid:1)yan:a has neither a
+colophondiscourseaboutupa(cid:1)khya(cid:1)nasnorapracticeofusingthetermin
+passingthatcouldhavegivenrisetothefewNorthernusagesonefinds.
+A(cid:1)khya(cid:1)naandupa(cid:1)khya(cid:1)naarethusbothamongthemultigenreterms
+by which the Maha(cid:1)bha(cid:1)rata characterizes itself and its varied compo-
+nents. If a(cid:1)khya(cid:1)na – even ahead of itiha(cid:1)sa – is the term used most
+frequently to describe the Maha(cid:1)bha(cid:1)rata as a whole, and upa(cid:1)khya(cid:1)na,
+perhapsbizarrely,oneoftheleasttodoso(theMaha(cid:1)bha(cid:1)ratawouldbe
+a subtale to what? the Veda?), a first order of business would be to
+distinguish uses of a(cid:1)khya(cid:1)na from upa(cid:1)khya(cid:1)na. Clearly, there would be
+ananalogybetweentheusagesofa(cid:1)khya(cid:1)na:upa-a(cid:1)khya(cid:1)naandparvan:
+upa-parvan.Inbothcasesupa-implies‘‘subordinate’’and‘‘lesser’’(as
+inupa-pura(cid:1)n:afor‘‘lesserpur(cid:1)an:as’’),butalsodenoteswaysofbreaking
+the Maha(cid:1)bha(cid:1)rata down by terms that relate its whole to its parts: the
+totality of its parts in the case of the upaparvans; some of its parts in
+the case of the upa(cid:1)khya(cid:1)nas. A(cid:1)khya(cid:1)na and upa(cid:1)khya(cid:1)na are frequently
+used interchangeably (as indeed with the other ‘‘narrative’’ terms
+mentionedabove).Sometimes,especiallyinthePS,itwouldseemthat
+metrical fit is all that has decided which of the two terms was used.33
+But the first usage of a(cid:1)khya(cid:1)na to self-describe a sub-narrative in
+passingmayprovideaclueastoausefuldistinction.Thefirsta(cid:1)khya(cid:1)na
+narrated in its entirety (1.12.5cd), ‘‘the great A(cid:1) st(cid:1)(cid:3)ka a(cid:1)khya(cid:1)na (ma-
+hada(cid:1)khya(cid:1)nama(cid:1)st(cid:1)ikam)’’(1.13.4a),istheoft-interruptedA(cid:1)st(cid:1)ikaparvan
+(1.13–53), the epic’s fifth upaparvan. Like the oft-interrupted [Maha(cid:1)]-
+bha(cid:1)rata-A(cid:1)khya(cid:1)na, it brims with substories of its own.34 It is delivered
+by the bard Ugras´ravas to the Sages (R::sis) of the Naimi:sa Forest as
+the main introductory piece to entertain that audience in the epic’s
+outerframe. Incontrast,upa(cid:1)khya(cid:1)na designatesmajor uninterrupted35
+33Seee.g.1.2.124c–125d,where,afterreferenceto‘‘theseriesofupa(cid:1)khya(cid:1)nas’’told
+in ‘‘the encounter with M(cid:1)arkan:d:eya,’’ one finds one of them, Indradyumna
+Upa(cid:1)khya(cid:1)na,referred to as ana(cid:1)khya(cid:1)na.
+34ByGombach’scount(2000,I,10–22),ithas6‘‘ancillarystories,’’withthefifth
+having its own substory about the two Jaratk(cid:1)arus, male and female, on which see
+Hiltebeitel2001,174–176,withasuggestionthatthisstoryoffersakeyastohowthe
+Maha(cid:1)bha(cid:1)rata’stales andsubtales ‘‘fit.’’
+35OnecouldmakeanexceptionfortheinclusionoftheAurva-Upa(cid:1)khya(cid:1)na(1.169–
+172) within the Vasi:st:ha-Upa(cid:1)khya(cid:1)na (1.164–173), on which, see Sukthankar (1936,
+14):‘‘a digressionwithina digression.’’ ButI wouldstressas overridingfactors the
+closethematicrelationbetweenthetwostoriesandtheuninterruptedcharacterofthe
+upa(cid:1)khya(cid:1)namaterialitself,whichincludesVasi:st:hanotonlyinthesetwoupa(cid:1)khya(cid:1)nas
+butintheTapat(cid:1)i-Upa(cid:1)khya(cid:1)nathatimmediatelyprecedesthem(1.160–163).
+472 ALFHILTEBEITEL
+subtales told to rapt audiences usually composed of the epic’s heroes
+andheroines,oralternatelytooneortheotheroftheaudiencesinits
+frame stories.
+As to upa(cid:1)khya(cid:1)na narrators, Vais´amp(cid:1)ayana addresses ten to
+Janamejaya (1–4, 11, 32, 39–40, 66–67); Bh(cid:1)(cid:3):sma narrates twenty-
+three: 21 (44–52, 54–65) to Yudhi:st:hira and the P(cid:1)an:d:avas and two
+(35–36) to Duryodhana; Lomas´a R::si tells eight of nine (from num-
+bers 14–22) to the P(cid:1)an:d:avas, M(cid:1)arkan:d:eya R::si also tells them eight
+(23–28 and 30–31), and K:r:sn:a four (12, 41–42); Citraratha narrates
+three (6–8) to Arjuna and the P(cid:1)an:d:avas; S´alya tells two: 1 (33) to
+Yudhi:st:hira, the other (38) to Karn:a and Duryodhana; Vy(cid:1)asa tells
+one to Draupad(cid:1)(cid:3)’s father Drupada (9) and another to the P(cid:1)an:d:avas
+(29); and six are told by single-time speakers: Kunt(cid:1)(cid:3) to P(cid:1)an:d:u (5, the
+only upa(cid:1)khya(cid:1)na spoken by a woman), N(cid:1)arada to the P(cid:1)an:d:avas (10);
+B:rhadas´va to the P(cid:1)an:d:avas (13); Ak:rtavran:a to the P(cid:1)an:d:avas (15,
+interrupting Lomas´a’s skein); R(cid:1)ama J(cid:1)amadagnya to the Kauravas
+(34);andDuryodhanatoKarn:aandS´ alya(47).Astoauditors,ofthe
+56 that are addressed to main characters, 49 are told primarily to
+Yudhi:st:hira, 48 of these to him and his P(cid:1)an:d:ava brothers, and 44 of
+these also to their wife Draupad(cid:1)(cid:3) (all of these told once the P(cid:1)an:d:avas
+and Draupad(cid:1)(cid:3) are in the forest). On the Kaurava side, three are
+addressed to Duryodhana and two to Karn:a. Adding the 10 told to
+JanamejayaandonenarratedtoP(cid:1)an:d:ubyKunt(cid:1)(cid:3),onefindsthat65of
+the 67 upa(cid:1)khya(cid:1)nas are addressed directly to members of the larger
+Kaurava household to which all these listeners belong, and of which
+Yudhi:st:hira is clearly the chief listener. Not irrelevant to this pattern
+is the one in which King Drupada hears upa(cid:1)khya(cid:1)na 9 as an expla-
+nation of how his daughter can marry into that household. And
+likewise not irrelevant would be the last upa(cid:1)khya(cid:1)na in this tally, the
+anomalous number 53 known in S colophons (see n. 30) as the
+Na(cid:1)ra(cid:1)yan:(cid:1)iye Haya(cid:2)sira-Upa(cid:1)khya(cid:1)na. Here the primary narrator is
+Ugras´ravas, who answers a question by S´aunaka (speaking for the
+Naimi:sa Forest R::sis) about the Horse’s Head, a form of Vi:sn:u, by
+quoting what Vy(cid:1)asa told Janamejaya about that subject.36 With
+Janamejaya as one of the two listeners, one can now say that all the
+upa(cid:1)khya(cid:1)nas are addressed in one way or another to those with ties to
+the Kaurava household. Moreover, with Vy(cid:1)asa, author of the
+36 The Critical Edition has suppressed this anomalous feature, overriding the
+preponderant manuscript evidence at 12.335.1 and 9 to have Janamejaya cite
+Yudhi:st:hira as the oneaddressed byVy(cid:1)asa. SeeHiltebeitel (press-b).
+NOTWITHOUTSUBTALES:TELLINGLAWS 473
+outermost frame, addressingJanamejaya for once in the inner frame,
+where he otherwise sits silently and leaves the recitation to
+Vais´amp(cid:1)ayana,andtohaveallthisfurtherreportedbyUgras´ravasto
+the Naimi:sa Forest R::sis, means that this upa(cid:1)khya(cid:1)na cuts across the
+Maha(cid:1)bha(cid:1)rata’s three frames.37 Further, that the Naimi:sa Forest R::sis
+are, this one and only time, an interested party to a subtale suggests
+their proximity to this mysterious Veda-reciting form of Vi:sn:u that
+resides in the ‘‘great northern’’ or milky ocean, which seems to be
+somewhere, like the Naimi:sa (‘‘Twinkling’’) Forest itself, in the
+heavenly night sky.38
+Anotherapproachtotheupa(cid:1)khya(cid:1)nasistothinkaboutvolumeand
+proportion. Taking the Maha(cid:1)bha(cid:1)rata’s own numbers, on the face of
+it,iftheepichas100,000coupletsandVy(cid:1)asacomposedaversionofit
+in24,000couplets‘‘withouttheupa(cid:1)khya(cid:1)nas’’(1.1.61),theupa(cid:1)khya(cid:1)nas
+should constitute 76% of the whole. That proportion is not to be
+found. Calculating from the roughly 73,900 couplets in the Critical
+Edition,39 the full total for the 67 upa(cid:1)khya(cid:1)nas is 10,521 couplets or
+13.87%; and if one adds certain sequels40 to four of the upa(cid:1)khya(cid:1)nas
+totaling780versestoreachthemostgenerouscountof11,031verses,
+onecouldsaythat,atmost,14.93%oftheMaha(cid:1)bha(cid:1)rataiscomposed
+of upa(cid:1)khya(cid:1)na material. While we are nowhere near 76%, these pro-
+portions are not insignificant. Moreover, one can get a bit closer to
+76% if one keeps in mind the interchangeability of the epic’s terms
+for narrative units and calculates from the totality of its substory
+material. According to Barbara Gombach, ‘‘nearly fifty percent’’ of
+the Maha(cid:1)bha(cid:1)rata is ‘‘represented by ancillary stories,’’ with Books 1,
+3, 12, and 13 cited as the four in which ‘‘the stories cluster more
+densely’’ than in the other Books (2000, I, 5 and 24). Gombach (I,
+194;225)gives68%fortheancillarystoriesintheS(cid:2)a(cid:1)ntiparvan(Book
+12), whichhas 14upa(cid:1)khya(cid:1)nas;65%for thosein theAnus(cid:2)a(cid:1)sanaparvan
+37 On the Na(cid:1)ra(cid:1)yan:(cid:1)iyacontext ofthis exchange, seeHiltebeitel (press-b).
+38 See Hiltebeitel (2001a, 158) and passim: naimi:sa, ‘‘twinkling,’’ seems to evoke
+the heavenly night sky, at least in the Maha(cid:1)bha(cid:1)rata. On the Horse’s Head and its
+location, seeMbh 12.330.36–39;335.3, 27, and34, andHiltebeitel (press-b).
+39VanNooten(1971,50):‘‘about73,900’’;Brockington1998,4:‘‘nearly75,000.’’
+A count has to be approximate because the Maha(cid:1)bha(cid:1)rata contains prose passages.
+Onealso hasto countall coupletsas ‘‘(cid:2)slokas.’’
+40 These are the 151-verse Uttara-Ya(cid:1)ya(cid:1)ta (1.81–88), which continues upa(cid:1)khya(cid:1)na
+number2;the368-versecontinuationofno.24at3.186–188;the203-versesequelto
+no. 62 in the Cyavana-Nahu:sa-Sam:va(cid:1)da (13.51–56); and the 58-verse Maitreya-
+Bhik:sa(cid:1)(13.121–123) which, rather more loosely than the other cases, continues no.
+65. Iconsider itmore meaningfulto addupa(cid:1)khya(cid:1)na-sequels thantheir prequels.
+474 ALFHILTEBEITEL
+(Book 13), with eleven upa(cid:1)khya(cid:1)nas; 55% for those in the A(cid:1)ran:yaka-
+parvan (Book 3), with 21 upa(cid:1)khya(cid:1)nas; and I calculate 44% for the
+A(cid:1)diparvan (Book 1), with eleven upa(cid:1)khya(cid:1)nas. Of other Books that
+contain more than one upa(cid:1)khya(cid:1)na, the A(cid:1)svamedhika- (Book 14) with
+two, S(cid:2)alya- (Book 9) with two, and Udyogaparvan (Book 5) with
+threearecomprisedof54%,4128%,and17%ancillarystorymaterial
+respectively.
+Fifty-seven of the sixty-seven upa(cid:1)khya(cid:1)nas thus occur in parvans 1,
+3, 12, and 13 where ‘‘stories cluster’’ most densely. There are, how-
+ever, two major differences in the ways upa(cid:1)khya(cid:1)nas are presented in
+the two early Booksfrom the two laterones. Whereas Books 1 and 3
+providemultiplenarratorsfortheir32upa(cid:1)khya(cid:1)nas,allbut3ofthe25
+inBooks12and13arespokenbyonenarrator,Bh(cid:1)(cid:3):sma(whohastold
+two upa(cid:1)khya(cid:1)nas earlier, one each in Books 5 and 6 [numbers 35 and
+36], to Duryodhana). And whereas Books 1 and especially 3 show a
+tendency to cluster their upa(cid:1)khya(cid:1)nas (two in a row are told by Vai-
+s´amp(cid:1)ayana and three in a row by the Gandharva Chitraratha in
+Book 1; nine, five, and two in a row by R::sis whom the P(cid:1)an:d:avas
+encounter while pilgrimaging in Book 3), in Bh(cid:1)(cid:3):sma’s run of four
+hundred and fifty adhya(cid:1)yas in Books 12 and 13, he tends to present
+his twenty-one upa(cid:1)khya(cid:1)nas there only intermittently. Yet there is one
+run, from the end of Book 12 through the first third of Book 13,
+where he concentrates nine of them. These two books run together
+the totality of Bh(cid:1)(cid:3):sma’s postwar instructions to Yudhi:st:hira in four
+consecutive upaparvans, which James Fitzgerald calls ‘‘four large
+anthologies’’ (2004 a,b, 79–80). Both Books abound in dialogues
+(sam: va(cid:1)das), ‘‘ancient accounts’’ (itiha(cid:1)sam pura(cid:1)tanam),42 and other
+genres. Why then does Bh(cid:1)(cid:3):sma intensify his upa(cid:1)khya(cid:1)nas at this
+juncture? This question will be taken up in Section C.
+Theupa(cid:1)khya(cid:1)nas’contentshouldalsobeimportant,andallowusto
+identifycertainthemesthatrecurintheminmeaningfulpatterns.But
+for now, the best way to register their content would be by their
+primary personages or protagonists. This approach makes it possible
+to break the 67 down into no less than ten groupings: 17 about
+41ThisisbyGombach’saccountwhich–Ithinkdubiously–includestheAnug(cid:1)ita(cid:1)
+(14.16.12–19.60).
+42Twopre-warupa(cid:1)khya(cid:1)nas,numbers10(1.201.1)and33(5.9.2),citethisphraseto
+describetheircontent,asdofourteenpost-warones:nos.41(12.29.12),44(75.3),46
+(12.122.1),49(162.28),50(189.6,192.2),52(263.2),55(13.2.4),57(12.2),59(28.6),
+61(40.2), 64(70.2), and67(14.95.4).
+NOTWITHOUTSUBTALES:TELLINGLAWS 475
+leading lights of the great Brahman lineages,43 fifteen about heroic
+kings of varied dynasties,44 eleven about animals (some divine),45
+seven about gods and demons,46 four (including the first two) about
+early kings of the main dynasty,47 four about women,48 three about
+the inviolability of worthy Brahmans and hurdles to attaining that
+status,49 three about revelations concerning K:r:sn:a,50 two about
+current background to the epic’s main events,51 and one about the
+P(cid:1)an:d:avas as part of the main story.52 From this, the only useful
+generalization would seem to be that such content is represented as
+being of interest to the rapt audiences that listen to these tales. But
+here an important point has been conceded by certain scholars who
+have been prone to correlate such variety with lateness and textual
+43Numbers7,8,14,15,16,17,21,22,23,43,50,51,58,61,62,64,66.Alleightof
+themajorBrahmanlineagesarefeaturedatleastonce:fifteen(2,8,16,17,18,26,34,
+35, 43, 56, 60, 61, 62, 66, 67) feature Bh(cid:1)argavas; nine (3, 6, 7, 8, 30, 44, 53, 56, 65)
+feature V(cid:1)asi:st:has, including Vy(cid:1)asa); six (1, 22, 28, 50, 56, 62) feature Vais´v(cid:1)amitras;
+four(1,15,16,43)featureK(cid:1)as´yapas;three(14,33,67)featureAgastya;three(23,47,
+49,51)featureGautamas;two(22,60)featureBharadv(cid:1)aja;andtwo(23,54)feature
+A(cid:1)treyas(thelatter,apparently,assuggestedbysoma(cid:1)nvayeat12.341.2).Thenumber
+featuringBh(cid:1)argavascouldberaisedto22ifwenote,asSukthankardoes(1936,28–
+29),thatM(cid:1)arkan:d:eyaisaBh(cid:1)argava.Butthesenumberswouldnotsuggestthatthe
+upa(cid:1)khya(cid:1)nasare primarily Bh(cid:1)argavamaterial. Seen. 11above.
+44 Numbers13, 18, 19,20, 26, 27,29, 30, 41,42, 44, 46,47, 55, 57.
+45 Numbers11, 24, 25,38, 45, 48,49, 53, 54,65, 67.
+46 Numbers 4, 9, 10, 33, 37, 39, 52. Most frequently mentioned are: Indra in 26
+upa(cid:1)khya(cid:1)nas(5,6,9,10,13,14,20,21,29,33,39,41,42,43,46,48,49,50,51,54,55,
+57,59,61,66,67);Agniin12(11,13,27,30,33,41,43,46,48,55,57,66);Brahm(cid:1)ain
+12(9,10,14,24,27,29,30,45,46,49,50,53);Dharmaineight(4,9,32,47,50,55,
+66,67);Vi:sn:uineight(9,14,27,30,33,46,50,53);S´ivainsix(9,10,14,35,46,58);
+Yamainfive(9,13,31,46,50);Varun:ainfive(13,23,30,33,46);Kuberainfive(13,
+33, 35, 44, 46); B:rhaspati in five (2, 33, 41, 46, 67); Hayas´iras in three (46, 47, 53);
+Somainthree(5,33,46);fourgodsintwoeach:Su(cid:1)rya(6,54),Gan_g(cid:1)a(9,41),M:rtyu
+(46, 50), Krodha (50, 67); and numerous gods in one: V(cid:1)ayu (30), S´r(cid:1)(cid:3) (9), S´ac(cid:1)(cid:3) (33),
+Vis´vakarman(10),As´vins(17),Tva:st::r(33),Upas´ruti(33),Earth(43),Sarasvat(cid:1)(cid:3)(46),
+Skanda(46),Nir:rti(46),K(cid:1)ala(50),Vedam(cid:1)at(cid:1)aS(cid:1)avitr(cid:1)(cid:3)(50),Svarga(50),K(cid:1)ama(50),
+Kun:d:adh(cid:1)ara (52).
+47 Numbers1, 2, 3,6.
+48Numbers5,28,31,40.Butwomenfigurecentrallyinatleast10others,notably
+1,6,17,and35whichfeaturewomenintheirtitlesandcouldhavebeencountedin
+this category.
+49 Numbers56, 59, 60.
+50 Numbers34, 36, 63.
+51 Numbers 12, 35. These are the only two upa(cid:1)khya(cid:1)nas where a character in the
+mainstorytellsaboutothercharactersinthemainstory.Butcf.11.27.6-11,Kunt(cid:1)(cid:3)’s
+shortaccountofKarn:a’smysteriousbirth,calledana(cid:1)khya(cid:1)naintheParvasam:graha
+at 1.2.188a.
+52 Number 32.On this anomaly,seebelow.
+476 ALFHILTEBEITEL
+strata. Regarding the most famous of all the Maha(cid:1)bha(cid:1)rata’s
+upa(cid:1)khya(cid:1)nas, the Nala-Upa(cid:1)khya(cid:1)na, Fitzgerald regards ‘‘Nala’’ and
+someothernon-upa(cid:1)khya(cid:1)nastoriesas‘‘goodexamplesofpassagesthat
+do exhibit an inventive freedom suggestive of ‘fiction.’’’53 More
+pointedly, Gombach credits Madeleine Biardeau’s study of ‘‘Nala’’
+(1984, 1985) as a ‘‘case for regarding this upa(cid:1)khya(cid:1)na as a story com-
+posedinandfortheepictodeepenitssymbolicresonances’’(2000,I,
+73).Allowing‘‘thatsomeoftheancillarymaterialwasinspiredbythe
+epicitself,’’Gombachsettlesforamiddleposition:thatsomeancillary
+storiesareinterpolateddoesnotmeanthatallareinterpolated(2000,
+I, 164–165). But this renders the notion of interpolation and the
+distinction between authors on the one hand and redactors, editors,
+and compilers on the other as rather whimsical.54 ‘‘Nala’’ is what
+Biardeau now calls one of Book 3’s three ‘‘mirror stories’’ (2002, I,
+412–413) – tales that mirror the listeners’ (the P(cid:1)an:d:avas and Drau-
+pad(cid:1)(cid:3)’s)currenttrials.Weshallnotesomeotherupa(cid:1)khya(cid:1)nasthatmerit
+this term, and also propose ‘‘puzzle stories’’ as another category of
+interactivesubtale.Onceoneadmitsthatonestoryiscomposedto fit
+one or another feature of the epic’s wider surroundings, the principle
+cannot be easily shut off, as we shall observe.
+AstotheRa(cid:1)ma(cid:1)yan:a,wenoticedatthebeginningofthissectionthat
+the three terms ka(cid:1)vya, carita, and a(cid:1)khya(cid:1)na are woven through the
+upodgha(cid:1)ta. Katha(cid:1) (story) is also used there, but with less specificity.
+Andwehaveobservedthatupa(cid:1)khya(cid:1)naisnotusedatallforthewhole
+and, technically speaking, also not used for parts. It is, moreover,
+noteworthy that itiha(cid:1)sa (history), which along with a(cid:1)khya(cid:1)na is one of
+thetwomaintermstodescribetheMaha(cid:1)bha(cid:1)rata,isnotonlyunusedto
+describe the Ra(cid:1)ma(cid:1)yan:a but, excepting two interpolations,55 absent
+from its entire Critical Edition text. In this, it is like the absence of
+ka(cid:1)vyaintheMaha(cid:1)bha(cid:1)rata’sCriticalEdition;asifthetwotextswerein
+53 Fitzgerald (2003, 207), discussing Hiltebeitel (2001a, chap. 6) on ‘‘Nala,’’ and
+mentioning the S´ukastory as well.
+54Withhistestofstyle(seen.27),SriAurobindosoughttosalvagetheNala-and
+Sa(cid:1)vitr(cid:1)i-Upa(cid:1)khya(cid:1)nas for Vy(cid:1)asa as works of ‘‘the very morning of Vyasa’s genius,
+whenhewasyoungandardent’’(Ghosh,1991,44).Oncompilersandredactors,see
+my discussion of this point with regard to Na(cid:1)ra(cid:1)yan:(cid:1)iya scholarship in Hiltebeitel
+(press-b), and Gombach’s formulation that ‘‘the Mbh’s editors and redactors took
+painstoarchaicizetheepic’’(1300)throughtheancillarystories,asif‘‘interpolators’’
+wereeditorsandredactorsandcompilerswhocamealonglaterthanauthors,andas
+ifthere were notsuch archaizingas well in the presumablyprior ‘‘epic.’’
+551,Appendix1line4;6.3709*.IthankPathak(2005,50)forthesereferencesand
+formakingavailabletomeherfurtherchartingofthetwoepics’termsforthemselves
+in the starpassagesand appendicesof their critical editions.
+NOTWITHOUTSUBTALES:TELLINGLAWS 477
+earlyagreementtoyieldoneofthesetermstotheother.Neitherdoes
+pura(cid:1)n:a(ancientlore)describetheRa(cid:1)ma(cid:1)yan:a,56whichevidentlyplaces
+itself outside the itiha(cid:1)sa-pura(cid:1)n:a tradition that Cha(cid:1)ndogya Upani:sad
+7.1.2 links with N(cid:1)arada as a fifth Veda.57 Similarly, upa(cid:1)khya(cid:1)na,
+‘‘subtale,’’ is used only in the Maha(cid:1)bha(cid:1)rata, although there is an
+interpolated verse in the Ra(cid:1)ma(cid:1)yan:a’s As´vamedha recital scene where
+the twins begin singing the poem and tell R(cid:1)ama that the Ra(cid:1)ma(cid:1)yan:a
+has24thousandversesandahundredupa(cid:1)khya(cid:1)nas(7.1328*,following
+7.85.20) – suggesting Maha(cid:1)bha(cid:1)rata influence. Other words the
+Maha(cid:1)bha(cid:1)ratausestodefineitselfsuchas(cid:2)sa(cid:1)stra(treatise)donotdefine
+the Ra(cid:1)ma(cid:1)yan:a at all.
+A distinctive point about the usage of ka(cid:1)vya is that it is used only
+at theRa(cid:1)ma(cid:1)yan:a’s twoframing points:58 nine timesin theupodgha(cid:1)ta,
+four in the two chapters of the As´vamedha recital scene (7.84–85)
+where the hints left at the end of the upodgha(cid:1)ta are picked up as the
+framefinallyentersthestory(orwherethestoryfinallyreturnstothe
+frame).Itthushasakindofbookendfunctionofdescribingthework
+as poetry, most notably that ‘‘it is replete with’’ all the ‘‘poetic sen-
+timents’’ or rasas (1.4.8).59 In contrast to ka(cid:1)vya, carita implies the
+p
+‘‘movement’’ ( fficar) of the main narrative. Of its four usages in the
+upodgha(cid:1)tatocharacterizetheRa(cid:1)ma(cid:1)yan:a,twopresentajuxtaposition.
+The first has Brahm(cid:1)a enjoin V(cid:1)alm(cid:1)(cid:3)ki to ‘‘compose the whole adven-
+ture of R(cid:1)ama (ra(cid:1)masya caritam: k:rtsnam: kuru)’’ (1.2.30cd). The sec-
+ond,onceitisimpliedthatV(cid:1)alm(cid:1)(cid:3)kihascomposedit,calls‘‘thewhole
+Ra(cid:1)ma(cid:1)yan:a poem (ka(cid:1)vya) the great adventure of S(cid:1)(cid:3)t(cid:1)a (s(cid:1)ita(cid:1)ya(cid:1)s caritam
+mahat)’’ (1.4.6). This suggests that although R(cid:1)ama’s adventure is
+V(cid:1)alm(cid:1)(cid:3)ki’s starting point the complete poem is also about S(cid:1)(cid:3)t(cid:1)a’s
+56Though,curiously,theonlyinstancewherepura(cid:1)n:adescribesastoryofanykind
+occurswhenR(cid:1)amahearsfromthefallenvultureSamp(cid:1)atihowtheR::siNis´(cid:1)akaraonce
+toldhimthat,‘‘inanancientlegend(pura(cid:1)n:e)’’heonceheard(4.61.3),R(cid:1)ama’slifewas
+foretold withsome strange andexceptional twists(4–13).
+57 Clearly the Maha(cid:1)bha(cid:1)rata does not do this. I would even suggest that V(cid:1)alm(cid:1)(cid:3)ki
+might be registering a distrust of this tradition, which the Ra(cid:1)ma(cid:1)yan:a puts under
+questionrightatthebeginningwhenN(cid:1)aradadescribesR(cid:1)amaastheidealman.Note
+that in the Maha(cid:1)bha(cid:1)rata, N(cid:1)arada includes R(cid:1)ama among the sixteen great kings of
+oldwhosepastgloriesherecounts(twice)inthe:sod:as(cid:2)ara(cid:1)jak(cid:1)iya,thesecondversion
+being upa(cid:1)khya(cid:1)nanumber 41,as quoted byK:r:sn:a.
+58 Aside from ka(cid:1)vya, the only other words to describe the Ra(cid:1)ma(cid:1)yan:a at the
+As´vamedharecitalarecaritaand,asthetwinsnowsingit,g(cid:1)ita(cid:1):‘‘Havingheardthe
+sweetness of the song (g(cid:1)itama(cid:1)dhuryam), he [R(cid:1)ama] returned to the sacrificial pavi-
+lion’’ (7.85.23).
+59Ontherasasintheupodgha(cid:1)ta,seetherichdiscussioninPathak(2005);similarly,
+in the Sundaraka(cid:1)n:d:a,see Goldmanand Sutherland Goldman(1996, 35–37).
+478 ALFHILTEBEITEL
+adventure.The‘‘profoundadventure’’thatR(cid:1)amaprepareshimselfto
+hear at the end of the upodgha(cid:1)ta would thus include the two adven-
+tures intertwined (4.26). This sense of carita as ongoing double
+adventure carries through the narrative. For instance, when
+Hanum(cid:1)an begins to tell Bharata about ‘‘R(cid:1)ama’s whole adventure in
+theforest(sarvam: ra(cid:1)masyacaritam: vane)’’(6.114.4cd)neartheendof
+Book 6, he tells mainly of the separate adventures of R(cid:1)ama and S(cid:1)(cid:3)t(cid:1)a
+once the latter is abducted (cf. 2.54.18). Carita is also the main word
+to describe the Ra(cid:1)ma(cid:1)yan:a’s adventures in course (2.54.18; 6.114.4) –
+andeveninthecourseofhearingit.Whenthetwinsbeginrecitingthe
+poem and R(cid:1)ama asks who composed it, they reply, ‘‘The blessed
+V(cid:1)alm(cid:1)(cid:3)ki, who has reached the presence of the sacrifice, is the author
+(karta(cid:1))bywhomthisadventureisdisclosedtoyouwithoutremainder
+(yena idam: caritam: tubhyam as(cid:2)e:sam: sampradar(cid:2)sitam)’’ (7.85.19).
+Meanwhile, a(cid:1)khya(cid:1)na is used four times in the upodgha(cid:1)ta. It
+describes the benefits of hearing the tale’s recital (1.1.78), that it is
+‘‘unsurpassed’’ as a ‘‘tale exemplary of righteousness (dharmyam
+a(cid:1)khya(cid:1)nam uttamam)’’ (1.4.11), that it is a ‘‘wondrous tale told by the
+sage’’thathe‘‘completedinperfectsequence’’as‘‘thegreatsourceof
+inspiration for poets (kav(cid:1)ina(cid:1)m)’’ (1.4.20), and that R(cid:1)ama urged his
+brothers to ‘‘listen to this tale whose words and meanings alike are
+wonderful as it is sweetly sung by these two godlike men’’ (1.4.25). It
+is also the first term to describe the Ra(cid:1)ma(cid:1)yan:a as the recital of its
+mainstorybegins:‘‘Ofthesekingsofillustriouslineage,theIk:sv(cid:1)akus,
+this great tale is known as the Ra(cid:1)ma(cid:1)yan:a. I will recite it from the
+beginning in its entirety, omitting nothing. It is in keeping with the
+goals of righteousness, profit, and pleasure and should be listened to
+with faith’’ (1.5.3–4). A(cid:1)khya(cid:1)na can also be used for tales told in
+course, most notably for the ‘‘glad tidings’’ that Hanum(cid:1)an brings at
+various points to others (5.57.1, 59.6, 6.101.17, 113.40).60 It is thus
+complementary to both ka(cid:1)vya and carita. It links the narrative to
+poetry and the inspiration of poets while also bringing listeners into
+the unfolding of the hero and heroine’s double adventure, the
+reiterations of that adventure by Hanum(cid:1)an, and the blessings that it
+brings when heard with faith.
+The Ra(cid:1)ma(cid:1)yan:a thus makes very selective use of limited terms. In
+contrast to the Maha(cid:1)bha(cid:1)rata, they are used strategically rather than
+60 In contrast to these four consistent usages and the four in the upodgha(cid:1)ta, it is
+certainlyinaminorkeythata(cid:1)khya(cid:1)naisusedjustonce–forthe‘‘taleofthedescent
+of the Gan_g(cid:1)a’’ (1.43.30)– fora unit withinthe whole.
+NOTWITHOUTSUBTALES:TELLINGLAWS 479
+definitionally, and are not used to emphasize the interplay between
+theRa(cid:1)ma(cid:1)yan:a’spartsanditswhole.Emergingfromandflowingback
+into the passages that frame the Ra(cid:1)ma(cid:1)yan:a (the upodgha(cid:1)ta and the
+As´vamedha recital scene), side-stories fall within a single poetic
+narrative that is portrayed as being addressed uninterruptedly (the
+oneexceptionnoted)toR(cid:1)ama.TheRa(cid:1)ma(cid:1)yan:adoesnothavemultiple
+audiences in a thrice-told stacking of dialogical frames.
+Wemustnowseehowthesefindingsrelatetothedifferentmanners
+in which subtales figure in the two epics’ main stories.
+UPA(cid:1)KHYA(cid:1)NAS IN THE MAHA(cid:1)BHA(cid:1)RATA
+To summarize the Maha(cid:1)bha(cid:1)rata, we have now seen that it should no
+longer be enough to tell its main story, especially with the suggestion
+that its main story would have been an original ‘‘Bha(cid:1)rata’’ with the
+rest making it a ‘‘Maha(cid:1)bha(cid:1)rata.’’ Even though it must require
+shortcuts, one owes it to this grand text to attempt to block out the
+main story against the backdrop of its archetypal design, which
+includes its frame stories, upaparvans, upa(cid:1)khya(cid:1)nas, and theenigma of
+the author. For present purposes, touching only lightly on the
+upaparvans but keeping the frames and the author in view, it must
+suffice to focus on the upa(cid:1)khya(cid:1)nas – especially where they are woven
+into their Books’ structures. Our attention will thus be given only to
+Books 1, 3, 5, 8, 12, 13, and 14.
+Book 1, the A(cid:1)di Parvan, takes its first five upaparvans to introduce
+the three frames around relatedmatter. Its sixth, on ‘‘The Descent of
+the First Generations,’’ runs from the birth of Vy(cid:1)asa (son of the seer
+Par(cid:1)as´ara and the ferryboat girl Satyavat(cid:1)(cid:3)) and the gods’ descent to
+rescue the goddess Earth to an account of the origins of gods,
+demons, and other beings. From there, upaparvan seven pauses over
+the epic’s first two upa(cid:1)khya(cid:1)nas, the S(cid:2)akuntala(cid:1)- and Yaya(cid:1)ti-Up-
+khya(cid:1)nas, about Lunar Dynasty ancestors (S´akuntal(cid:1)a was the mother
+of Bharata, one of the line’s eponyms), to introduce that dynasty’s
+early genealogy down to the youths of the main heroes, with
+heightened attention to the three generations before them. This
+narrative widening begins with the Maha(cid:1)bhi:sa-Upa(cid:1)khya(cid:1)na (number
+3),61 about how Mah(cid:1)abhi:sa, a royal sage residing in heaven, boldly
+gazes up the windblown skirt of the heavenly river Gan_g(cid:1)a and is
+61 One of the epic’s ‘‘three beginnings’’ (see 1.1.50); these are probably recom-
+mendedfor performance purposes like the 24,000verseBha(cid:1)rata.
+480 ALFHILTEBEITEL
+cursed to earthly birth, whereupon, as King S´ antanu, he marries
+Gan_g(cid:1)a,62 their union resulting in the birth of Bh(cid:1)(cid:3):sma as their ninth
+andsolesurvivingsonandGan_g(cid:1)a’sdepartureonceS´antanuaskswhy
+she drownedthefirst eight– leadingto S´antanu’ssecondmarriageto
+Satyavat(cid:1)(cid:3), now a fisher-princess, upon her father’s obtaining
+Bh(cid:1)(cid:3):sma’s double vow to renounce kingship and women, for which
+S´ antanu gives Bh(cid:1)(cid:3):sma the boon to be able to choose his moment of
+death; Bh(cid:1)(cid:3):sma’s abduction of three sisters, two as brides for S´ antanu
+and Satyavat(cid:1)(cid:3)’s second son, who dies soon after becoming king,
+leaving the two as widows, and the third, the unwedded Amb(cid:1)a, with
+thoughts of revenge against Bh(cid:1)(cid:3):sma; Satyavat(cid:1)(cid:3)’s determination to
+save the line by getting the two widowed queens pregnant, first by
+asking Bh(cid:1)(cid:3):sma, who refuses to break his vow of celibacy, and then,
+admitting her premarital affair, recalling her first son Vy(cid:1)asa; Vy(cid:1)asa’s
+unions with the two widowed sisters, cursing the first to bear a blind
+sonbecauseshehadclosedhereyesathishideousasceticuglinessand
+the second to bear a pale son because she had blanched; the births of
+the blind Dh:rtar(cid:1)a:st:ra, the pale P(cid:1)an:d:u, plus a third son, Vidura, sired
+with the first widow’s low caste maidservant – and behind Vidura’s
+birth, the An:ima(cid:1)n:d:avya-Upa(cid:1)khya(cid:1)na (the fourth), named after a sage
+who learns that he was impaled as the result of a childhood sin in his
+previous life and curses the god Dharma – lord of post-mortem
+punishmentsandthus‘‘functionally’’63tantamountinthis,hisvirtual
+epic debut, to Yama, god of the dead – to suffer Vidura’s low-caste
+human birth. From here, one enters upon the generation of the main
+heroes. Dh:rtar(cid:1)a:st:ra’s marriage to G(cid:1)andh(cid:1)ar(cid:1)(cid:3) yields the hundred
+Kauravas, incarnate demons headed by Duryodhana. And once
+P(cid:1)an:d:u becomes impotent after his marriages to Kunt(cid:1)(cid:3) and M(cid:1)adr(cid:1)(cid:3),
+Kunt(cid:1)(cid:3) tells him the Vyu:sita(cid:1):sva-Upa(cid:1)khya(cid:1)na (number five) about a
+queen made pregnant by her husband even after he was dead as part
+of the build-up to her disclosure that she has the means to induce
+pregnancy by gods, which results in P(cid:1)an:d:u choosing Dharma to sire
+his first son, Yudhi:st:hira, and so on. Already we see how impover-
+ished the Maha(cid:1)bha(cid:1)rata would be ‘‘without upa(cid:1)khya(cid:1)nas,’’ the first five
+of which tie in with the main story through a train of curses and
+boons having to do with sex with death, identify dharma/Dharma as
+death/Yama, and, while stirring up such undercurrents below the
+62 SeeCustodi (2004,155–203)on the themeofthe gaze inthis upa(cid:1)khya(cid:1)na.
+63Onthisepisode,seeHiltebeitel(2001a,192–195).AsKantawalasays,Dharma,
+seated on his throne and meting out ‘‘justice,’’ is here ‘‘a functional name given to
+Yama’’ (1995,104–105).
+NOTWITHOUTSUBTALES:TELLINGLAWS 481
+surface, lay the groundwork for the birth of Dharma’s son, Dhar-
+mar(cid:1)aja Yudhi:st:hira.
+After some youthful trials, the P(cid:1)an:d:avas must conceal their
+survival from the Kauravas, which they do disguised as Brahmans,
+and Vy(cid:1)asa appears to direct them to Pan˜c(cid:1)ala where they will meet
+their destined bride. On the way Arjuna defeats the Gandharva
+Citraratha who had challenged him. Citraratha tells the P(cid:1)an:d:avas
+they are vulnerable without keeping a priest and holy fires, and
+then relates three upa(cid:1)khya(cid:1)nas in succession: the Tapat(cid:1)i-Upa(cid:1)khya(cid:1)na
+(about another of their ancestresses Tapat(cid:1)(cid:3), daughter of the Sun
+and mother of the eponymous Kuru), and the Vasi:st:ha- and
+Aurva-Upa(cid:1)khya(cid:1)nas (about Brahmans), all three of which prepare
+them for forthcoming adventures while imparting some positive
+and negative information on marriage and sexuality.64 Then, when
+the five P(cid:1)an:d:avas, still disguised as Brahmans, marry Draupad(cid:1)(cid:3),
+Vy(cid:1)asa, who ‘‘by chance arrived’’ (1.187.32d), sanctions the
+marriage by telling Draupad(cid:1)(cid:3)’s father Drupada the Pan˜cendra-
+Upa(cid:1)khya(cid:1)na: At a sacrifice performed by the gods at Naimi:sa
+Forest, Yama was consecrated as the (cid:2)samit:r priest assigned to
+putting victims to death, which detained him from killing humans
+for the rite’s duration, making the gods edgy until they learned
+from Brahm(cid:1)a that the rite would strengthen Yama for this job
+once it was done. As one of the attendees, Indra then saw golden
+lotuses floating down the Gan_g(cid:1)a and traced them upriver to the
+tears of the goddess S´r(cid:1)(cid:3), who was weeping at the river’s source
+over the fall of four former Indras, her former husbands, into a
+cave as the result of their arrogance toward S´ iva. Once the current
+Indra has suffered the same fate, Vy(cid:1)asa reveals that the P(cid:1)an:d:avas
+are the five Indras, cursed by S´iva to become mortals and marry
+Draupad(cid:1)(cid:3), who is S´ r(cid:1)(cid:3) incarnate, which gives the marriage a
+resemblance of monogamy; they will regain Indroloka only after
+performing ‘‘unbearable’’ (avi:sahya) and lethal karma. Further,
+K:r:sn:a and Balar(cid:1)ama have joined them incarnated from two hairs
+of Vi:sn:u. The Pan˜cendra-Upa(cid:1)khya(cid:1)na thus shifts the emphasis from
+the five gods who sire the P(cid:1)an:d:avas, beginning with Dharma, to
+the P(cid:1)an:d:avas being additionally five Indras. Vy(cid:1)asa says nothing
+explicit to indicate that Yama’s death-dealing mission is to be
+64 Said in correspondence to the point made by Sutherland Goldman (2004, 72)
+citedbelowinconnectionwithR(cid:1)am:aandLak:sman:a’sapproachtoMithil(cid:1)a.Tapat(cid:1)(cid:3)is
+apositiveancestressoftheP(cid:1)an:d:avas,motherofKuru;Vasi:st:ha’sencounterwiththe
+cannibal Kalm(cid:1)a:sap(cid:1)adabuilds upto the latter’snear attackof a pregnantwoman.
+482 ALFHILTEBEITEL
+carried out in the person of Yudhi:st:hira at the battle of
+Kuruk:setra. But if Dharma and Yama are ‘‘functionally’’ the
+same, this conclusion would be inevitable (see Hiltebeitel, 2001a,
+119–120). The ninth upa(cid:1)khya(cid:1)na, spoken by the author himself, thus
+deftly knots together threads we detected in the first five.65
+After some amends are made between the two camps, the seer
+N(cid:1)aradaarrivesattheP(cid:1)an:d:avas’newcapital,Indraprastha,totellthe
+Sunda-Upasunda-Upa(cid:1)khya(cid:1)na about two demonic brothers who kill
+each other over a woman, thereby warning the P(cid:1)an:d:avas to regulate
+their time with Draupad(cid:1)(cid:3) and providing them with an inverse mirror
+story to their own situation – and the very rule that will send Arjuna
+into aperiodof exile in which hewillmarry threeotherwomen. Two
+upa(cid:1)khya(cid:1)nas in a row are thus concerned with the marriage of
+Draupad(cid:1)(cid:3): through the first, Vy(cid:1)asa tells Draupad(cid:1)(cid:3)’s father Drupada
+the divine secret that makes it legal, and through the second N(cid:1)arada
+tells the P(cid:1)an:d:avas how to regulate it. Finally, when Arjuna and
+K:r:sn:a burn the Kh(cid:1)an:d:ava Forest to satisfy Agni and clear the
+ground for the construction of Indraprastha, Book 1 closes with the
+S(cid:2)a(cid:1)rn_gaka-Upa(cid:1)khya(cid:1)na about some precocious birds reminiscent of
+the four Vedas (Biardeau 1971–72, 140–141) who escape the blaze.
+Book 3, the A(cid:1)ran:yakaparvan, relates 21 upa(cid:1)khya(cid:1)nas during the
+P(cid:1)an:d:avas’ residence in the forest. Early on, K:r:sn:a tells its first
+upa(cid:1)khya(cid:1)na – the Saubhavadha-Upa(cid:1)khya(cid:1)na – to explain his absence
+from the dice match. Thereafter, most of the upa(cid:1)khya(cid:1)nas relate to
+events in the Book’s second through fifth upaparvans and its final
+three. The opening sequence tells of the P(cid:1)an:d:avas’ forest-entering
+encounter with the monstrous R(cid:1)ak:sasa Kirm(cid:1)(cid:3)ra, killed by Bh(cid:1)(cid:3)ma;
+Arjuna’s encounter with S´iva on Mount Kail(cid:1)asa to obtain divine
+weapons; and Arjuna’s further adventures in the heaven of his father
+Indra. In Arjuna’s absence, the other P(cid:1)an:d:avas and Draupad(cid:1)(cid:3) then
+go on pilgrimage and hear numerous stories, many billed as
+upa(cid:1)khya(cid:1)nas. Thus nine – the Agastya-, R:s(cid:2)yas(cid:2):rn_ga-, Ka(cid:1)rtav(cid:1)irya-,
+Sukanya(cid:1)-, Ma(cid:1)ndha(cid:1)t:r-, Jantu-, S(cid:2)yena-Kapot(cid:1)iya-, A:st:a(cid:1)vakr(cid:1)iya-, and
+Yavakr(cid:1)ita-Upa(cid:1)khya(cid:1)nas – are told during the ‘‘Tour of the Sacred
+Fords’’ to the pilgrimaging P(cid:1)an:d:avas minus Arjuna, with all but one
+of these, Ka(cid:1)rtav(cid:1)irya, narrated by the group’s sage travelling com-
+panion Lomas´a. And once Arjuna has rejoined them, the P(cid:1)an:d:avas
+65VanBuitenen’sviewofitasa‘‘silly’’caseof‘‘ineptmythification’’(1973,xix–
+xx), itself a restatement of some earlier salvos of Moriz Winternitz (see Hiltebeitel,
+2001a, 164andn. 118), couldnotbefarther from the case.
+NOTWITHOUTSUBTALES:TELLINGLAWS 483
+and Draupad(cid:1)(cid:3) hear six more upa(cid:1)khya(cid:1)nas narrated by the ageless sage
+M(cid:1)arkan:d:eya: the Vainya- (a story of King Vainya and the R::sis Atri
+and Gautama), Matsya-, Man:d:u(cid:1)ka-, Indradyumna-, Dhundhuma(cid:1)ra-,
+and Pativrata(cid:1)-Upa(cid:1)khya(cid:1)nas. Then, after further forest adventures,
+Vy(cid:1)asa comes ‘‘desirous of seeing’’ (3.245.8c) the P(cid:1)an:d:avas to tell
+them the Mudgala-Upa(cid:1)khya(cid:1)na, a tale illustrative of the superiority of
+giving over asceticism and the first of several upa(cid:1)khya(cid:1)nas to empha-
+size the merits of un˜chav:rtti Brahmanswho practice the vow of living
+only on gleaning (un˜cha) – that is, eating only grains left over from
+theharvest–and,morethanthis,whowillinglygivetheirmeagerfare
+to demanding hungry guests – in this case, the chronically famished
+R::si Durv(cid:1)asas.66 Immediately after Vy(cid:1)asa’s visit, the closing three
+upaparvans then tell of Draupad(cid:1)(cid:3)’s abduction by the Kauravas’
+brother-in-law Jayadratha, following which M(cid:1)arkan:d:eya tells two
+more upa(cid:1)khya(cid:1)nas; Karn:a gift to Indra of his natural-born golden
+armor and earrings; and, in closing, ‘‘‘The Fire-Sticks Subtale’ in
+whichDharmainstructshisson(a(cid:1)ran:eyamupa(cid:1)khya(cid:1)namyatradharmo
+’nvaza(cid:1)t sutam)’’ (1.2.127cd).
+As noted, three upa(cid:1)khya(cid:1)nas in Book 3 stand out as what Biardeau
+calls ‘‘mirror stories’’: the Nala-Upa(cid:1)khya(cid:1)na – the love story about
+Nala and Damayant(cid:1)(cid:3) told by the seer B:rhadas´va while Arjuna is
+visiting S´iva and Indra and Draupad(cid:1)(cid:3) misses this favorite of her
+husbands;theRa(cid:1)ma-Upa(cid:1)khya(cid:1)na–a‘‘Maha(cid:1)bha(cid:1)rata-sensitive’’version
+of the R(cid:1)ama story (see Hiltebeitel, press-a) focused on S(cid:1)(cid:3)t(cid:1)a’s
+abduction and told to all five P(cid:1)an:d:avas and Draupad(cid:1)(cid:3)
+by M(cid:1)arkan:d:eya just after Draupad(cid:1)(cid:3)’s abduction; and the
+Sa(cid:1)vitr(cid:1)i-Upa(cid:1)khya(cid:1)na – the story of a heroine who saved her husband
+from Yama, told by M(cid:1)arkan:d:eya just after the Ra(cid:1)ma-Upa(cid:1)khya(cid:1)na
+whenYudhi:st:hiraasks,havingalreadyheardaboutS(cid:1)(cid:3)t(cid:1)a,ifthereever
+66 Durv(cid:1)asas also appears three other times in this role. He is a cranky and
+demanding guest in the household of Kuntibhoja, who leaves Durv(cid:1)asas’s high
+maintenance to his adopted daughter Kunt(cid:1)(cid:3) (1.104; 1.113–114; 5.142.19). In the
+Durva(cid:1)so-Ma(cid:1)ha(cid:1)tmya (13.144), Yudhi:st:hira directs a question about honoring Brah-
+mans to K:r:sn:a rather than Bh(cid:1)(cid:3):sma and learns how, when no one else would invite
+Durv(cid:1)asasashewentaboututteringaverseproclaiminghistroublesomereputation,
+hecametostaywithK:r:sn:aandRukmin:(cid:1)(cid:3)andatevoraciouslyandharassedthemin
+other ways until he finally granted them boons for keeping their temper. And in a
+NorthernpassagejustlyrejectedbytheCriticalEdition,hegrantsDuryodhana,after
+beingwellfed,theboonofappearingwithhishordeoftenthousanddisciplesbefore
+Draupad(cid:1)(cid:3)todemandfoodjustaftershehasfedtheP(cid:1)an:d:avasandgonetotakerest,
+whereupon K:r:sn:a comes to her rescue, filling the horde’s bellies from one grain of
+leftover rice, whence Durv(cid:1)asas withdraws lest he provoke the P(cid:1)an:d:avas by not
+finishing the meal provided(3, App. I,No. 25).
+484 ALFHILTEBEITEL
+wasawomanasdevotedtoherhusband(s)asDraupad(cid:1)(cid:3)(thisimplicit
+slighting of S(cid:1)(cid:3)t(cid:1)a is rather curious). Finally, the ‘‘Firesticks Subtale’’
+then closes Book 3 as it began with the encounter of a monster who
+appears first as a speaking crane and for the moment ‘‘kills’’ the four
+youngest P(cid:1)an:d:avas at a lake where they have gone to slake their
+thirst. But whereas the first monster, Kirm(cid:1)(cid:3)ra, was a R(cid:1)ak:sasa, this
+crane turns into a one-eyed Yak:sa before he reveals himself, after
+questioning Yudhi:st:hira, to be Yudhi:st:hira’s own father Dharma in
+disguise. Gratified at his son’s subtle answers to his puzzling ques-
+tions, Dharma revives Dharmar(cid:1)aja Yudhi:st:hira’s brothers and gives
+him the boon of ‘‘the heart of the dice’’ – something that had saved
+Nala in the Nala-Upa(cid:1)khya(cid:1)na and is now a cue to Yudhi:st:hira not
+onlytorememberthatsubtalebuttodisguisehimselfasadice-master
+in Book 4 under the crane-like name of Kan_ka, ‘‘Heron,’’ an ‘‘eater
+of fish’’ in the kingdom of Matsya, ‘‘Fish.’’67 One may also suspect
+that a subcurrent runs between the Sa(cid:1)vitr(cid:1)i-Upa(cid:1)khya(cid:1)na in which
+Yama restores life to S(cid:1)avitr(cid:1)(cid:3)’s husband Satyavan and the ‘‘Firesticks
+Subtale’’in whichYudhi:st:hira restoreslifeto hisbrothers,forsucha
+parallelbetweenYamaandYudhi:st:hirawouldnotonlyharkbackto
+theiralreadyestablishedconnectionsthroughDharma,butanticipate
+Book 4, which will speak of the P(cid:1)an:d:avas’ year in concealment in
+Matsya as a rebirth from the womb (4.66.10cd). We shall find later
+support for reasoning that the PS calls the ‘‘Firesticks Subtale’’ an
+upa(cid:1)khya(cid:1)na, even though it is the only one that is part of the main
+story, just because so many upa(cid:1)khya(cid:1)na cross-currents run through it.
+Lookedatfromthestandpointofitsthreeupa(cid:1)khya(cid:1)nas,Book5,the
+Udyogaparvan, presents surprising symmetries and asymmetries. The
+initialupaparvantraceshowbothsidestrytosecurealliances.Arjuna
+and Duryodhana come to Dv(cid:1)arak(cid:1)a to seek aide from K:r:sn:a, who
+says bafflingly that his relation to each is equal. But since he saw
+Arjuna first he gives him the first choice of two options: K:r:sn:a as a
+noncombatant charioteer, or a whole army division. Arjuna chooses
+K:r:sn:aandDuryodhanadepartscontent.ThentheMadrakingS´ alya,
+brotherofthetwins’motherM(cid:1)adr(cid:1)(cid:3),setsouttojointheP(cid:1)an:d:avasbut
+has his mind turned after he finds elegant way-stations en route
+preparedforhimbyDuryodhana.Travellingon,hetellsYudhi:st:hira
+that he has sided with Duryodhana, and Yudhi:st:hira, foreseeing that
+67 Moreover, all five P(cid:1)an:d:avas and Draupad(cid:1)(cid:3) adopt disguises that could be cued
+fromtheNala-Upa(cid:1)khya(cid:1)na;seeHiltebeitel(2001a,228–229).OnYudhi:st:hira-Kan_ka
+and the Matsyas, see ibid., 197 and n. 562; Biardeau (1978, 99–101), 107; 1997b,
+44–47.
+NOTWITHOUTSUBTALES:TELLINGLAWS 485
+S´ alya will be Karn:a’s charioteer, asks him to destroy Karn:a’s con-
+fidence(tejas)incombat.TellingYudhi:st:hirathatevenIndrahadups
+anddowns,S´alyaconsoleshimwithBook5’sfirstupa(cid:1)khya(cid:1)na,acycle
+of three ultimately triumphant Indra stories called the Indravijaya-
+Upa(cid:1)khya(cid:1)na (5.9–18): both a rear-view mirror story comparing
+Draupad(cid:1)(cid:3)’s sufferings with Damayant(cid:1)(cid:3)’s (5.8.34cd) and Yudhi:st:hira
+and Draupad(cid:1)(cid:3)’s tribulations in Book 4 with those of Indra and S´(cid:1)aci,
+and a prophetic lens through which to see aspects of Yudhi:st:hira’s
+war conduct anticipated by Indra’s.68
+As negotiations proceed, events come to center on the lengthy
+middle upaparvan 54, titled ‘‘The Coming of the Lord,’’ in which
+K:r:sn:a as divine messenger comes as the P(cid:1)an:d:avas’ last negotiator
+with the Kauravas while a host of celestial seers descend to watch
+the proceedings and tell stories: one of them an upa(cid:1)khya(cid:1)na about
+the arrogant king Dambhodbhava that R(cid:1)ama J(cid:1)amadagnya tells to
+warn Duryodhana that Arjuna and K:r:sn:a are the ancient indomi-
+table seers Nara and N(cid:1)ar(cid:1)ay(cid:1)an:a.69 Arbitrations break down when
+Duryodhana tries futilely to capture K:r:sn:a, and end when the
+Kauravas send S´ akuni’s son Ulu(cid:1)ka (Duryodhana’s mother’s
+brother’s son who thus has the same relation to Duryodhana that
+K:r:sn:a has to the first three P(cid:1)an:d:avas) with a last abusive message
+to the P(cid:1)an:d:avas. Book 5 then closes with the Amba(cid:1)-Upa(cid:1)khya(cid:1)na-
+Parvan, most of which, from its beginning, comprises Book 5’s
+third upa(cid:1)khya(cid:1)na, the Amba(cid:1)-Upa(cid:1)khya(cid:1)na, in which Bh(cid:1)(cid:3):sma tells
+Duryodhana how Amb(cid:1)a, determined to destroy him, came to be
+reborn as Draupad(cid:1)(cid:3)’s brother S´ ikhan:d:in, and why he won’t fight
+S´ ikhan:d:in because he was formerly a woman.70 Surrounding a
+revelatory middle upa(cid:1)khya(cid:1)na that compares Duryodhana to an
+ancient tyrant who defied Nara and N(cid:1)ar(cid:1)ayan:a, Book 5 thus has one
+upa(cid:1)khya(cid:1)na in its first upaparvan that leaves its listener Yudhi:st:hira
+with a fateful secret about Karn:a that will advantage Yudhi:st:hira in
+the war, and another in its last upaparvan that leaves its listener
+68ParallelthemesintheIndravijaya-Upa(cid:1)khya(cid:1)naandtheMaha(cid:1)bha(cid:1)ratawarinclude
+destructionofopponentstejas,breachoffriendship(sakhya),relianceonstratagems
+supplied byVi:sn:u/K:r:sn:a, andconcludingsin-cleansing As´vamedhas.
+69Other importantstoriesrelated hereare Kan:va’sstory ofM(cid:1)atali(95–103)and
+N(cid:1)arada’saboutG(cid:1)alava(104–121),thelattercalledtheGa(cid:1)lava-Caritaand‘‘thisgreat
+incomparable a(cid:1)khya(cid:1)na(idam maha(cid:1)khya(cid:1)nam anuttamam)’’ (5.121.22a)in closing.
+70SeeCustodi(2004,204–263)ontheconstraintsongendertransformationinthis
+upa(cid:1)khya(cid:1)na.
+486 ALFHILTEBEITEL
+Duryodhana with a fateful secret about Bh(cid:1)(cid:3):sma that will
+disadvantage Duryodhana in the war.71
+Book 8, the Karn:aparvan, is the only war book with upa(cid:1)khya(cid:1)nas
+woven into its structure. On the war’s seventeenth day, Karn:a
+promises Duryodhana the death of Arjuna and Arjuna promises
+Yudhi:st:hira – by now obsessed about Karn:a – to finish off Karn:a.
+Regarding S´alya as the only match for K:r:sn:a’s charioteering, Karn:a
+requests that S´ alya be his charioteer, and Duryodhana, to convince
+S´ alya, recounts the Tripura-Upa(cid:1)khya(cid:1)na about how Brahm(cid:1)a came to
+drive S´ iva’s chariot in S´ iva’s conquest of the Triple City of the
+demons.72 S´alya then agrees on condition that he can say what he
+pleases, and engages Karn:a in a duel of insults that includes the
+Ham: sa-Ka(cid:1)k(cid:1)iya-Upa(cid:1)khya(cid:1)na in which he compares Karn:a’s challenge
+to Arjuna to a crow challenging a gander. These subtales recall that
+the events of this parvan could not occur without those that preface
+the Indravijaya-Upa(cid:1)khya(cid:1)na, in which S´alya promised Yudhi:st:hira
+that when Karn:a asked him to be his charioteer, S´alya would
+undermine Karn:a’s confidence.
+Book 12, the S(cid:2)a(cid:1)ntiparvan, begins to tell how Yudhi:st:hira, beset by
+grief over all the warriors slain so that he could rule, is persuaded by
+his family, counsellors (including K:r:sn:a, N(cid:1)arada, and Vy(cid:1)asa), and
+Bh(cid:1)(cid:3):sma to give up his guiltridden aspirations to renunciation and
+accept his royal duties. In its early going, K:r:sn:a contributes the
+Book’s first three upa(cid:1)khya(cid:1)nas. At the capital, he recites two in a row:
+first, a string of sixteen vignettes about ancient kings whose deaths
+were also lamented, and then he and N(cid:1)arada combine to deliver a
+death-and-revivaltaleaboutaboynamed‘‘ExcretorofGold,’’sonof
+71Albeitcharmingly,vanBuitenen,typically(seenn.27and65above)findsthis
+upa(cid:1)khya(cid:1)na‘‘epigonic’’and‘‘absurd’’(1978,175,178).Whileofferingtheconvincing
+formulation‘‘IassumethatitdevelopedwithintheMaha(cid:1)bha(cid:1)rata’’(176),hetakesit
+to have been added as ‘‘instant tradition’’ toward the end of the epic’s ‘‘half mil-
+lennium of … composition’’ (178). Along with his own ‘‘monologue inte´rieur’’ to
+account for such a belated creation (177), he offers such erroneous or misleading
+statements and details as: R(cid:1)ama J(cid:1)amadagnya’s appearance in the story is ‘‘posthu-
+mous’’(175);KingDrupadais‘‘oncemore…sonless’’(farmorelikely,S´ikhan:d:inis
+enougholderthanDh:r:st:adyumnaandDraupad(cid:1)(cid:3)tobeamongthe‘‘accursedbrood’’
+(dhigbandhu(cid:1)n;1.155.3b;vanBuitenen1973,316)ofsonsDrupadaspeaksofwhenhe
+desiresonewhowillbeuptokillingDron:a;andwithfivereferencestoitelsewherein
+the epic, the story of S´ikhan:d:in’s sex change is ‘‘astonishingly underplayed’’ (1978,
+176).
+72SeeHiltebeitel(1984,15andn.42),whereItriedforthelasttimetodevelopthe
+notion of ‘‘background story’’ as a way to handle some of the issues raised by this
+paper:inparticular,therelationofcertainmyths(mostly,however,notupa(cid:1)khya(cid:1)nas)
+to certain parvans.
+NOTWITHOUTSUBTALES:TELLINGLAWS 487
+thelistenertothesixteenvignettes,thatbrieflylightensYudhi:st:hira’s
+mood.73 On the way to joining Bh(cid:1)(cid:3):sma at Kuruk:setra, K:r:sn:a then
+describes R(cid:1)ama J(cid:1)amadagnya’s 21 massacres of the K:satriyas there,
+answering Yudhi:st:hira’s curiosity about how the warrior class kept
+regenerating. For the rest, ten upa(cid:1)khya(cid:1)nas are dispersed through
+Bh(cid:1)(cid:3):sma’s multi-genre instructions in the three anthologies on
+Ra(cid:1)jadharma, ‘‘laws for kings,’’ A(cid:1)paddharma, ‘‘law for times of dis-
+tress,’’ and Mok:sadharma, ‘‘norms concerning liberation’’ (upapar-
+vans 84–86). Bh(cid:1)(cid:3):sma never recites two in a row; in the Mok:sadharma
+onefindsintervalsofasmanyas64(12.194–257)and76(12.264–339)
+adhya(cid:1)yas between them. Yet there is a striking pattern. Four of these
+upa(cid:1)khya(cid:1)nas confront the Dharma King Yudhi:st:hira with ‘‘puzzle
+pieces’’ about dharma in which lead characters are either his own
+father, the god Dharma, in disguise, or figures who bear the word
+dharman/dharma in their names. Moreover, one such tale occurs as
+the last upa(cid:1)khya(cid:1)na in each anthology. Thus Dharma himself appears
+disguised in the Sumitra-Upa(cid:1)khya(cid:1)na or R::sabha G(cid:1)ita(cid:1) near the end of
+theRa(cid:1)jadharma;amagnificentcranebearsthenameR(cid:1)ajadharmanin
+‘‘The Story of the Ungrateful Brahman’’ (K:rtaghna-Upa(cid:1)khya(cid:1)na) that
+endstheA(cid:1)paddharma;and,afterDharmaappearsinanotherdisguise
+in the Mok:sadharma’s first upa(cid:1)khya(cid:1)na (the Ja(cid:1)paka-Upa(cid:1)khya(cid:1)na), that
+subparvan ends with the story of a questioning Brahman named
+Dharm(cid:1)aran:ya, ‘‘Forest of Dharma,’’ who, like Yudhi:st:hira at this
+juncture, has questions about the best practice to pursue toward
+gaining heaven – which turns out to be eating only what is
+gleaned after grains and other food have been harvested (Un˜chav:rtti-
+Upa(cid:1)khya(cid:1)na). Yudhi:st:hira (and other careful listeners) would be able
+torecallthatVy(cid:1)asahimselfhadexaltedthesamepractice,alongwith
+the merits of giving that meager fare to guests, toward the end of
+Book 3 in the Mudgala-Upa(cid:1)khya(cid:1)na. Moreover, since Book 3 ends
+withthe‘‘FiresticksSubtale’’inwhichDharmaappearsdisguisedasa
+crane and a puzzle-posing Yak:sa, it would appear that one strain of
+theepic’supa(cid:1)khya(cid:1)nascarriesa majorsubcurrentthroughsuchpuzzle
+pieces, especially in that they frequently punctuate the ends of major
+units.Moreover,withonesuchstoryendingtheS(cid:2)a(cid:1)ntiparvan,wehave
+73 The way Vais´amp(cid:1)ayana sets the scene is remarkable, as are K:r:sn:a’s use of
+humor (ha(cid:1)sya rasa) and Yudhi:st:hira’s momentary openness to it; see Hiltebeitel
+(press-e).
+488 ALFHILTEBEITEL
+reachedthejuncturementionedearlierwhereBh(cid:1)(cid:3):smaislaunchinghis
+only concentrated stretch of upa(cid:1)khya(cid:1)nas.
+Book 13, the Anus(cid:2)a(cid:1)sanaparvan, begins with Bh(cid:1)(cid:3):sma’s fourth
+anthology, on Da(cid:1)nadharma, comprising his closing ‘‘further instruc-
+tions’’74 to Yudhi:st:hira on ‘‘the law of the gift’’ (upaparvan 87). Here
+we must consider Fitzgerald’s hypothesis that the four anthologies
+demonstrate decreasing ‘‘tautness’’ and increasing relaxation as the
+result of ‘‘a progressive loosening of editorial integration’’ (2004,
+147–48) over centuries, from the second century BCE down to the
+fourth-to-fifth century CE (114). Fitzgerald’s point is buttressed by
+thegeneralimpressionscholarshavehadthattheAnu(cid:2)sa(cid:1)sanaparvanis
+loose and late. R. N. Dandekar, the Critical Edition editor of this
+last-to-be-completed parvan, perhaps puts it best:
+Thescopeandnatureofthecontentsofthisparvanweresuchthatliterallyanytopic
+under the sun could be broached and discussed in it.… This has resulted in poor
+Yudhi:st:hira being represented as putting to his grandsire some of the most ele-
+mentary questions – often without rhyme or reason. Not infrequently, these ques-
+tions serve as mere excuses for introducing a legend or a doctrine fancied by the
+redactor,nomatterifithasalreadyoccurredinanearlierpartoftheEpic,notonce
+butseveral times (1966,xlvii).
+Even more pointedly Dandekar remarks, ‘‘Yudhi:st:hira’s questions
+are mostly elementary in character and often show the questioner
+to be just a simpleton.’’75 No doubt Dandekar had the
+Bhan_ga(cid:1)s(cid:2)vana-Upa(cid:1)khya(cid:1)na principally in mind, in which Yudhi:st:hira,
+seemingly quite out of the blue, asks, ‘‘In the act of coition, who
+derives the greater pleasure – man or woman’’ (13.12.1; Dandekar,
+1966, lix), and thereby launches his celibate grandfather Bh(cid:1)(cid:3):sma
+into a tale that makes the case that the luckier ones are women.
+But Yudhi:st:hira is hardly a simpleton. He is portrayed throughout
+as having an underlying guilelessness that sustains him. The four
+anthologies repeatedly reinforce this trope (see Hiltebeitel, press-e),
+but nowhere more pivotally than in the transition from Book 12 to
+74 The PS makes this connection by calling the Da(cid:1)nadharmaparvan the
+A(cid:1)nu(cid:2)sa(cid:1)sanika,‘‘Further Instruction,’’at 1.2.65b.
+75 Dandekar is quite insistent, going on: ‘‘the redactors must have seen in this
+parvan perhaps their last opportunity to introduce into the epic various miscella-
+neoustopicswhichhadoccurredtothematthelastmoment’’(idem,lxxiv–lxxv);and
+rephrases this point in his Introduction to the Critical Notes (Anu(cid:2)sa(cid:1)sana vol. 2,
+1051):‘‘SomeofthequestionsputintoYudhi:st:hira’smoutharesoelementarythat
+they show the venerable king to be a naive person. They make one wonder if
+Yudhi:st:hira had not learnt even commonplace things in the course of his long and
+eventful life.’’
+NOTWITHOUTSUBTALES:TELLINGLAWS 489
+13, which marks Yudhi:st:hira’s revived interest in stories. He begins
+Book 13 stating that he is unable to regain peace of mind, even
+after Book 12, ‘‘out of the conviction that he alone had been
+responsible for the tragic catastrophe of the war,’’ and that he feels
+‘‘particularly unhappy at the pitiable condition’’ of Bh(cid:1)(cid:3):sma
+(Dandekar, 1966, lvii–lviii). But once Bh(cid:1)(cid:3):sma reassures him in the
+opening ‘‘Dialogue (Sam: va(cid:1)da) Between Death, Gautam(cid:1)(cid:3), and
+Others’’ that fault is multiple and, as regards the war, certainly not
+his alone, Yudhi:st:hira replies, ‘‘O grandsire, wisest of men, you
+who are learned in all the treatises, I have listened to this great
+narrative (a(cid:1)khya(cid:1)na), O foremost of the intelligent. I desire to hear
+a little more narrated by you in connection with dharma, O king.
+You are able to narrate it to me. Tell me if any householder has
+ever succeeded in conquering M:rtyu (Death) by the practice of
+dharma’’ (13.2.1–3). This appeal launches Book 13’s first
+upa(cid:1)khya(cid:1)na, the Sudars(cid:2)ana-Upa(cid:1)khya(cid:1)na, on how, by following the
+‘‘the law of treating guests’’ (atithidharma),76 Death may indeed be
+overcome – a tale that reveals that the divine guest through whom
+a householder can overcome Death by showing him unstinting
+hospitality77 – even to the point of offering him his wife – is
+Dharma himself.78 This would be a clever, beautiful, and relieving
+76 Dandekar (1966, lviii) supplies this compound. The text speaks of atithipu(cid:1)ja(cid:1),
+‘‘honoringorworshipingguests’’(13.2.68–69,91),asdoestheUn˜chav:rtti-Upa(cid:1)khya(cid:1)na
+just before it (12.347.3) ending the Mok:sadharma, and the Kapota-Upa(cid:1)khya(cid:1)na
+(12.142.39–40, 143.8) in the A(cid:1)paddharma. Cf. atithi-vratin, one who is ‘‘devoted to
+guests,’’ in theMudgala-Upa(cid:1)khya(cid:1)na(3.246.4and15).
+77 The atithi is not just an ordinary guest (abhya(cid:1)gata) but, etymologically, ‘‘one
+who has no fixed day in coming’’ (Monier-Williams [1899] 1964, 14), that is, an
+uninvited and ‘‘date-less’’ (a-tithi) guest. Thus Ganguli’s delightful note on the
+Un˜chav:rtty-Upa(cid:1)khya(cid:1)na: ‘‘the word ‘atithi’ which is rendered ‘guest’ here and else-
+where, means a person who enters without invitation the abode of a householder.
+Suchanindividualisadorable.Allthedeitiesresideinhisperson.Heissupposedto
+favor the householder by giving him an opportunity of performing rites of hospi-
+tality….[But]hecannotexpecttobeservedwithfoodtillthehouseholderhasdone
+hisbestforservinghimassumptuouslyaspossible.…Hence,bythetimethefoodis
+placedbeforehim,theguestbecomesveryhungry’’([1884–96]1970,vol.10,630n.1
+[second ellipsis Ganguli’s]). My thanks to Balaji Hebbar for pointing out the
+abhya(cid:1)gata/atithi distinction.
+78AttheverymomentSudars´anaarriveshometohearDharma’sreportfromthe
+bedroom that he is there with his wife, Death (M:rtyu) is standing over Sudars´ana
+withaconcealedironmallet(ku(cid:1)t:amudgara;13.2.66)totesthisreaction.Astudyof
+the interactivities between Yama, M:rtyu, K(cid:1)ala, and Dharma in the epics would be
+revealing.
+490 ALFHILTEBEITEL
+– yet also provocative79 – revelation to Dharma’s son Yudhi:st:hira,
+who,justafterhearingtheMok:sadharmaon‘‘thenormsofliberation,’’
+whichheknowscannotreallybeforhimifheistorule, hearsastory
+thatpointsthewaytounderstandinghowhecanstillovercomedeath
+bycultivatingthegenerosityofagiftingroyalhouseholder.Indeed,if
+wefollowYudhi:st:hira’strainofthoughtfromhearingtheSudar(cid:2)sana-
+Upa(cid:1)khya(cid:1)natohisunexpectedquestion,thelattermaynotbesooutof
+theblueafterall,buta‘‘joltofsexuality’’likethosecenteredonthewife
+that Jamison (1996, 96, 283 n. 221) finds energizing the structures of
+Br(cid:1)ahman:ic rituals—and a timely reminder to Draupad(cid:1)(cid:3) of the plea-
+sures Yudhi:st:hira would like to think she once enjoyed and, who
+knows, could enjoy again. For what lies ahead for the Pan:d:avas and
+Draupad(cid:1)(cid:3)buttherestoftheirhouseholderlivestogether?Indeed,ina
+tellingcaseofwhatIhaveelsewherecalledpacing(press-d),wedonot
+learn thatDraupad(cid:1)(cid:3)has beenpresent forBh(cid:1)(cid:3):sma’s battlefieldoration
+untilthismainrunofupa(cid:1)khya(cid:1)nasisoverandDraupad(cid:1)(cid:3)joinsthefour
+younger P(cid:1)an:d:avas in voicing approval at Yudhi:st:hira’s new determi-
+nationtoforegoasceticismandendhisdisgustatthehouseholderlife
+(13.57.42–44).
+Why is Bh(cid:1)(cid:3):sma unbottled like this at this juncture?80 Granted that
+theDa(cid:1)nadharmaparvanisrelativelylooseandlikelylatetothepointof
+includingentries downto‘‘the lastmoment,’’itneedbenolaterthan
+its literary unfolding within the Maha(cid:1)bha(cid:1)rata’s primary archetypal
+design. The four anthologies get more and more relaxed from one to
+thenextbecausetheinterlocutorsdoaswell.IntheDa(cid:1)nadharmathey
+areatlastbeginningtoenjoythemselves,toputthewarbehindthem,
+to treasure the dwindling light of leisure they still have to raise ques-
+tions and delight in stories on the bank of the Gan_g(cid:1)a before Gan_g(cid:1)a’s
+son Bh(cid:1)(cid:3):sma puts his learned life behind him. Cutting away for Vai-
+s´amp(cid:1)ayanatodescribethescenetoJanamejaya,wehear,amidpraise
+of the Gan_g(cid:1)a, how 45 celestial seers arrive to tell stories (katha(cid:1)s)
+79Indeed,bothdiscussantsmighthavethingstoponderhere.Yudhi:st:hirawould
+knowthatheoweshisverybirthandruletothefactthathisfatherP(cid:1)an:d:ugavehis
+motherKunt(cid:1)(cid:3)toDharmafirstamongthegodsheselectedtosirehissons,andmight
+also ponder whether he gave his own wife Draupad(cid:1)(cid:3) to dharma at the dice match;
+and Bh(cid:1)(cid:3):sma now prolongs his life on a bed of arrows, overcoming death to this
+extentthankstoaboongivenbyhisfatherforrenouncingmarriage–asortofgiftof
+his wife to the dharmaof his father.
+80Forthestretchfrom12.340to13.51,Bh(cid:1)(cid:3):smarecountsupa(cid:1)khya(cid:1)nasataclipof35
+outof64adhya(cid:1)yasor54.7%.Bythesameroughmeasure,thatcontrastswith64out
+of 450 adhya(cid:1)yas or 14.22% over the four anthologies as a whole – about the same
+clip as thatfor upa(cid:1)khya(cid:1)nas in the epicatlarge (see atnn. 39and 40).
+NOTWITHOUTSUBTALES:TELLINGLAWS 491
+‘‘relatedtoBh(cid:1)(cid:3):sma’’(13.27.10),storiesthatcheeroneandall–evenat
+the seers’ parting, when Yudhi:st:hira touches Bh(cid:1)(cid:3):sma’s feet with his
+head ‘‘at the end of a story (katha(cid:1)nte)’’ (13.27.17) and returns to his
+questioning, which leads Bh(cid:1)(cid:3):sma to tell him the Matan_ga-
+Upa(cid:1)khya(cid:1)na.81 This anticipatory theme of not ending at the end of a
+story, of keeping the story going with a new story, comes up again
+when Bh(cid:1)(cid:3):sma winds up the Vipula-Upa(cid:1)khya(cid:1)na by telling how
+M(cid:1)arkan:d:eya had formerly told it to him ‘‘in the interval of a story
+(katha(cid:1)ntare)onGan_g(cid:1)a’sbank’’(13.43.17).Itisasiflivinginongoing
+stories along side the salvific river is a main current in Yudhi:st:hira’s
+atonement,andthataftertherelativedialogicalands´(cid:1)astricstringency
+of the three S(cid:2)a(cid:1)ntiparvan anthologies, it is good to get back to
+upa(cid:1)khya(cid:1)nas in ‘‘The Book of the Further Instruction.’’ This bears
+further on the matter raised by Dandekar of returning to stories ‘‘no
+matter if’’ they have ‘‘already occurred.’’ When Bh(cid:1)(cid:3):sma and
+Yudhi:st:hira return to such stories – most notably the Vi(cid:2)sva(cid:1)mitra-
+Upa(cid:1)khya(cid:1)na (13.3–4) with its familiar cast of revolving characters
+(Vis´v(cid:1)amitra, Vasi:st:ha, Jamadagni, R(cid:1)ama J(cid:1)amadagnya, etc.)82 – it is
+fromanewanddifferentangleand,asalwayswithanystory,fromthe
+pleasure of hearing it again. There is thus a stronger case to be made
+for reading Books 12 and 13, whole and in sequence, as part of the
+Maha(cid:1)bha(cid:1)rata’s total design and earliest inspiration, than a develop-
+mental anthology-by-anthology approach allows. As the return to
+upa(cid:1)khya(cid:1)nas indicates, Book 13 goes well beyond the rules of trans-
+formationthatFitzgeraldoffersasexplanationforsuchaprogression.
+With Book 14, the A(cid:1)s(cid:2)vamedhikaparvan, Yudhi:st:hira, now adding
+Bh(cid:1)(cid:3):sma’s demise to his guilt over the war, agrees to perform a sin-
+cleansing Horse Sacrifice at Vy(cid:1)asa and K:r:sn:a’s bidding. While the
+P(cid:1)an:d:avasprepareforit,K:r:sn:awantstoseehispeopleatDv(cid:1)arak(cid:1)a,and
+on the way meets the sage Uttan_ka for the multistoried Uttan_ka-
+Upa(cid:1)khya(cid:1)na.Arjunathenhasmanyadventuresguardingthehorse.But
+immediatelyupontherite’scompletionanangryhalf-goldenblue-eyed
+mongoose appears from his hole to disparage the grand ceremony as
+inferior to a gleaner’s hospitality to a ravenous guest. With this inci-
+dent comes the Maha(cid:1)bha(cid:1)rata’s final upa(cid:1)khya(cid:1)na: this time a double
+puzzle piece that reveals the mongoose to have been Dharma in dis-
+guise when testing the ‘‘pure gift’’ (s(cid:2)uddha da(cid:1)na; 14.93.57) of the
+81 On which see the discussion below at nn. 95 to 96 in connection with the
+Ra(cid:1)ma(cid:1)yan:a.
+82SeeSukthankar(1936,45):‘‘thethirdrepetitionofthebirthofJamadagni,’’etc.
+492 ALFHILTEBEITEL
+gleaner, an un˜chav:rtti Brahman; but before that, Dharma had been
+Anger(Krodha)asamysteriousguestwhotestedtheabsenceofanger
+in the R::si Jamadagni and been cursed by the latter’s ancestors to
+become the mongoose. It addresses the question of whether a king’s
+giving to Brahmans and others in sacrifice is comparable to the glea-
+ner’s‘‘puregift,’’donewithdevotionandfaithandwithoutanger,to
+Dharma, that ever-demanding guest who would harbor not only this
+trace of anger but, from his Maha(cid:1)bha(cid:1)rata debut, the ‘‘functional’’
+identityofYama.Again,amajorunitendswithanupa(cid:1)khya(cid:1)napuzzle
+pieceon thistheme of dharma’sdisguises. Moreover,itbringsto cul-
+minationthecycleofsubstoriesaboutgleanerswiththehungryguest
+finally being not just Durv(cid:1)asas but Dharma – who will have one
+remainingdisguisebywhichtotestYudhi:st:hirainthelastadhya(cid:1)yaof
+the epic’s penultimate Book 17: that of the dog whom Yudhi:st:hira,
+because of his ‘‘non-cruelty’’ (a(cid:1)n:r(cid:2)sam: syam; 17.3.7d), will refuse to
+abandon even at the cost of heaven. Yet this last lesson is not really
+finished until Yudhi:st:hira curses dharma/Dharma out of anger
+(18.2.42–45)at seeing Duryodhanain heaven,which bringshomethe
+mongoose’s last lesson about how even Dharma leaves his anger be-
+hindhim.Justso,asYudhi:st:hiraputshishumanfeelingsbehindhim,
+he bathes in the heavenly Gan_g(cid:1)a and becomes ‘‘freed of enmity’’
+(18.3.26–27,38–40).HereDharma,finallyinhisownform,revealsin
+this final third test of Yudhi:st:hira’s human heart that he had earlier
+been the one testing him as the Yak:sa and the dog.83 Clearly this
+beginningofathematicanalysisoftheunderlyingvaluesormessages
+of the Maha(cid:1)bha(cid:1)rata’s upa(cid:1)khya(cid:1)nas takes us beyond our earlier classi-
+fication of their content by their primary protagonists. Although a
+fullerdiscussion of suchvaluesisbeyondthe scopeof this paper,it is
+possible, at least as regards that chief and raptest of upa(cid:1)khya(cid:1)na afi-
+cionadosYudhi:st:hira,tomakethefollowingobservation.A(cid:1)n:rs(cid:2)am: sya,
+non-cruelty, is a value that he hears a good deal about in the
+upa(cid:1)khya(cid:1)nasofBook3,84butnotintheupa(cid:1)khya(cid:1)nasofBooks12and13
+until Bh(cid:1)(cid:3):sma mentions it to him again in the Sudar(cid:2)sana Upa(cid:1)khya(cid:1)na
+(13.2.16)atthebeginningofBook13.There,whereitisrelatedthrough
+oneofDharma’sdisguisestothevaluesofhospitalityandtheangerless
+generosity of the pure gift, I would propose that we have a tying to-
+getherofanimportantvaluenexusfromwhichwecouldconsidersuch
+83 SeeHiltebeitel (2001a,272–275)onthis sequence.
+84InNalaat3.67.15;inthePativrata(cid:1)-Upa(cid:1)khya(cid:1)naat3.198.87,203.41,and206.33;
+and in the ‘‘Firesticks-Subtale’’ at 3.297.55, 71 (doubly), and 74, and 298.10. See
+Hiltebeitel (2001a,202–214,230–231,268–270).
+NOTWITHOUTSUBTALES:TELLINGLAWS 493
+other important upa(cid:1)khya(cid:1)na themes as friendship,85 hospitality,86 and
+ingratitude (no. 49) that this paper has largely left aside, and further,
+begintoexplorethequestionofhowthisnexusmightrelatetobhakti
+in waysthatwouldhelpusto differentiatetheMaha(cid:1)bha(cid:1)ratafromthe
+Ra(cid:1)ma(cid:1)yan:ain,amongotherthings,thewaystheyusesubtales.
+SUBTALE MATERIAL IN THE RA(cid:1)MA(cid:1)YAN:A
+FromtheRa(cid:1)ma(cid:1)yan:a’ssevenbooks,onlyafewmattersbearsummary
+in any detail: the stories of great R::sis who are the subject of
+upa(cid:1)khya(cid:1)nas in the Maha(cid:1)bha(cid:1)rata; and the relation of these R::sis to
+other R::sis, including V(cid:1)alm(cid:1)(cid:3)ki. Attention will thus be restricted to
+portions of Books 1–4, 6 and 7.
+Book1,theBa(cid:1)laka(cid:1)n:d:a,opens,aswehaveseen,withtheupodgha(cid:1)ta,
+whichleadsintoadescriptionoftheIk:sv(cid:1)akudynasty,narrowingdown
+totheonedefectinthelongreignofitscurrentmonarch,Das´aratha:he
+issonless.AtthistimetheGodsandR::sisarealarmedbyR(cid:1)avan:a,who
+harassestheR::sisintheirhermitages.Withthehelpofadescendantof
+the sage Kas´yapa named R:s´yas´:rn_ga (whose story is told in the
+Maha(cid:1)bha(cid:1)rata’s R:s(cid:2)ya(cid:2)s:rn_ga-Upa(cid:1)khya(cid:1)na), Das´aratha’s three wives bear
+four sons, all partial incarnations of Vi:sn:u. Once the boys start their
+Vedic education, the R::si Vis´v(cid:1)amitra (whose story is told in the
+Maha(cid:1)bha(cid:1)rata’sVa(cid:1)si:st:ha-andVi(cid:2)sva(cid:1)mitra-Upa(cid:1)khya(cid:1)nasandismentioned
+in the V(cid:1)itahavya-Upa(cid:1)khya(cid:1)na) arrives. He demands that Das´aratha al-
+low R(cid:1)ama and Lak:sman:a to accompany him into the forest, and is
+supported by the R::si Vasi:st:ha. Vis´v(cid:1)amitra teaches the pair divine
+weaponsandpreparesthemforaR(cid:1)ak:sasaencounter.Vis´v(cid:1)amitrathen
+mentionsthatKingJanakaofMithil(cid:1)a willbeperformingasacrificeat
+which a great bow will bepresentedasa test ofstrength.
+Along the way to Mithil(cid:1)a, Vis´v(cid:1)amitra tells stories: the last of them
+about Ahaly(cid:1)a. Cursed by her husband, the R::si Gautama, for
+being seduced by Indra (a story told in the Maha(cid:1)bha(cid:1)rata’s Ciraka(cid:1)ri-
+Upa(cid:1)khya(cid:1)na and alluded to in its Indravijaya-Upa(cid:1)khya(cid:1)na at 5.2.6), she
+is redeemed by R(cid:1)ama’s arrival at their hermitage – a cautionary tale
+aboutmarriageandsexuality(SutherlandGoldman,2004,72)before
+85 Notablein upa(cid:1)khya(cid:1)nas 48 (Kapota) and49(K:rtaghna).
+86Seenn.77and78above.Theguest/hospitalitythemefiguresprominentlyinthe
+upa(cid:1)khya(cid:1)nasofBooks12and13:notablyinnumbers48(Kapota),49(K:rtaghna),51
+(Ciraka(cid:1)ri), 54 (Un˜chav:rtti), 55 (Sudars(cid:2)ana) and 65 (K(cid:1)it:a), as also in number 67
+(Nakula)inBook14.Foritsstillwiderrange,seeJamison(1996)andParida(2004),as
+citedinn.27above.
+494 ALFHILTEBEITEL
+R(cid:1)ama learns more about Janaka’s sacrifice. Janaka’s minister
+S´ at(cid:1)ananda then tells R(cid:1)ama the story of Vis´v(cid:1)amitra’s former rivalry
+with Vasi:st:ha – how Vis´v(cid:1)amitra elevated himself from K:satriya to
+Brahman after being shamed by the bad results of trying to
+steal Vasi:st:ha’s cow (a topic, again, of the Maha(cid:1)bha(cid:1)rata’s Vasi:st:ha-
+Upa(cid:1)khya(cid:1)na [Mbh 1.165]).
+Janaka’ssacrificeturnsouttobeS(cid:1)(cid:3)t(cid:1)a’s‘‘self-choice’’ofahusband,
+whereR(cid:1)amawinsS(cid:1)(cid:3)t(cid:1)abybreakingabowofS´iva.Tounitethehouses
+further, Janaka provides wives for R(cid:1)ama’s brothers. Vis´v(cid:1)amitra
+departs and along the way back to Ayodhy(cid:1)a R(cid:1)ama is confronted by
+R(cid:1)ama J(cid:1)amadagnya, who appears repeatedly in the Maha(cid:1)bha(cid:1)rata,
+notablyintheKa(cid:1)rtav(cid:1)irya-[Mbh3.115–117],87Ra(cid:1)ma-(J(cid:1)amadagnya),88
+and Vi(cid:2)sva(cid:1)mitra-Upa(cid:1)khya(cid:1)nas. Indeed, the Ra(cid:1)ma(cid:1)yan:a knows the
+Maha(cid:1)bha(cid:1)rata story of R(cid:1)ama J(cid:1)amadagnya’s effacement of the
+K:satriyas as something that happened ‘‘long ago’’ (pu(cid:1)rvam), which
+worries Vasi:st:ha and other sages in the return party in case he has
+come to eliminate R(cid:1)ama D(cid:1)as´arathi as well (1.73.19–20). This older
+Brahman R(cid:1)ama blocks the new K:satriya R(cid:1)ama’s path and demands
+that he break a bow of Vi:sn:u – which R(cid:1)ama does, making the older
+R(cid:1)ama yield. The young couples then return to Ayodhy(cid:1)a.
+R:s´yas´:rn_ga’s contribution to the four brothers’ births, the stories
+told along the way by and about Vis´v(cid:1)amitra, and the encounter with
+R(cid:1)ama J(cid:1)amadagnya, have, like other R::si stories in the Ra(cid:1)ma(cid:1)yan:a,
+often been viewed as ‘‘pura(cid:1)n:a’’-style (i.e., late) ‘‘digressions’’ or
+‘‘interpolations’’ because they depart from a straightforward R(cid:1)ama
+saga.89 Butthisviewoverlooksanemergingpattern.Thesequenceof
+R::sis – R:s´yas´:rn_ga (a descendant of Kas´yapa), Vasi:st:ha, Vis´v(cid:1)amitra,
+Gautama (with Ahaly(cid:1)a),90 and R(cid:1)ama J(cid:1)amadagnya (son of Jama-
+dagni) – has linked R(cid:1)ama’s early years to sages from five of the eight
+87 Also called theJa(cid:1)madagnya-Upa(cid:1)khya(cid:1)na.
+88 12.48–49; I insert ‘‘J(cid:1)amadagnya’’ in parentheses to distinguish this upa(cid:1)khya(cid:1)na
+fromtheRa(cid:1)ma-Upa(cid:1)khya(cid:1)naaboutR(cid:1)amaD(cid:1)as´arathi,butthecolophonsgivebothof
+them the nameRa(cid:1)ma-Upa(cid:1)khya(cid:1)na.
+89 See Goldman (1984, 60) endorsing, especially with reference to the R:s´yas´rn_ga
+episode, long held views of the ‘‘‘pur(cid:1)an:ic’ quality of the Ba(cid:1)laka(cid:1)n:d:a, as contrasted
+withthemore‘epic’qualityBooksTwothroughSix.’’Cf.Brockington(1998,132),
+for whom ‘‘the R:s´yas´:rn_ga episode probably has an independent origin,’’ and the
+Bh(cid:1)argava R(cid:1)ama encounter is an ‘‘interpolated’’ ‘‘grotesque story’’ (478–479). In
+anotherBrockingtonstudy,theBharadv(cid:1)ajaandAgastyaepisodesare‘‘examplesof
+interpolatedepisodes’’(2000,299).Cf.Lefeber(1994,346and349)ontheNis´(cid:1)akara
+episode’s ‘‘late’’and ‘‘decidedlypur(cid:1)an:(cid:1)(cid:3)ctypeof story.’’
+90S´at(cid:1)anandaisalsoaGautama,providingamalepresencefromthisfamilythat
+the story told doesnotprovide.
+NOTWITHOUTSUBTALES:TELLINGLAWS 495
+great Brahman gotras or lineages whose eponymous ancestors are
+connectedwiththecompositionoftheolderbooksoftheR:gVedaand
+regarded as the main pravara R::sis – the ones to whom all Brahman
+families make invocation (pravara) when they give their line of des-
+cent.91 Let us note further that this material is less pura(cid:1)n:a-like than
+Maha(cid:1)bha(cid:1)rata-like; it often folds within the Ra(cid:1)ma(cid:1)yan:a’s one main
+story material that the Maha(cid:1)bha(cid:1)rata treats in its upa(cid:1)khya(cid:1)nas.
+Book 2, the Ayodhya(cid:1)ka(cid:1)n:d:a, builds up to the forest banishment of
+R(cid:1)ama,accompaniedbyS(cid:1)(cid:3)t(cid:1)aandLak:sman:a.CrossingtheGan_g(cid:1)a,the
+trio heads toward their first destination, the hermitage of the R::si
+Bharadv(cid:1)aja.WhenR(cid:1)amaasksBharadv(cid:1)ajato‘‘thinkofsomegoodsite
+for an ashram in a secluded place,’’ the seer directs them to Mount
+Citraku(cid:1)t:a,‘‘ameritoriousplacefrequentedbythegreatR::sis’’(2.48.25).
+When Bharata learns what has happened, he affirms the Ik:sv(cid:1)akus’
+custom of primogeniture, tells his deputies that he rather than R(cid:1)ama
+will fulfill the terms of exile, and orders them to prepare an army to
+help him bring R(cid:1)ama back. Following the same route, Bharata
+reaches Bharadv(cid:1)aja’s ashram. Bharadv(cid:1)aja tests him, conjuring up a
+feast for the army and a royal palace for him. Bharata rejects the
+royal seat, foreshadowing his stewardship of R(cid:1)ama’s throne. Having
+seen Bharata’s worthiness, Bharadv(cid:1)aja again gives directions to
+Citraku(cid:1)t:a. There, after long discussion, Bharata agrees to be regent
+for the duration of R(cid:1)ama’s exile.
+SoonsensingdisquietamongtheCitraku(cid:1)t:aR::sis,R(cid:1)amalearnsthat
+R(cid:1)avan:a’s younger brother Khara has been cannibalizing ascetics in
+nearby Janasth(cid:1)ana. The sages retreat to a safer ashram and R(cid:1)ama
+moves on to the ashram of Atri, where Atri’s wife Anasu(cid:1)y(cid:1)a tells S(cid:1)(cid:3)t(cid:1)a
+the duties of a faithful wife and gives her apparel and jewels.92 R(cid:1)ama
+gets his next directions from the ascetics there, who recommend, all
+other routes being treacherous, ‘‘the path through the forest that the
+greatR::sisusewhentheygotogatherfruits’’(111.19).Withthisclose
+of Book 2, adding Bharadv(cid:1)aja and Atri, R(cid:1)ama has now been linked
+with seven of the eight pravara R::sis or their descendants. These
+original seven, who together constitute the northern constellation of
+the Seven R::sis (Big Dipper), have pointed R(cid:1)ama south.
+91 See Hiltebeitel in press-a for a fuller treatment of this pattern as a ‘‘map’’
+throughthetext,withdiscussionofthesubstitutionsofR:s´yas´:rn_gaforKas´yapaand
+R(cid:1)amaJ(cid:1)amadagnya for Jamadagni.
+92 On this theme, see Hiltebeitel 1980–1981. The articles given by Anasu(cid:1)y(cid:1)a are
+additional to those given to S(cid:1)(cid:3)t(cid:1)a by Das´aratha to cover the bark that Kaikey(cid:1)(cid:3) has
+contemptuously given S(cid:1)(cid:3)tato wearover hersilk(2.33.5–12; 34.15–18).
+496 ALFHILTEBEITEL
+The first line of Book 3, the Aran:yaka(cid:1)n:d:a, finds the trio entering
+the ‘‘vast wilderness’’ of Dan:d:aka. As they move on from a circle of
+ashrams, the R(cid:1)ak:sasa Vir(cid:1)adha looms before them and seizes S(cid:1)(cid:3)t(cid:1)a.
+Painedbyseeinghertouched,R(cid:1)amafillsVir(cid:1)adhawitharrowsandthe
+brotherseachbreakoffanarmtoreleaseher.Vir(cid:1)adharealizeshehas
+beenslainbyR(cid:1)ama,whichrelieveshimfromacurse.Beforegoingto
+heaven,hetellsR(cid:1)amathatthegreatR::siS´arabhan_ga‘‘willseetoyour
+welfare’’ (3.3.22–23). S´arabhan_ga relays R(cid:1)ama to the hermitage of
+Sut(cid:1)(cid:3)k:sn:a, who offers his ashram as a residence; but R(cid:1)ama says he
+might kill the local game. The trio lives happily for 10 years in an-
+other circle of hermitages before returning to Sut(cid:1)(cid:3)k:sn:a (10.21–26).
+StorytellershavenowtoldR(cid:1)amaaboutAgastya’sashramandheasks
+Sut(cid:1)(cid:3)k:sn:ahowtofinditinsovastaforest(29–30).Sut(cid:1)(cid:3)k:sn:aheadshim
+due south, and along the way R(cid:1)ama tells Lak:sman:a stories
+told about Agastya that also occur in the Maha(cid:1)bha(cid:1)rata’s Agastya-
+Upa(cid:1)khya(cid:1)na. R(cid:1)ama intends to live out the remainder of his exile with
+Agastya(Ra(cid:1)m3.10.86),butAgastya,aftermeditatingamoment,says
+that he knows R(cid:1)ama’s true desire and directs him to a lovely forest
+calledPan˜cavat:(cid:1)(cid:3)neartheGod(cid:1)avar(cid:1)(cid:3)RiverwhereS(cid:1)(cid:3)t(cid:1)awillbecomfort-
+ableandR(cid:1)amacanprotectherwhilesafeguardingtheascetics(12.12–
+20). These words of the eighth, last, and southernmost of the great
+pravaraR::sisresoundwithforebodings,asdoesthetrio’smeetingonthe
+way to Pancavat:(cid:1)(cid:3) with the vulture Jat:(cid:1)ayus, who offers to keep watch
+overS(cid:1)(cid:3)t(cid:1)awheneverR(cid:1)amaandLak:sman:aareaway.Howeverkindly,a
+vultureisnormallyabadomen(3.22.4).AtPan˜cavat:(cid:1)(cid:3),thetrioissoon
+visitedbyR(cid:1)avan:a’ssisterS´u(cid:1)rpan:akh(cid:1)a,andthere,afteronethingleads
+to another, S(cid:1)(cid:3)t(cid:1)a is carried off by R(cid:1)avan:a while J(cid:1)at:ayus is sleeping
+(3.48.1).OnceR(cid:1)avan:ahasmetJat:(cid:1)ayus’schallengeandpickedS(cid:1)(cid:3)t(cid:1)aup
+tocontinueonhisway,Brahm(cid:1)a,seeingthisoutragewithhisdivineeye,
+says,‘‘Whatisdonewastobedone,’’andtheDan:d:akaForestR::sisare
+‘‘thrilled’’(prah:r:st:a(cid:1)h)atthesamesight(50.10–11).
+Jat:(cid:1)ayus, unwinged after his fight with R(cid:1)av(cid:1)an:a, soon tells the
+brothers before he dies that R(cid:1)avan:a abducted S(cid:1)(cid:3)t(cid:1)a and went south.
+The brothers head south on an ‘‘untrodden path’’ (3.65.2), passing
+into the Kraun˜ca Forest, still hoping to find S(cid:1)(cid:3)t(cid:1)a. Instead they run
+into a D(cid:1)anava-turned-R(cid:1)ak:sasa, Kabandha: ‘‘Headless trunk’’ but
+also a name for a sacrificial post. He guards the way past him as
+Vir(cid:1)adhadidfortheDan:d:akaForestatthisBook’sbeginning(andas
+Kirm(cid:1)(cid:3)ra and the Yak:sa do at the beginning and end of the
+Maha(cid:1)bha(cid:1)rata’s Book 3). Kabandha is a headless torso with a single-
+NOTWITHOUTSUBTALES:TELLINGLAWS 497
+eyed93 face in his stomach, a huge devouring mouth, and long
+grabbing arms that suddenly seize the brothers, who quickly sever
+them. Realizing that this amputation by R(cid:1)ama ends a long curse,
+Kabandha tells his story, and after R(cid:1)ama has asked if he knows
+anything about R(cid:1)avan:a and has cremated the demon, Kabandha
+rises lustrously from his pyre to say that R(cid:1)avan:a’s abode may be
+found if R(cid:1)ama allies with the monkey Sugr(cid:1)(cid:3)va, whom R(cid:1)ama should
+quickly make a friend and ‘‘commiserator’’ (vayasya). Kabandha
+thendirectsthemtoSugr(cid:1)(cid:3)va’shauntonMountR::syamu(cid:1)ka.Thispath
+takesthemthroughMatan_ga’sWoodtoMatan_ga’sashram,whereall
+the R::sis have passed away except the ‘‘mendicant woman’’ S´abar(cid:1)(cid:3)
+(‘‘the Tribal Woman’’). As S´ abar(cid:1)(cid:3) soon corroborates, Matan_ga and
+his disciples ascended to heaven just when R(cid:1)ama reached Citraku(cid:1)t:a,
+but S´abar(cid:1)(cid:3) has awaited R(cid:1)ama’s arrival so that she can go to heaven
+after seeing him. For this, R(cid:1)ama permits her to enter fire (70.26) –
+indexing an association between fire-entry and purification that will
+also apply to S(cid:1)(cid:3)t(cid:1)a.
+Book 4, the Ki:skindha(cid:1)ka(cid:1)n:d:a, then begins with R(cid:1)ama exploring
+Mount R::syamu(cid:1)ka, being met by Hanum(cid:1)an, and making Sugr(cid:1)(cid:3)va his
+friendand commiseratorjust asKabandhahad advised.94 Inoffering
+to find S(cid:1)(cid:3)t(cid:1)a, Sugr(cid:1)(cid:3)va expresses a one-sided willingness to die for his
+bondwithR(cid:1)ama(8.9),andbeginstogivehissideofastorythatV(cid:1)alin
+wronged him, which R(cid:1)ama accepts even before fully hearing it and
+promises to kill V(cid:1)alin. The first part of Sugr(cid:1)(cid:3)va’s tale concerns his
+falling out with V(cid:1)alin after V(cid:1)alin had killed the demon M(cid:1)ay(cid:1)avin,
+which R(cid:1)ama accepts without question. But behind this story lies
+another by which Sugr(cid:1)(cid:3)va discloses why Mount R::syamu(cid:1)ka provides
+himasylum.M(cid:1)ay(cid:1)avinopposedV(cid:1)alinbecausehehadkilledM(cid:1)ay(cid:1)avin’s
+older brother, ‘‘a buffalo named Dundubhi’’ (4.11.7), whom V(cid:1)alin
+crushed until blood oozed from his ears, hurling away the carcass.
+But ‘‘blood drops from the wounds fell out from its mouth and were
+93 So too Dharma as the Yak:sa. One might connect this with their penetrating
+insight into what R(cid:1)ama and Yudhi:st:hira need for their next adventures: friendship
+withSugr(cid:1)(cid:3)vaandthe heart of thedice.
+94 In precise detail: Kabandha had advised, ‘‘Quickly make him a comrade
+(vayasya),havinggonetherenow,R(cid:1)aghava,sealingyourcompactinthepresenceof
+blazingfiretoshunalltrickery’’(3.68.13);andnow,‘‘Sugr(cid:1)(cid:3)vaandR(cid:1)aghavaentered
+intovayasyabyreverentlycirclingtheblazingfire’’(4.5.16).Thisfairlyunusualterm
+vayasya,literallymeaning‘‘contemporary’’butusedonlybyV(cid:1)alm(cid:1)(cid:3)kiinthesenseof
+‘‘commiserator’’or‘‘sympathizer,’’willcontinuetodefineR(cid:1)amaandSugr(cid:1)(cid:3)va’sbond.
+InoteV(cid:1)alm(cid:1)(cid:3)ki’suniquedevelopmentofSugr(cid:1)(cid:3)va’sandR(cid:1)ama’sfriendshiparoundthis
+‘‘sentiment’’(whichisnottobefoundintheRa(cid:1)mopa(cid:1)khya(cid:1)na)inHiltebeitel(press-a).
+498 ALFHILTEBEITEL
+liftedbythewindtowardMatan_ga’shermitage’’(41).ThereMatan_ga
+cursed V(cid:1)alin to be unable to enter his Wood on pain of death.
+Sugr(cid:1)(cid:3)va now points to Dundubhi’s bones, which R(cid:1)ama kicks off to a
+great distance with just his big toe. Matan_ga’s departure thus defines
+his hermitage, along with Mount R::syamu(cid:1)ka, as a place cursed for its
+pollution. Albeit that Matan_ga is a R::si, he is not a Vedic R::si or even
+a Brahman. Rather, just as S´abar(cid:1)(cid:3)’s name denotes the Tribal, his
+denotes the Untouchable. As with the Maha(cid:1)bha(cid:1)rata’s Matan_ga-
+Upa(cid:1)khya(cid:1)na,95 Dundubhi’s killing has behind it a buffalo sacrifice – a
+quite archaic one, with death by wrestling rather than the sword – in
+which this ‘‘untouchable R::si’’ takes on the pollution of this non-
+Vedic villagey rite.96
+R(cid:1)amathusforgeshisfriendshipwithSugr(cid:1)(cid:3)vainaplacethatisboth
+cursed and beyond the range of the Vedic R::sis who up to now have
+marked his trail. On the one hand, since leaving Agastya, R(cid:1)ama’s
+interventionshavebroughtgraceandsalvationtoKabandha,S´abar(cid:1)(cid:3),
+and V(cid:1)alin, and a timetable for Matan_ga to have vacate´d his her-
+mitage and go to heaven before R(cid:1)ama’s arrival – of these, only
+Matan_ga is thus denied R(cid:1)ama’s saving presence. On the other, since
+meeting Jat:(cid:1)ayus and the cannibal-post Kabandha, R(cid:1)ama has met
+95 There a she-ass discloses the unwelcome news to the young Matan_ga, who
+thinks himself a Brahman, that because his Brahman mother slept with a S´u(cid:1)dra
+barberheisbybirthaCan:d:(cid:1)alaorUntouchable,andMatan_gaspendstherestofhis
+daysdoingtapas,unsuccessfully,tobecomeaBrahman(13.30.13–14).Itwouldseem
+that he cannot be the same Matan_ga: being denied bra(cid:1)hman:ya by Indra, he would
+likely bedenied the possibilityof beinga R::si.
+96AmythlinkedwiththevillagebuffalosacrificeinKarnatakashowsthatanold
+nexusmaylinkthestoriesofthesetwoMatan_gas:BackintheTret(cid:1)ayugawhenallof
+SouthIndiawasundertheruleofR(cid:1)avan:aandBrahmanshadtoperformceremonies
+insecret,aBr(cid:1)ahman:(cid:1)(cid:3)discoveredthatherhusbandandhisrelativesweremeat-eating
+and liquor-imbibing Untouchables, and that her own two daughters shared their
+fare. Before submitting herself to flames and becoming the village goddess, she cut
+offherhusband’spenisandputinhismouth,makinghimtheprototypevictimofthe
+buffalosacrificeatwhichhismaternalunclewouldbecomethePotr(cid:1)ajchargedwith
+bearing off the rite’s pollution and his younger brother Gavanga the chief of the
+Ranigyamusician-choristers(A(cid:1)s(cid:1)adis)chargedwithrevilingthegoddesswithabusive
+songs – all of which would take place with participation of Brahmans and local
+landlordsintheplaceofK:satriyas(seeElliot1821–1860,vol.2,675–681forthisrich
+andlittleknownversionsummarizedinHiltebeitel(1982),88–91and109nn.81–82).
+The Ra(cid:1)ma(cid:1)yan:a’s Matan_ga is thus like the Potr(cid:1)aj a handler of the impurity of a
+buffalosacrifice(seeHiltebeitel,1980a,200–223).AndtheMaha(cid:1)bha(cid:1)rata’sMatan_ga
+becomesakindofchorister,forafterhefailstobecomeaBrahman,heasksIndrato
+beabletoroveatpleasurethroughtheheavenshonoredbyBrahmansandK:satriyas
+and able to assume any form at will, and Indra gives him the boon of becoming
+Chandadeva, God of Chandas verses, and of being adored by women (Mbh 13.30.
+13–14).
+NOTWITHOUTSUBTALES:TELLINGLAWS 499
+only impure or inauspicious beings, including monkeys (according to
+S(cid:1)(cid:3)t(cid:1)a when she first sees Hanum(cid:1)an and thinks she is dreaming, ‘‘a
+monkey in a dream is held by all the (cid:2)sa(cid:1)stras to be inauspicious’’
+[5.30.4; similarly 32.21]). This pattern recurs toward the end of Book
+4 where one learns that 8000 years earlier (4.59.9), the R::si Nis´(cid:1)akara
+(‘‘Night-Maker’’) welcomed Jat:(cid:1)ayus’s vulture brother Samp(cid:1)ati,
+wingless after a misadventure, to his ashram where wild animals –
+bears, deer, tigers, lions, elephants, and snakes – surrounded him as
+they would a benefactor (da(cid:1)t:r). Like Matan_ga, he went to heaven
+rather than wait to see R(cid:1)ama (61.15), and, although he could have
+restored Samp(cid:1)ati’s wings, he left him wingless so he would have to
+stay on the spot until it was time to benefit R(cid:1)ama. Samp(cid:1)ati is thus
+there to see the monkey search party that is looking for S(cid:1)(cid:3)t(cid:1)a in the
+south stop and thinking of fasting to death because they have failed
+tofindher.Thinkingbetterofeatingthistemptingprey,Samp(cid:1)atitells
+themonkeysthatheandhissonsawR(cid:1)avan:atakingS(cid:1)(cid:3)t(cid:1)atoLan_k(cid:1)a–a
+vulture-R::si collaborationthat thuscues Hanum(cid:1)an’s leap to Lan_k(cid:1)a.97
+In the Yuddha Ka(cid:1)nda (Book 6), R(cid:1)avan:a seems unable to focus on
+R(cid:1)ama or the war until his wise maternal grandfather M(cid:1)alyav(cid:1)an,
+counselingpeacewithR(cid:1)amaandS(cid:1)(cid:3)t(cid:1)a’sreturn,saysthegodsandR::sis
+desire R(cid:1)ama’s victory, differentiates dharma and adharma as divine
+and demonic, alludes to the Maha(cid:1)bha(cid:1)rata idea (see Biardeau, 1976,
+155–171) that the king defines the age (yuga), says that throughout
+the regions the R::sis are performing fiery Vedic rites and austerities
+that are damaging the R(cid:1)ak:sasas, foresees the R(cid:1)ak:sasas ’ destruction,
+and concludes, ‘‘I think R(cid:1)ama is Vi:sn:u abiding in a human body’’
+(6.26.6–31). Getting it right, M(cid:1)alyav(cid:1)an calls attention to the R::sis’
+laborstoaffectthewar’soutcomeandprovidesanalogstofeaturesof
+the Bhagavad G(cid:1)ita(cid:1): a theology for the war about to happen; a pre-
+diction of its outcome; and a disclosure of the hidden divinity behind
+it – in this case, hidden so far mainly from himself.
+Once the war is won and R(cid:1)ama has accepted S(cid:1)(cid:3)t(cid:1)a after her fire
+ordeal, afterfinallylearning thathe is Vi:sn:u, everyone(monkeys and
+97ItisinterestingthatNightmakerpointsthewaytoLan_k(cid:1)a,sinceHanum(cid:1)an’sleap
+to Lan_k(cid:1)a followsa route‘‘adornedwith planets,constellations, the moon, thesun,
+and all the hosts of stars … thronged with hosts of great seers’’ (Goldman and
+Sutherland Goldman, 1996, 112, translating 5.1.161). One wonders whether the
+animals that went around (pariva(cid:1)rya upagacchanti; 5.59.15c) Nis´(cid:1)akara’s ashram do
+not hint at the constellations. Cf. n. 56 above on Nis´(cid:1)akara, whose knowledge of
+R(cid:1)ama’sfuturefrom‘‘ofold’’mightsuggestthatithadbeen‘‘inthestars.’’OnLan_k(cid:1)a
+asan‘‘astronomicalconundrum’’andlocation,seeHiltebeitel(1999,89–90)andnn.
+5 and6, 93–94andn. 18.
+500 ALFHILTEBEITEL
+R(cid:1)ak:sasas included) heads toward Ayodhy(cid:1)a on the Pu:spaka chariot,
+stopping along the way at Bharadv(cid:1)aja’s ashram where Bharadv(cid:1)aja
+recounts the trio’s whole adventure, which he knows by his penances
+(6.112.14). R(cid:1)ama is at last enthroned in the presence of his rejoicing
+family and people and the monkeys, R(cid:1)ak:sasas, and R::sis. Twice it is
+said that he ruled for 10,000 years (82, 90), the second time in this
+Book’sverylastwords–surelysoundinglikeahappyending,asmany
+westernscholarsandsomeIndianvernacularshavetakenBook6tobe.
+But the Uttaraka(cid:1)n:d:a (Book 7) opens with R(cid:1)ama just consecrated
+and a series of departures and dismissals. First, the R::sis come to his
+palace–AgastyaandtheoriginalSevenamongthem(7.1.3–4).R(cid:1)ama
+asks about the R(cid:1)ak:sasas he conquered, launching their former near-
+neighbor Agastya on a lengthy R(cid:1)ak:sasa genealogy, with tales of
+R(cid:1)avan:a’s boon and his violations of women, including what some
+Northern manuscripts call the Vedavat(cid:1)i-Upa(cid:1)khya(cid:1)na (7.17) (see above
+n. 31). R(cid:1)ama is repeatedly filled wonder. Then ‘‘all the R::sis went as
+they came’’ (36.46). R(cid:1)ama also dispatches a hundred kings, and the
+R(cid:1)ak:sasas, monkeys, and bears – Hanum(cid:1)an parting with the famous
+words: ‘‘As long as I hear Ra(cid:1)ma-katha(cid:1) on the face of the earth, so
+long will my breaths reside in my body’’ (39.16). Next R(cid:1)ama
+dismisses the Pu:spaka chariot while keeping it on call. And next he
+dismisses S(cid:1)(cid:3)t(cid:1)a who will not remain on call. All these dismissals
+subtract down to a great unraveling.
+After some happiness between R(cid:1)ama and S(cid:1)(cid:3)t(cid:1)a, there comes the
+news that Ayodhy(cid:1)a’s citizens gossip about her time in captivity, and
+R(cid:1)amabanisheshertoprotecthisroyalreputation–evenaftershehas
+announced that she is pregnant. Painfully, Lak:sman:a leaves her at
+V(cid:1)alm(cid:1)(cid:3)ki’s hermitage. Next R(cid:1)ama hears that there are still some
+asceticswholiveinfearofaR(cid:1)ak:sasanamedLavan:a.S´atrughnagoes
+to tackle Lavan:a, and stops over in V(cid:1)alm(cid:1)(cid:3)ki’s leafy hut on the night
+S(cid:1)(cid:3)t(cid:1)agivesbirthtothetwins.98Atdawnheresumeshisjourney,99kills
+Lavan:a,andestablishesakingdomatMathur(cid:1)a.Twelveyearslaterhe
+decides to visit Ayodhy(cid:1)a. On the way, in a passage rejected by the
+Critical Edition even though it appears in all the manuscripts col-
+lated, he stops at V(cid:1)alm(cid:1)(cid:3)ki’s, overhears the twins’ elegant recitals, and
+promises that he and his army will keep their birth secret (7,
+98EarlierthateveninghehearsV(cid:1)alm(cid:1)(cid:3)kitellwhatsomeNorthernmanuscriptscall
+the Sauda(cid:1)sa-Upa(cid:1)khya(cid:1)na(7.57).
+99 Stopping at an ashram on the Yamun(cid:1)a, he hears from Cyavana what some
+Northern manuscriptscall theMandha(cid:1)t:r-Upa(cid:1)khya(cid:1)na(7.59).
+NOTWITHOUTSUBTALES:TELLINGLAWS 501
+Appendix 1, no. 9; Shah, 1975, 26–27). When Bharata sees R(cid:1)ama, he
+mentions nothing about V(cid:1)alm(cid:1)(cid:3)ki, S(cid:1)(cid:3)t(cid:1)a, or the twins.
+Finding himself once again in Agastya’s hermitage after going by
+the Pu:spaka to behead the S´u(cid:1)dra S´ ambu(cid:1)ka, R(cid:1)ama listens to more of
+Agastya’s stories,100 and returns to Ayodhy(cid:1)a, again dismissing the
+Pu:spaka.HenowtellsBharataandLak:sman:ahewishestoperforma
+R(cid:1)ajasu(cid:1)ya sacrifice, but Bharata tells him a horse sacrifice is less
+destructive and Lak:sman:a that the As´vamedha removes all sins and
+purifies(75.2).R(cid:1)amaapprovestheAs´vamedha.HeordersLak:sman:a
+tomakeinvitationstothemonkeysandR(cid:1)ak:sasas,andtotheregional
+R::sis and their wives, and to prepare a vast sacrificial enclosure in the
+Naimi:sa Forest. Bharata is to lead a procession trailed by all the
+mothers from the inner apartments and ‘‘my golden wife (ka(cid:1)n˜can(cid:1)im
+mamapatn(cid:1)im)worthyofconsecration(d(cid:1)ik:sa(cid:1))insacrificialrites’’(19).
+S(cid:1)(cid:3)t(cid:1)a thus has a replacement-statue even while still alive.101 With the
+sacrificeproceeding,V(cid:1)alm(cid:1)(cid:3)kisuddenlyarriveswithhisdisciples(84.1)
+and directs the twins to sing ‘‘the whole Ra(cid:1)ma(cid:1)yan:a poem at the gate
+ofR(cid:1)ama’sdwelling’’(3–5)–20sargasaday(9).R(cid:1)amahearstheboys
+sing the first twenty sargas beginning ‘‘from the sight of N(cid:1)arada
+(na(cid:1)rada-dars(cid:2)ana(cid:1)t)’’(11)–thatis,fromthebeginningoftheupodgha(cid:1)ta
+on. Once the twins tell R(cid:1)ama who authored this poem that contains
+his whole adventure (19), they offer to continue singing it at intervals
+in the rite (21). After many days, R(cid:1)ama recognizes them, misses S(cid:1)(cid:3)t(cid:1)a,
+and summons her to attest to her purity by oath in the midst of the
+greatR::sis,R(cid:1)ak:sasas,andmonkeys,plusunnamedkingsandthefour
+castes in thousands (87.6–7). But when V(cid:1)alm(cid:1)(cid:3)ki brings S(cid:1)(cid:3)t(cid:1)a he attests
+to her purity himself (19), and tells R(cid:1)ama only that ‘‘she will give
+proof of her fidelity’’ (15, 20). No longer demanding the oath just
+announced, R(cid:1)ama accepts V(cid:1)alm(cid:1)(cid:3)ki’s word as tantamount to being
+S(cid:1)(cid:3)t(cid:1)a’s: ‘‘Surely I have proof of fidelity in your stainless words. Surely
+Vaideh(cid:1)(cid:3) gave proof of fidelity formerly in the presence of the gods’’
+(88.2–3) – who by now have also come to witness (5–7). Indeed, in a
+phrase that occurs nowhere else in either epic, this conclave occurs
+‘‘inthemiddleoftheuniverse(jagatomadhye)’’(1,4).Notdemanded
+to make an oath, S(cid:1)(cid:3)t(cid:1)a nonetheless makes one implicitly in her only
+100 Including what some Northern manuscripts call the S(cid:2)veta-Upa(cid:1)khya(cid:1)na (7.69),
+which buildsup toanaccount of the Dan:d:akaForest.
+101 Amid these preparations, R(cid:1)ama, with a smile, tells Lak:sman:a what some
+Northern manuscripts call the Id:a(cid:1)/Ila(cid:1)-Upa(cid:1)khya(cid:1)na (7.78–79) about a king who
+alternates being male and female. Perhaps in S(cid:1)(cid:3)t(cid:1)a’s absence, R(cid:1)ama suggests a
+curiosity aboutbisexual self-sufficiency.
+502 ALFHILTEBEITEL
+and last words: ‘‘If I have thought with my mind of none other than
+R(cid:1)ama, let the goddess M(cid:1)adhav(cid:1)(cid:3) [Earth] give me an opening …’’ (10).
+R(cid:1)ama, who had hoped for ‘‘affection’’ (pr(cid:1)iti) from S(cid:1)(cid:3)t(cid:1)a (4), has thus
+accepted the author’s word as S(cid:1)(cid:3)t(cid:1)a’s only to be overwhelmed with
+griefandhorrorbywhatherword–andthepoet’s–actuallyis.This
+is the moment at which he comes to realize what it means to be
+caughtupinhisownstory,which,ifhehearditfromtheframeon,as
+wearetold,hewouldknowtohavealsobeenS(cid:1)(cid:3)t(cid:1)a’sstoryandtohave
+been inspired by the grief of a female bird. R(cid:1)ama now threatens to
+destroy the Earth unless she returns S(cid:1)(cid:3)t(cid:1)a intact (7, Appendix I, No.
+13,lines18–20)untilBrahm(cid:1)arepeatswhathetoldhimafterS(cid:1)(cid:3)t(cid:1)a’sfire
+ordeal, that he is Vi:sn:u, and invites him to listen with the great R::sis
+to the rest of this ‘‘first poem,’’ which will now tell what is still to
+happen (21–40). Once Brahm(cid:1)a returns to heaven, the R::sis in Brah-
+maloka obtain his permission to return for the rest as well (43–49).
+The heavenly R::sis of Brahmaloka thus come to an earthly Naimi:sa
+ForesttoheartheendoftheRa(cid:1)ma(cid:1)yan:a,whereasintheMaha(cid:1)bha(cid:1)rata
+the R::sis of the Naimi:sa Forest seem to be in the heavens when they
+havetheMaha(cid:1)bha(cid:1)rataatlastbroughttothem.102ThoughtheCritical
+edition rejects this sarga, it does so only on the grounds that without
+it ‘‘the continuity of the narration … is not hampered and appears in
+a better order’’ (Shah, 1975, 29). For R(cid:1)ama, the relation between
+S(cid:1)(cid:3)t(cid:1)a’stwoordealsseemstobethatwhereashisfirstself-recognitionas
+Vi:sn:u emerges out of a human identity crossed with uncertainty and
+confusion as to his own all-too-human emotions, his second comes
+after he has learned of his divinity and has repeatedly pared his life
+down to a perfect rule through his repeated dismissals of others, yet
+withoutconsiderationof whatthishascosthimsincethebanishment
+ofhiswife–nottomentionwhatithascosther.Ifso,thepoemcould
+be sayingthatV(cid:1)alm(cid:1)(cid:3)ki’s initial questionto N(cid:1)arada – whether there is
+an ideal man today – was not really convincingly answered.
+OncetheAs´vamedhaends,R(cid:1)amafindstheuniverseemptywithout
+S(cid:1)(cid:3)t(cid:1)a and again dismisses the kings, bears, monkeys, and R(cid:1)ak:s(cid:1)asas
+(89.1). The R::sis seem to take care of themselves. R(cid:1)ama never
+remarries, but at all his sacrifices there is a golden S(cid:1)(cid:3)t(cid:1)a (ja(cid:1)nak(cid:1)i
+ka(cid:1)ncan(cid:1)i;4).For10,000 yearsherulesaharmoniouskingdom.Finally
+DeathorTime(K(cid:1)ala)comestohimasamessengerfromBrahm(cid:1)aand
+tells him they must meet alone; anyone hearing them must be killed.
+While R(cid:1)ama posts Lak:sman:a at the door, ‘‘Time who destroys all’’
+102 See aboveat nn.18and38.
+NOTWITHOUTSUBTALES:TELLINGLAWS 503
+(94.2) tells R(cid:1)ama it is time to return to heaven as Vi:sn:u. As the two
+converse, the congenitally ravenous ‘‘blessed R::si Durv(cid:1)asas’’ (95.1b),
+familiar from the Maha(cid:1)bha(cid:1)rata’s Mudgala-Upa(cid:1)khya(cid:1)na,103 tries to
+barge in, threatening to curse the kingdom if he is prevented.
+Lak:sman:a chooses his own death rather than allowing that of others
+and admits him. Durv(cid:1)asas only wants something to eat after a
+thousand-year fast, which R(cid:1)ama happily provides. At Vasi:st:ha’s
+advice R(cid:1)ama then banishes Lak:sman:a as equivalent to death, and
+Lak:sman:a, meditating by the Sarayu(cid:1) River, is taken up to heaven.
+After R(cid:1)ama divides Kosala into two kingdoms to be ruled by Kus´a
+andLava,heenterstheSarayu(cid:1) andresumeshisdivineform,followed
+in this by Bharata and S´ atrughna.
+UPA(cid:1)KHYA(cid:1)NA PRECEDENCE AND THE ESSENCE OF THEM ALL
+The relation between the Ra(cid:1)ma(cid:1)yan:a and the Maha(cid:1)bha(cid:1)rata’s
+Ra(cid:1)mopa(cid:1)khya(cid:1)na is usually posed as one between just these two
+SanskritR(cid:1)amastories,andasaquestionofwhetherthereisagenetic
+relation between them. Which came first? Or do both rely on some
+prior Ra(cid:1)makatha(cid:1)? On these questions, this article’s position is two-
+fold.First,theprimaryrelationisnotbetweentheRa(cid:1)ma(cid:1)yan:aandthe
+Ra(cid:1)mopa(cid:1)khya(cid:1)na, but between the Ra(cid:1)ma(cid:1)yan:a and the Maha(cid:1)bha(cid:1)rata,
+which it views as the slightly earlier of the two quite possibly over-
+lappingprojects.Onthispoint,itwasnotedthattheirsimilardesigns
+couldnotbeaccidental.Itiseasierto imagineV(cid:1)alm(cid:1)(cid:3)kirefiningka(cid:1)vya
+outofamulti-genreMaha(cid:1)bha(cid:1)ratathantoimagineVy(cid:1)asaoverlooking
+this achievement to spread disarticulation. In this vein, the
+Ra(cid:1)mopa(cid:1)khya(cid:1)na opens with material about R(cid:1)avan:a that the
+Ra(cid:1)ma(cid:1)yan:a saves for Book 7. It thus cannot be explained as an epit-
+ome of the Ra(cid:1)ma(cid:1)yan:a, since it lacks the structure that the Ra(cid:1)ma(cid:1)yan:a
+shares with the Maha(cid:1)bha(cid:1)rata.
+Second, this article holds that it is helpful to reflect on how
+upa(cid:1)khya(cid:1)namaterialisusedinbothepics.Asobserved,theRa(cid:1)ma(cid:1)yan:a
+uses this term only in an interpolation and in Northern Recension
+colophons. Rather than having stand-out ‘‘subtales,’’ the Ra(cid:1)ma(cid:1)yan:a
+folds all its secondary narratives into one consecutively unfolding
+poem.Thisisespeciallynoteworthyinitsstoriesabouttheeightgreat
+R::sis encountered by R(cid:1)ama, many of which include material that the
+Maha(cid:1)bha(cid:1)rata relates in its upa(cid:1)khya(cid:1)nas. Other than mentioning
+103 Andother Maha(cid:1)bha(cid:1)rata stories,as mentioned above (seen. 66).
+504 ALFHILTEBEITEL
+Vasi:st:ha, a fixture in the Ik:sv(cid:1)aku house, the Ra(cid:1)mopa(cid:1)khya(cid:1)na doesnot
+know these R::sis. It has no R:s´yas´:rn_ga, Vis´v(cid:1)amitra, Gautama and
+Ahaly(cid:1)a, R(cid:1)ama J(cid:1)amadagnya, or for that matter Vasi:st:ha involved in
+the stories from birth through marriage; just this: ‘‘In the course of
+time[Das´aratha’s]sonsgrewupveryvigorous,andbecamefledgedin
+the Vedas and their mysteries and in the art of archery. They com-
+pletedtheirstudentyears,andtookwives’’(Mbh3.261.4–5).Ithasno
+Bharadv(cid:1)aja;justthisofBharata:‘‘HefoundR(cid:1)amaandLak:sman:aon
+Mount Citraku(cid:1)t:a’’ (216.63). And from Citraku(cid:1)t:a on, there is not a
+peep from Atri and Anasu(cid:1)y(cid:1)a or Agastya. There is also no V(cid:1)alm(cid:1)(cid:3)k(cid:1)(cid:3),
+Matan_ga, or Nis´(cid:1)akara. It is improbable that the Ra(cid:1)mopa(cid:1)khya(cid:1)na
+would have strained out all these figures and episodes if it were a
+Ra(cid:1)ma(cid:1)yan:a epitome. V(cid:1)alm(cid:1)(cid:3)ki would seem to have worked such
+upa(cid:1)khya(cid:1)na material into something he claims to be new: ka(cid:1)vya, ‘‘the
+first poem.’’ And this would seem to be the best way to think about
+what he did with the Ra(cid:1)mopakhya(cid:1)na: go beyond it to author a poem
+in which R(cid:1)ama and S(cid:1)(cid:3)t(cid:1)a move through their double adventure along
+paths signposted by R::sis who impart Vedic authority to new values
+about dharma centered on bhakti as a servant–master relation of
+subjects to a divinity-embodying king. These knowing Vedic R::sis
+represent ‘‘all the R::sis’’ high and low who motivate this divine
+incarnation to cleansethe world of noxious R(cid:1)ak:sasas,and ultimately
+come to hear out his story to the end. And they in turn are repre-
+sented by V(cid:1)alm(cid:1)(cid:3)ki himself who frames all the paths that R(cid:1)ama and
+S(cid:1)(cid:3)t(cid:1)a take as ones that begin with his inspiration to tell their adven-
+tures in a poem that will lead them ultimately back to him.
+As to the Maha(cid:1)bha(cid:1)rata, we began with the question of what a
+‘‘Bha(cid:1)rata’’ without upa(cid:1)khya(cid:1)nas might have signified, and looked at
+how and where upa(cid:1)khya(cid:1)nas are woven into the Maha(cid:1)bha(cid:1)rata. There
+is,however,oneotherreferencetotheepic’supa(cid:1)khya(cid:1)nasthatisyetto
+be plumbed. It occurs toward the end of Book 12 in the highly
+devotional Na(cid:1)ra(cid:1)yan:(cid:1)iya, and takes us back where we began: to the
+‘‘oceanic mind’’ of the author, and also to the A(cid:1)st(cid:1)ikaparvan substory
+called‘‘TheChurningoftheOcean’’(1.15–17).104Onemayalsorecall
+that on the last day of the war, Duryodhana, hiding from the
+P(cid:1)an:d:avas to recuperate, finds his last relief by magicially concealing
+104 Of which the Ra(cid:1)ma(cid:1)yan:a has a short version as well (1.44.13–27). The
+Maha(cid:1)bha(cid:1)rata provides no genre term or independent title for its ‘‘Churning of the
+Ocean’’ story; seeGombach(2000,II, 11,n. 9).
+NOTWITHOUTSUBTALES:TELLINGLAWS 505
+himself in anotherwise unheard of Dvaip(cid:1)ayana Lake (9.29.53a):that
+is, a lake bearing the name of the author.105
+About one third through the Na(cid:1)ra(cid:1)yan:(cid:1)iya, itself an 18-chapter
+epitome of the Maha(cid:1)bha(cid:1)rata (although the Critical Edition splits a
+chapter and makes it nineteen [12.321–339]),106 Bh(cid:1)(cid:3):sma says that the
+story he has just told Yudhi:st:hira about N(cid:1)arada’s journey to ‘‘White
+Island’’ (S´vetadv(cid:1)ipa) – an island somewhere on the northern shore of
+the milky ocean107 – is a ‘‘narrative (a(cid:1)khya(cid:1)nam) coming from a seer-
+based transmission (a(cid:1)r:seyam pa(cid:1)ramparya(cid:1)gatam) that should not be
+given’’ to anyone who is not a Vi:sn:u devotee (12.326.113), and,
+moreover, that it is the ‘‘essence’’ of all the ‘‘other upa(cid:1)khya(cid:1)nas’’ he
+has transmitted:
+Of those hundreds of other virtuous subtales (anya(cid:1)ni … upa(cid:1)khya(cid:1)na(cid:2)sata(cid:1)ni …
+dharmya(cid:1)n:i)thatareheardfromme,king,thisisraisedup(orextracted,ladledout:
+uddh:rtah:)astheiressence(sa(cid:1)ro);justasnectarwasraisedupbythegodsanddemons,
+havingchurned(theocean),evensothisnectarofstory(katha(cid:1)m:rtam)wasformerly
+raised upby thesages (12.326.114–115).
+Hearing this, Yudhi:st:hira and all the P(cid:1)an:d:avas become N(cid:1)ar(cid:1)ayan:a
+devotees (326.121). This suggests that one could count the ‘‘White
+Island’’storyasa68thupa(cid:1)khya(cid:1)na.Furthermore,Bh(cid:1)(cid:3):smaholdsthatit
+is the essence of them all. He has also used a(cid:1)khya(cid:1)na and upa(cid:1)khya(cid:1)na
+interchangeably with each other and with katha(cid:1), story. And when he
+speaks of the ‘‘hundreds of other virtuous upa(cid:1)khya(cid:1)nas that are heard
+from me,’’ he probably implies not only those he has just told
+Yudhi:st:hira in the S(cid:2)a(cid:1)ntiparvan, but all the others he has told or will
+tell elsewhere, and those that have been recited by others, which
+105JustafterVy(cid:1)asasuddenlyappearsonthebattlefieldtorescueSam:jayasothat
+hisall-seeingbardcanreturntothecityandcontinuenarratingeventstoDh:rtar(cid:1)a:st:ra
+(9.28.35–39), Sam:jaya meets Duryodhana alone and tells him of his narrow escape
+‘‘through the grace of Dvaip(cid:1)ayana’’ (42–43). When Sam:jaya keeps Duryodhana
+uninformed about his three remaining allies, even though Sam:jaya has just seen
+them,Duryodhanatellshimtotellhisfatherhehasenteredalake(47–49),whichhe
+then does, solidifying the waters by his ma(cid:1)ya(cid:1)or power of illusion (52). Eventually,
+goaded by Yudhi:st:hira, Duryodhana breaks up through the solidified waters
+shouldering his ironmace(31.36). See Hiltebeitel (2001a, 59–62).
+106Onthispoint,whichcallsforacorrectionoftheCriticalEdition,seeHiltebeitel
+(press-b).
+10712.322.8;323.21;326.126,placingitinthegeneralvicinityoftheHorse’sHead,
+thesubjectoftheupa(cid:1)khya(cid:1)nanarratedlaterintheNa(cid:1)ra(cid:1)yan:(cid:1)iyabyUgras´ravastothe
+Naimi:sa Forest R::sis about Vi:sn:u’s manifestation [12.335]), and also mentioned in
+two otherupa(cid:1)khya(cid:1)nas (see n.46above).
+506 ALFHILTEBEITEL
+Bh(cid:1)(cid:3):sma, given his many heavenly and earthly sources,108 would
+almost certainly know as well.
+Still within the Na(cid:1)ra(cid:1)yan:(cid:1)iya, just after its next major narrative on
+prav:rtti and niv:rtti, S´aunaka109 says to Ugras´ravas:
+OSauti,verygreatisthenarrative(a(cid:1)khya(cid:1)na)recitedbyyou,havingheardwhich,the
+sages are all gone to the highest wonder.110 … Surely having churned the supreme
+ocean of knowledge by this hundred thousand (verse) Bha(cid:1)rata narrative with the
+churning of your thought (idam: s(cid:2)atasahasra(cid:1)d hi bha(cid:1)rata(cid:1)khya(cid:1)na vistara(cid:1)t/ a(cid:1)mathya
+matimanthenajn˜a(cid:1)nodadhimanuttamam)–asbutterfrommilk,assandalfromMount
+Malaya,andasA(cid:1)ran:yaka(forestinstruction)fromtheVedas,asnectarfromherbs–
+so is this supreme nectar of story (katha(cid:1)m:rtam) … raised up [as] spoken by you,
+which rests onthe storyof N(cid:1)ar(cid:1)ayan:a (na(cid:1)ra(cid:1)yan:akatha(cid:1)(cid:2)srayam)(12.331.1–4).
+Although S´aunaka commends Ugras´ravas for ‘‘having churned the
+supreme ocean of knowledge by this hundred thousand (verse)
+Bha(cid:1)rata-a(cid:1)khya(cid:1)na with the churning of your thought’’ (that is,
+Ugras´ravas’s), we must remember that Ugras´ravas is only said to be
+transmitting the Maha(cid:1)bha(cid:1)rata to the Naimi:sa Forest R::sis as the
+‘‘entire thought’’ of Vy(cid:1)asa (1.1.23). This suggests that the full hun-
+dred thousand verses – with the upa(cid:1)khya(cid:1)nas included – of the
+Bha(cid:1)rata-a(cid:1)khya(cid:1)na were churned first by Vy(cid:1)asa before they were
+rechurned by Ugras´ravas, with Vais´amp(cid:1)ayana, their intermediary,111
+having also delivered Vy(cid:1)asa’s ‘‘entire thought’’ (1.55.2) at Janame-
+jaya’s snake sacrifice, where Ugras´ravas overheard it.
+Then, still within the Mok:sadharma anthology of the S(cid:2)a(cid:1)ntiparvan,
+before these two passages but leading up to the story of S´uka
+(12.310–320), there is a third passage that uses the same metaphor
+and similes. It occurs within Bh(cid:1)(cid:3):sma’s account of the lengthy
+instructionthatVy(cid:1)asagiveshisfirstbornsonS´ uka(12.224–246),who
+is not only one of Vy(cid:1)asa’s five disciples (Vais´amp(cid:1)ayana being an-
+other)tohavefirstheardtheMaha(cid:1)bha(cid:1)ratafromhim,butthesonwho
+108 See Hiltebeitel (2001b), making the point that Bh(cid:1)(cid:3):sma’s youth spent with his
+mother, the heavenly Gan_g(cid:1)a, may have provided him a special educational oppor-
+tunity tomeet celestial sages.
+109AgaincorrectingtheCriticalEdition,whichmakesthespeakerVais´amp(cid:1)ayana;
+seeHiltebeitel (press-b).
+110TheCriticalEditionomitsalongsectionherethatshouldprobablyberestored.
+111AstheCriticalEditionregistersandactuallyprefers,somemss.attributethese
+words notto Sauti buttoVais´amp(cid:1)ayana.
+NOTWITHOUTSUBTALES:TELLINGLAWS 507
+willobtainliberationbeforetheMaha(cid:1)bha(cid:1)rata–despiteS´uka’shaving
+heard it – can have fully happened.112 Says Vy(cid:1)asa,
+Untraditionalandunprecedented,thesecretofalltheVedas,thistreatise(s(cid:2)a(cid:1)stra),of
+which everyone can convince himself, is further instruction for my son
+(putra(cid:1)nu(cid:2)sa(cid:1)sanam). By churning the wealth that is contained in all the narratives
+(akhya(cid:1)nas)aboutdharmaandallthenarrativesabouttruth,asalsothetenthousand
+R:cs,113thisnectarhasbeenraised(dharma(cid:1)khya(cid:1)ne:susarve:susatya(cid:1)khya(cid:1)ne:suyadvasu/
+das(cid:2)edam:rc sahasra(cid:1)n:i nirmathya(cid:1)m:rtam uddh:rtam) – like butter from curds and fire
+fromwood,asalsotheknowledgeofthewise,evenhasthisbeenraisedforthesake
+of my son(putrahetoh: samuddh:rtam) (12.238.13–15).
+The churning metaphor thus finds Vy(cid:1)asa at its bottom, since he
+wouldbethefirsttouseit–beforeBh(cid:1)(cid:3):smaorUgras´ravas.114Indeed,
+S´ ukaisbornwhenVy(cid:1)asaseesanymphandejaculateshissemenonto
+his churning firesticks (12.311.1–10). Vy(cid:1)asa’s further instruction to
+S´ uka would also be churned up from all the a(cid:1)khya(cid:1)nas – presumably
+of the Maha(cid:1)bha(cid:1)rata, which would imply as well the upa(cid:1)khya(cid:1)nas and
+likewise imply that this ‘‘treatise’’ for his son epitomizes the
+Maha(cid:1)bha(cid:1)rata itself.115 S´uka’s agenda of seeking liberation (mok:sa) is
+set here, and he attains mok:sa toward the end of Book 12 as a boy,
+just before the Na(cid:1)ra(cid:1)yan:(cid:1)iya and its sequel: Bh(cid:1)(cid:3):sma’s grand run of
+upa(cid:1)khya(cid:1)nasfromBook12into Book13.Takingthepassageliterally,
+it seems to say that Vy(cid:1)asa churned all the Maha(cid:1)bha(cid:1)rata’s narratives
+about dharma and truth for the sake of S´uka’a liberation, the very
+thing that Yudhi:st:hira, shortly after hearing that story, accepts that
+he must do without while asking for further stories.
+These churning passages are heightened reflections on at least two
+of the purposes of narrative within the Maha(cid:1)bha(cid:1)rata’s overall grand
+design: that it all rests on N(cid:1)ar(cid:1)ayan:a, and that its essence is liberating
+instructiononbothtruthanddharma.Theywouldseemtoreflectthe
+exuberant overview from within of some of those who were involved
+in the production of the earliest totality of this work.
+112ThispointisdevelopedinHiltebeitel2001a,chapter8,especiallypp.284–285,
+316. Note that Fitzgerald (2003, 207) concedes that the S´uka story, like ‘‘Nala,’’ is
+‘‘suggestiveof‘fiction’’’(seen.53).Fitzgeraldisonuncertaingroundwhenhesays
+thatVais´amp(cid:1)ayana’sresponsetoJanamejaya’squestions‘‘cannotbeaunderstoodas
+verbatimrepetitionsofVy(cid:1)asa’scomposition’’(2002,99n.23).Logicallyheisright,
+but in fiction, not to mention futurist fiction, strange things are possible. The
+Maha(cid:1)bha(cid:1)ratapoetsfinessethisbyhavingbothVais´amp(cid:1)ayanaandUgras´ravasrelate
+Vy(cid:1)asa’s‘‘entire thought.’’
+113 Presumably R:gvedicmantras.
+114 Though perhaps not before the ten thousand R:cs or the ‘‘sages’’ (vipras)
+mentioned at theend of the passagejustquoted from Bh(cid:1)(cid:3):sma at 12.326.15.
+115 See n.21above.
+508 ALFHILTEBEITEL
+REFERENCES
+Bedekar,V.M.(1962).‘TheLegendofCirak(cid:1)arinintheSkandaMah(cid:1)apur(cid:1)an:aandthe
+Mah(cid:1)abh(cid:1)arata’.Pura(cid:1)n:a11(2), 210–228.
+Bedekar,V.M.(1963).‘ThePlaceofJapaintheMok:sadharmaParvan(Mah(cid:1)abh(cid:1)arata
+12.189-93)andtheYogasu(cid:1)tras’.AnnalsoftheBhandarkarOrientalResearchInstitute
+44,63–74.
+Biardeau, Madeleine. 1971–72. ‘Compte rendu of seminar on the Maha(cid:1)bha(cid:1)rata’.
+Annuaire del’E´cole Pratique desHautes E´tudes,Section5 79, 139–147.
+Biardeau, Madeleine.(1976).‘E´tudesdemythologie hindoue:4. Bhaktietavat(cid:1)ara’.
+Bulletin del’E´cole Franc¸aised’Extreˆme Orient63, 87–237.
+Biardeau, Madeleine.(1978).‘E´tudesdemythologie hindoue:5. Bhaktietavat(cid:1)ara’.
+Bulletin del’E´cole Franc¸aised’Extreˆme Orient65, 111–263.
+Biardeau, Madeleine. (1984). ‘Nala et Damayant(cid:1)(cid:3). He´ros e´piques. Part 1’. Indo-
+Iranian Journal 27,247–274.
+Biardeau, Madeleine. (1985). ‘Nala et Damayant(cid:1)(cid:3). He´ros e´piques. Part 2’. Indo-
+Iranian Journal 28,1–34.
+Biardeau, Madeleine. (1997a). ‘Some remarks on the links between the epics, the
+Pur(cid:1)an:as and their vedic sources’. In Gerhard Oberhammer (ed), Studies in Hin-
+duism: Vedism and Hinduism. (pp. 77–119). Vienna: Verlag der O¨ sterreichischen
+Akademie derWissenschaften.
+Biardeau,Madeleine.(1997b).‘UncertainK(cid:1)(cid:3)caka’.InSiegfriedLienhardandIrma
+Piovano,(eds),Lexetlitterae:StudiesinhonourofProfessorOscarBotto(pp.35–
+52). Alessandria: Edizionidell’Orso.
+Biardeau, Madeleine. (1999).LeRa(cid:1)ma(cid:1)yan:adeVa(cid:1)lm(cid:1)iki.Paris: Gallimard.
+Biardeau, Madeleine. (2002). Le Maha(cid:1)bha(cid:1)rata: Un re´cit fondateur du brahmanisme
+et son interpre´tation. 2vols. Paris: E´ditions du Seuil.
+Brockington,JohnL.(1998).InJ.Bronkhorst,(ed.),TheSanskritEpics.Handbuch
+der Orientalistik, ZweiteAbteilung, Indien, Vol.12. Leiden:E. J. Brill.
+Brockington, John L. (2000). In Greg Bailey & Mary Brockington, (eds), Epic
+Threads:JohnBrockington onthe Sanskrit Epics. NewDelhi: OUP.
+Conze, Edward. (1960).ThePrajn˜a(cid:1)pa(cid:1)ramita(cid:1)Literature.The Hague:Mouton.
+Custodi, Andrea. (2004). Dharma and Desire: Lacan and the Left Half of the
+Maha(cid:1)bha(cid:1)rata.PhD Dissertation. GeorgeWashington University.
+Dandekar, R.N. (1966). Anusa(cid:1)(cid:2)sanaparvan. Introduction and apparatus. Vol. 17 of
+V.S.Sukthankaretal.,eds.1933–70.Maha(cid:1)bha(cid:1)rata:CriticalEdition.24vols.with
+Harivam:s(cid:2)a. Poona:BhandarkarOriental ResearchInstitute.
+Dange, Sadashiv Ambadas (1969). Legends in the Maha(cid:1)bha(cid:1)rata. Delhi: Motilal
+Banarsidass.
+Elliot,SirWalter.(1821–1860).AboriginalCasteBook.3Handwrittenvols.London:
+IndiaOffice Library.
+Fitzgerald,JamesL.(2002).‘TheR(cid:1)amaJ(cid:1)amadagnya‘Thread’oftheMaha(cid:1)bha(cid:1)rata:
+A new Survey of R(cid:1)ama J(cid:1)amadagnya in the Pune Text’. In Mary Brockington,
+(ed.), Stages and Transitions: Temporal and Historical Frameworks in Epic and
+Pura(cid:1)n:ic Literature (pp. 89–132). Proceedings of the Second Dubrovnik Interna-
+tionalConferenceontheSanskritEpicsandPur(cid:1)an:as.Zagreb:CroatianAcademy
+of Sciences andArts.
+Fitzgerald, James L. (2003). ‘The many voices of the Maha(cid:1)bha(cid:1)rata. Review of
+Hiltebeitel 2001’.Journal of theAmerican Oriental Society123(4),803–818.
+Fitzgerald,JamesL.(2004a).trans.anded.TheMaha(cid:1)bha(cid:1)rata,vol.7:11,TheBookof
+the Women; 12, The Book of Peace, Part One. Chicago: University of Chicago
+Press.
+NOTWITHOUTSUBTALES:TELLINGLAWS 509
+Fitzgerald,JamesL.(2004b).Mah(cid:1)abh(cid:1)arata.InSushilMittal&GeneThursby(eds),
+The Hindu World.New York: Routledge.
+Fitzgerald, James L. (In press). Bh(cid:1)(cid:3):sma’s Instructions of Yudhi:st:hira in the
+Maha(cid:1)bha(cid:1)rata: new perspectives on the development and growth of the epic
+between the Empires’. To appear in Patrick Olivelle, ed. ‘‘Between the Empires’’
+volume from Austin,Texasconference, April 2003.
+Franco,Eli.(2004).TheSpitzerManuscript:TheEarliestPhilosophicalManuscriptin
+Sanskrit. 2 vols. Vienna: Verlag der O¨ sterreichischen Akademie der Wissens-
+chaften.
+Ganguli,KisariMohan,trans.&PratapChandraRoy,publisher.([1884–96]1970).
+The Mahabharata. New Delhi:Munshiram Manoharlal.
+Ghosh, Aurobindo [Sri Aurobindo]. (1991). Notes on the Maha(cid:1)bha(cid:1)rata. In Sri
+Aurobindo,OntheMahabharata(pp.1–83).Pondicherry:SriAurobindoAshram.
+(Written shortly afterSeptember 1901butnotthenpublished.)
+Goldman, Robert P., trans. & gen. ed. (1984). The Ra(cid:1)ma(cid:1)yan:a of Va(cid:1)lm(cid:1)iki, vol. 1:
+Ba(cid:1)laka(cid:1)n:d:a.Princeton: Princeton University Press.
+Goldman, Robert P., trans. & Sally Sutherland Goldman, translators and general
+and associate eds. (1996). The Ra(cid:1)ma(cid:1)yan:a of Va(cid:1)lm(cid:1)iki, vol. 5: Sundarka(cid:1)n:d:a.
+Princeton: Princeton University Press.
+Gombach, Barbara. (2000). Ancillary Stories in the Sanskrit Maha(cid:1)bha(cid:1)rata. PhD
+Dissertation. 2parts. Columbia University.
+Hiltebeitel, Alf. ([1976] 1990). The Ritual of Battle. Krishna in the Maha(cid:1)bha(cid:1)rata.
+Albany: State University ofNew YorkPress.
+Hiltebeitel, Alf. (1980a). ‘R(cid:1)ama and Gilgamesh: the sacrifices of the water buffalo
+and the bull ofheaven’. Historyof Religions 19,187–223.
+Hiltebeitel,Alf.(1980b).‘S´iva,theGoddess,andtheDisguisesoftheP(cid:1)an:d:avasand
+Draupad(cid:1)(cid:3). Historyof Religions 20,147–174.
+Hiltebeitel, Alf. (1980–81). ‘S(cid:1)(cid:3)t(cid:1)a Vibhu(cid:1):sit(cid:1)a: The Jewels for Her Journey’. Ludwik
+Sternbach Commemoration Volume.Indologica Taurinensia 8–9, 193–200.
+Hiltebeitel, Alf. (1982). ‘Sexuality and sacrifice: convergent subcurrents in the fire-
+walkingcultofDraupad(cid:1)(cid:3).InFredW.Clothey,(ed.),ImagesofMan:Religionand
+Historical Processin SouthAsia(pp. 72–111).Madras: NewEraPublications.
+Hiltebeitel, Alf. (1984). ‘The two K:r:sn:as on one chariot: Upani:sadic imagery and
+epic mythology’. HistoryofReligions 24,1–26.
+Hiltebeitel, Alf. (1991). The Cult of Draupad(cid:1)i, vol. 2: On Hindu Ritual and the
+Goddess. Chicago: Universityof ChicagoPress.
+Hiltebeitel,Alf.(1999).RethinkingIndia’sOralandClassicalEpics:Draupad(cid:1)iamong
+Rajputs, Muslims, andDalits.Chicago: University of ChicagoPress.
+Hiltebeitel, Alf. (2001a). The Education of Yudhi:st:hira: A Reader’s Guide to the
+Educationof the DharmaKing.Chicago: University of ChicagoPress, 2001.
+Hiltebeitel, Alf. (2001b). ‘Bh(cid:1)(cid:3):sma’s sources’. In Klaus Karttunen & Petteri
+Koskikallio (eds), Vidya(cid:1)rn:avavandanam: Essays in Honour of Asko Parpola
+(pp. 261–278). StudiaOrientalia 94. Helsinki: Finnish OrientalSociety.
+Hiltebeitel, Alf. (2004). ‘The Emergence of K(cid:1)avya out of the two sanskrit epics’.
+International Seminar on the Origins of Mah(cid:1)ak(cid:1)avya, Universita` degli Studi di
+Milano, June4–5.
+Hiltebeitel,Alf.(Inpress-a).‘Authorialpathsthroughthetwosanskritepics,Viathe
+Ra(cid:1)mopa(cid:1)khya(cid:1)na’. To appear in Petteri Koskikallio, (ed.), Proceedings of the 14th
+WorldSanskrit Conference, 2003, Helsinki.
+Hiltebeitel,Alf.(Inpress-b).‘TheNa(cid:1)ra(cid:1)yan:(cid:1)iyaandtheearlyreadingcommunitiesof
+the Maha(cid:1)bha(cid:1)rata’. To appear in Patrick Olivelle, (ed.), ‘‘Between the Empires’’
+volume from Austin,Texasconference, April 2003.
+510 ALFHILTEBEITEL
+Hiltebeitel,Alf.(Inpress-c).‘MorerethinkingtheMaha(cid:1)bha(cid:1)rata:Towardapoliticsof
+bhakti. To appearin Indo-Iranian Journal.
+Hiltebeitel, Alf. (In press-d). ‘Weighting orality and writing in the sanskrit epics’.
+Conference papers from the 2002 Dubrovnik International Conference on the
+SanskritEpics andPur(cid:1)an:as. Petteri Koskikalio, ed.
+Hiltebeitel,Alf.(Inpress-e).OnreadingFitzgerald’sVy(cid:1)asa.ToappearinJournalof
+the AmericanOriental Society.
+Hopkins, E. Washburn. ([1901] 1969). The Great Epic of India: Its Character and
+Origin.Calcutta: Punthi Pustak.
+Jamison, Stephanie. 1996. Sacrificed Wife Sacrificer’s Wife: Women, Ritual, and
+Hospitality in AncientIndia. Oxford:Oxford University Press.
+Kantawala,S.G.(1995).ThelegendofAn:(cid:1)(cid:3)M(cid:1)an:d:avya.InS.P.Narang(ed.),Modern
+EvaluationoftheMaha(cid:1)bha(cid:1)rata(Prof.P.K.Sharmafelicitationvolume).(pp.101–
+109). Delhi: NagPublishers.
+Lefeber,Rosalind,trans.(1994).TheRa(cid:1)ma(cid:1)yan:aofVa(cid:1)lm(cid:1)iki,Vol.4:Ki:skindha(cid:1)-ka(cid:1)n:d:a.
+Princeton: Princeton University Press.
+Leslie, Julia. (1998). ‘A bird bereaved: the identity and significance of V(cid:1)alm(cid:1)(cid:3)ki’s
+Kraun˜ca’. Journal ofIndian Philosophy 26, 455–487.
+Le´vi,Sylvain.([1917]1918–20).‘TatoJayamUdirayet’.Trans.L.G.Khare.Annals
+of theBhandarkar Oriental Research Institute 1,13–20.
+Lubotsky, Alexander. (1997). A R:gvedic Word Concordance. 2 Parts. American
+Oriental Series, Vol.82. NewHaven: American OrientalSociety.
+Minkowski, C.Z. (1989). ‘Janamejaya’s sattra and ritual structure’. Journal of the
+American Oriental Society109(3), 401–420.
+Monier-Williams, Monier. ([1899] 1964). A Sanskrit-English Dictionary. Oxford:
+Clarendon Press.
+Parida,SaratChandra.(2004).HospitalityinChangingIndianSociety:VedicAgeto
+Puranic Age. Delhi: BharatiyaVidya Prakashan.
+Pathak, Shubha. (2005). Comparing the Ra(cid:1)ma(cid:1)yan:a and the Maha(cid:1)bha(cid:1)rata: ‘‘Epic’’
+and Metaphor.PhD Dissertation chapter.University ofChicago.
+Patton, Laurie L. (1996). Myth as Argument: The B:rhaddevata(cid:1)as Canonical Com-
+mentary. Religionsgeschichtliche Versuche und Vorarbeiten, vol. 41. Berlin and
+New York: Walter deGruyter.
+Pollock, Sheldon I. (1984). ‘A(cid:1)tm(cid:1)anam m(cid:1)anu:sam: manye: Dharm(cid:1)aku(cid:1)tam on the
+Divinity ofR(cid:1)ama’. Journal ofthe Oriental Institute of Baroda33,505–528.
+Pollock,SheldonI.,trans.(1986).TheRa(cid:1)ma(cid:1)yan:aofVa(cid:1)lm(cid:1)iki,vol.2:Ayodhya(cid:1)ka(cid:1)n:d:a.
+Robert P.Goldman, generaleditor. Princeton: Princeton University Press.
+Schlinghoff, Dieter. (1969). ‘The oldest extant Parvan-list of the Mah(cid:1)abh(cid:1)arata’.
+Journal of theAmerican Oriental Society89, 334–338.
+Shah,U.P.,ed.(1975).TheUttaraka(cid:1)n:d:a:TheVa(cid:1)lm(cid:1)ikiRa(cid:1)ma(cid:1)yan:a.G.H.Bhattand
+Shah,gen.ed.TheVa(cid:1)lm(cid:1)ikiRa(cid:1)ma(cid:1)yan:a:Criticaledition,Vol.7.Baroda:University
+of Baroda.
+Shulman, David. ([1991] 2001). ‘Toward a historical poetics of the sanskrit epics’.
+Chap. 1 of The Wisdom of Poets: Studies in Tamil, Telugu, and Sanskrit. Delhi:
+OxfordUniversityPress[firstpublishedinInternationalFolkloreReview(1991)11,
+9–17].
+Sukthankar,VishnuS.(1936).‘EpicStudies,6:TheBh:rgusandtheBh(cid:1)arata:AText-
+HistoricalStudy’.AnnalsoftheBhandarkarOrientalResearchInstitute18(1),1–76.
+Sutherland, Goldman, Sally. (2004). ‘Gendered Narratives: Gender, Space and
+Narrative Structures in V(cid:1)alm(cid:1)(cid:3)ki’s Ba(cid:1)laka(cid:1)n:d:a’. In Mandakranta Bose (ed.), The
+Ra(cid:1)ma(cid:1)yan:a Revisited (pp. 47–85). Oxford:Oxford University Press.
+Van Buitenen, J.A.B. (1973, 1975, 1978). The Maha(cid:1)bha(cid:1)rata, vols. I: 1. The Book of
+Beginnings;II:2.TheBookoftheAssemblyHall;3.TheBookoftheForest;III:4.
+NOTWITHOUTSUBTALES:TELLINGLAWS 511
+The Book of Vira(cid:1)t:a; 5. The Book of the Effort. Chicago: University of Chicago
+Press.
+Van Nooten, Barend A. (1971). The Maha(cid:1)bha(cid:1)rata. Twayne’s World AuthorsSeries.
+New York: TwaynePublishers.
+Wolpert, Stanley, (ed. in chief.) (In press). Encyclopedia of India. New York:
+Scribners/Macmillan.
+Religion Department
+The George Washington University
+2106 G Street NW
+Washington DC 20052
+USA
+E-mail: Peter.Bisschop@ed.ac.uk
