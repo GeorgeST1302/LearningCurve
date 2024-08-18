@@ -1,0 +1,646 @@
+Article
+Redefining Dharma in a
+Studies in History
+1–15
+Time of Transition: © 2019 Jawaharlal Nehru University
+- Reprints and permissions:
+Anrs´amsya in the in.sagepub.com/journals-permissions-india
+. .
+DOI: 10.1177/0257643019852823
+- -
+Mahabharata as an journals.sagepub.com/home/sih
+Alternative End of
+Human Life
+Kanad Sinha1
+Abstract
+Classical Indian thought has often stated that human life has four ends: dharma
+-
+(social righteousness), artha (material profit), kama (sensual pleasure) and moks.a
+-
+(spiritual liberation). The historical tradition called itihasa claims itself as a
+-
+comprehensive commentary on these four. The principal itihasa text available
+- -
+to us, the Mahabharata, boasts of containing everything that exists on these.
+- -
+However, the ultimate goal of human life in the Mahabharata is predominantly
+- -
+dharma. But, the dharma the Mahabharata speaks of is not necessarily what
+dharma came to represent in classical Brahmanical orthodoxy: a combination
+of the institutions of varṇa and āśrama Rather, in the narrative sections of the
+- -
+Mahabharata, which possibly originated in the context of the Later Vedic Kuru
+kingdom of c. 1000–800 BCE, there is often a questioning of the traditional
+- -
+hereditary varṇadharma. Through the character of Yudhis.t.hira, the Mahabharata
+-
+unfolds an alternative understanding of dharma, known as anṛśaṁsya (non-
+cruelty). Scholars have often considered it as an alternative to the heterodox
+-
+notion of ahiṁsa (non-violence). This paper shows the gradual evolution of the
+-
+ideal to show that its fundamental opposition is not with the heterodox ahiṁsa,
+-
+but with the orthodox varṇadharma, particularly ks.atradharma, the martial
+heroism expected of the ks.atriya.
+Keywords
+- - - -
+Ānṛśaṃsya, Ahiṃsa, Mahabharata, Varṇadharma, kṣatradharma, Yudhis.t.hira
+1 The Sanskrit College and University, Kolkata, West Bengal, India.
+Corresponding author:
+Kanad Sinha, The Sanskrit College and University, 1, Bankim Chatterjee Street, Kolkata 700073,
+West Bengal, India.
+E-mail: kanad.india@gmail.com
+2 Studies in History
+Human civilization stands at a crossroads as never before. Technological advances
+have made life easier than ever; medical science has succeeded in providing us
+with the highest average life expectancy in history; and information technology is
+reaching new heights every day to dissolve the distance between places and time
+zones. However, while all these should have made the world a safer, happier and
+friendlier place, in reality, we are witnessing a world insecure to the core because
+of the scary shadow of terrorism, hatred, communal violence and a new wave of
+populist intolerant ultra-nationalist politics. Rather than relishing the fruits of its
+successful march for centuries, people live in constant fear of the inevitable doom
+represented by the nuclear weapons piled up in different corners of the world and
+the rapid degeneration of the natural environment and ecosystem for pursuing
+petty political and economic interests. Naturally, it is high time we ask ourselves
+what the ends of human life are.
+If we look to the past, the text that seems invaluable in addressing these ques-
+tions is the Mahābhārata, composed as an itihāsa (a genre of early Indian histori-
+cal tradition) depicting an epoch-ending transition (yugānta) marked by a violent
+catastrophic war. The text seems to have reached its present shape over more
+than a thousand years, and assumed an encyclopaedic character in due course.1
+However, if there is a running theme the text concerns itself with, it is the question
+about the ends of human life. In classical Brahmanical thought, there are four
+major ends of human life, known as the puruṣārthas: dharma (social righteous-
+ness), artha (material profit), kāma (pleasure of the senses) and mokṣa (spiritual
+liberation).2 There are several discourses in early Indian literature attempting to
+ascertain their relative merits. Interestingly, the traditional definition of the his-
+torical tradition named itihāsa, as collected by Taranath Tarkavachaspati, places
+importance on the tales of old times, containing lessons on these four aspects of
+human life:
+dharmārthakāmamokṣāṇām upadeśasamanvitaṃ/
+purāvṛttakathāyuktam itihāsaṃ pracakṣate//3
+1 There are opinions against this idea, but these are hardly supported by the available evidence. For
+instance, Alf Hiltebeitel’s argument that the Mahābhārata was compiled in a short span of time by a
+‘symposium’/‘committee’ seems to be more a result of the author’s imagination than of convincing
+evidence. See Alf Hiltebeitel, Rethinking the Mahābhārata: A Reader’s Guide to the Education of the
+Dharma King (Chicago, IL: University of Chicago, 2011).
+2 The idea first evolved as the concept of trivarga or the three aspects of human life: dharma, artha
+and kāma. By the middle of the first millennium ce, the addition of mokṣa to the list transformed the
+concept into caturvarga. From the Early Medieval period onwards, the caturvarga are frequently
+represented in literature as puruṣārthas or the ends of human life. For a recent thorough discussion,
+see Patrick Olivelle, ‘The Good Life in a Dis-enchanted World’, in the proceedings of ‘The Ends of
+Human Life in Ancient Indian and Chinese Traditions’, A workshop organized by the Parekh Institute
+of Indian Thought, Centre for the Study of Developing Societies (CSDS), Delhi and the Berggruen
+Institute, Los Angeles (forthcoming).
+3 Taranatha Tarkavachaspati, Vācaspatyam, vol. I (Varanasi: Chowkhamba Surbharati, 1990), 924.
+Sinha 3
+As we shall see below, the Mahābhārata claims to contain everything that exists on
+the Earth about these four ends of human life. However, what is the Mahābhārata’s
+position on the relative merits of these four ends? Though the text expresses sympa-
+thy towards mokṣa in certain places (such as the mokṣadharmaparvan in the
+‘Śāntiparvan’), while even artha and kāma have been espoused occasionally (for
+instance, the kāmagītā in the ‘Āśvamedhikaparvan’ valorises kāma above every-
+thing), the supremacy of dharma is acknowledged throughout the text. However, it
+is the Mahābhārata’s treatment of dharma that makes it a curious text. Being a text
+composed over a long time, worked on by several different authors, the Mahābhārata
+contains various understandings of dharma. Unlike several other major Brahmanical
+texts, it does not always equate dharma with a combination of the fourfold varṇa
+system and the four āśramas. Rather, it continuously speaks of the multiplicity of
+dharma. Among the multiple interpretations of dharma, some are even contradic-
+tory to the ideal of varṇa. The historical milieu of the origin of the central narrative
+of the Mahābhārata further complicates this narrative.
+Though the composition of the text has usually been dated between 500 bce
+and 500 ce, historians such as Romila Thapar and R. S. Sharma, who differentiate
+between the narrative and didactic sections of the text, note that the older narra-
+tive sections represent the context of the period of the Later Vedas (c.1000–600
+bce).4 A similar view has been expressed by J. A. B. van Buitenen, on the basis
+of the seemingly Later Vedic context of the Mahābhārata narrative and the Vedic
+location of some of the characters,5 that ‘It seems more likely than not that the
+origins of the Mahābhārata fall somewhere in the eighth or ninth century’.6 The
+Mahābhārata tradition, in all probability, originated as an itihāsa of the Later
+Vedic Kuru kingdom which, according to Michael Witzel, was not just the earliest
+proto-state of the Indian subcontinent but possibly the location where the varṇa-
+based Vedic orthodoxy and orthopraxy were formulated.7 The Mahābhārata’s
+representation of dharma as the principal end of human life, though not necessar-
+ily consistent with the hereditary varṇa system, is thought-provoking if we keep
+this context in mind.
+4 R. S. Sharma, Material Culture and Social Formations in Ancient India (Delhi: Macmillan, 1983),
+135–52; Romila Thapar, ‘The Historian and the Epic’, in Cultural Pasts (New Delhi: Oxford
+University Press, 2008), 613–29.
+5 The history of the migration of the Bharatas and Purus into the Indian subcontinent and the eventual
+formation of the Kuru clan, which dominated the early part of the Later Vedic Age, is well documented
+in the Ṛg Veda, whose tenth book, the latest interpolation in the text, knows the Kuru chief Śaṃtanu,
+while the Kuru chief Parikṣit is known to the Atharva Veda as a contemporary ruler (XX.127.7.10).
+The descendants of Parikṣit were extinct by the time of the Bṛhadāraṇyaka Upaniṣad (III.3.1). The
+Mahābhārata basically tells the saga of the Kurus between Śaṃtanu and Parikṣit. Janamejaya, the son
+of Parikṣit and the patron of the first full narration of the Mahābhārata, and Vaiśampāyana, the first
+narrator of the saga, are well-known Later Vedic figures, the latter being even named as the ācārya of
+Bhārata or Mahābhārata in the Āśvalāyana Gṛhya Sūtra (III.4).
+6 Vyāsa, The Mahābhārata, vol. I, trans. J. A. B. van Buitenen (Chicago, IL: University of Chicago
+Press, 1973), xxiv.
+7 Michel Witzel, ‘Early Sanskritization: Origin and Development of the Kuru State’, in The State, Law
+and Administration in Classical India, ed. B. Kolver (Munich: R. Oldenbourg, 1997), 27–52.
+4 Studies in History
+The sociopolitical landscape of Later Vedic India was a complex one. On the
+one hand, the institutionalization of the varṇa system was taking place, while, on
+the other hand, the ritualistic Vedic sacrificial religion was facing the first voice of
+dissent from the Upaniṣadic ṛṣis (seers). The Upaniṣadic tradition allowed itself to
+be incorporated into the Vedic corpus as its fourth subdivision, but it questioned
+the infallibility of the Vedas and pointed out the futility of sacrificial ritualism. On
+the political plain, rudimentary Kuru–Pañcāla kingships were seeking legitimacy
+from the Brāhmaṇas who were demanding hereditary monopoly of spirituality
+for themselves and hereditary kingship for their patrons. But the gaṇasaṃghas,
+like the Yādava–Vṛṣṇis, were carrying forward a political confederacy based on
+the older notion of power being shared by the members of the clan. The con-
+flict of the two orders is represented in the Mahābhārata conflict of the Vṛṣṇi
+chief Kṛṣṇa with the Magadha monarch Jarāsaṃdha, but still the gaṇasaṃgha
+was strong enough to emerge victorious and its chief important enough to be ven-
+erated in the most important monarchical ritual—Yudhiṣṭhira’s rājasūya. Thus,
+it was a two-way struggle between Vedic-Brahmanical order based on heredity
+and the older order (also supported by a large section of the Upaniṣadic thinkers)
+based on ability. In this situation, ripe with possibilities, we can locate the text that
+tells not just the story of a Kuru–Pañcāla political clash where the Pāñcālas were
+aided by a junior branch of the Kurus but also the story of a clash between heredi-
+tary succession claimed by Duryodhana (the eldest son of the king Dhṛtarāṣṭra)
+and succession by ability claimed by Yudhiṣṭhira (a son of queen Kuntī, wife of
+king Pāṇḍu, by a deity personifying ‘Dharma’), who had no blood relation with
+the Kuru clan. Simon Brodbeck and Brian Black rightly describe the main issue
+of the text as the conflict of primogenitive birthright and behavioural fitness.8
+Primogeniture appears to be a new idea in kingship, not yet completely estab-
+lished.9 The tribal notion of selecting the ablest as the chief was still present, by
+virtue of which the great king Bharata chose Bhūmanyu, son of Bharadvāja, as
+his successor, neglecting all of his own incompetent sons.10 The system continued
+8 Simon Brodbeck and Brian Black, eds., ‘Introduction’, in Gender and Narrative in the Mahābhārata
+(London: Routledge, 2007), 3.
+9 For different readings of the issue of primogeniture in the Mahābhārata see J. A. B. van Buitenen’s,
+‘Introduction’, in Vyāsa, The Mahābhārata, vol. I, xv–xix and R. P. Goldman, ‘Fathers, Sons, and
+Gurus: Oedipal Conflict in the Sanskrit Epics’, Journal of Indian Philosophy 6 (1978): 325–92.
+10 Vyāsa, I.89.17–20. All references to Vyāsa’s Mahābhārata are from the multivolume Critical
+Edition prepared under the general editorship of V. S. Sukthankar, published by the Bhandarkar
+Oriental Research Institute, Poona. The translations followed are Vyāsa, The Mahābhārata, vol. I,
+trans. van Buitenen (Chicago, IL: University of Chicago Press, 1973) (for the ‘Ādiparvan’); Vyāsa,
+The Mahābhārata, vol. II, trans. van Buitenen (Chicago, IL: University of Chicago Press, 1975) (for
+the ‘Sabhāparvan’ and the ‘Āraṇyakaparvan’); Vyāsa, The Mahābhārata, vol. III, trans. van Buitenen
+(Chicago, IL: University of Chicago Press, 1978) (for the ‘Virāṭaparvan’ and ‘Udyogaparvan’); Vyāsa,
+Mahābhārata (Book Six): Bhishma, vols. 1 and 2, trans. Alex Cherniak (New York, NY: New York
+University Press, 2008) (for the ‘Bhīṣmparvan’); Vyāsa, Mahābhārata (Book Nine): Shalya, vols. 1
+and 2, trans. Justin Meiland (New York, NY: New York University Press, 2007) (for the ‘Śalyaparvan);
+and Vȳasa, The Mahābhārata, vol. VII, trans. James Fitzgerald (Chicago, IL: University of Chicago
+Press, 2004) (for the ‘Strīparvan’ and ‘Śāntiparvan’). For the rest of the text, the translations are mine,
+unless otherwise specified.
+Sinha 5
+up to the period of Śaṃtanu, in whose favour his elder brother, Devāpi, abdicated
+the throne.11 However, Śaṃtanu’s passion for the fisherwoman Satyavatī brought
+a disjuncture. Devavrata (Bhīṣma), who was the fittest to succeed to the throne,
+made a vow to Satyavatī’s father, assuring the unborn children of Satyavatī the
+throne.12 Bhīṣma’s famous vow unfolded into a crisis, as both the sons of Satyavatī
+died young.13 In this situation, Satyavatī asked Vyāsa, her son born out of a pre-
+marital union, to beget children on the two widows of Vicitrvīrya—Ambikā and
+Ambālikā. Born of this levirate, Dhṛtarāṣṭra, the eldest of the next generation
+princes, was denied the throne on account of his blindness, and younger Pāṇḍu
+became the king. However, this choice of the more able over the legitimacy of
+primogeniture frustrated Dhṛtarāṣṭra, whose son Duryodhana fought hard to
+establish his legitimate claim to the throne, and remained a staunch advocate of
+the martial varṇadharma of the kṣatriya caste throughout the text. Thus, there was
+a constant conflict between Duryodhana and the five surrogate sons of king Pāṇḍu.
+The latter group, known as the Pāṇḍavas and headed by the eldest Yudhiṣṭhira,
+escaped Duryodhana’s early attempts to kill them off, and became powerful
+enough to force a partition of the kingdom, after Draupadī, the princess of the
+strong kingdom of Pāñcāla, became the common wife of the five brothers. The
+conflict reached its height when Yudhiṣṭhira not only lost all of his property in a
+dice game against Duryodhana and his party, but in desperation staked and lost
+Draupadī, who was molested in the open court. After this, war seemed the only
+option left, despite Yudhiṣṭhira’s reluctance to fight. Gradually, events led to the
+Bhārata War, in which the senior branch of the Kurus, as well as the Pāñcālas, was
+nearly wiped out, and Yudhiṣṭhira became the king.
+Standing against Duryodhana’s militant support for the hereditary kṣātradharma,
+the violent varṇa duty of the kṣatriya, Yudhiṣṭhira emerged as the text’s most
+vigorous critic of the varṇa orthodoxy. He opined, in reply to a question asked
+by his ancestor Nahuṣa, that the notions of caste could hardly stand a test, since:
+jātir atra mahāsarpa manuṣyatve mahāmate/
+saṃkarāt sarvavarṇānāṃ duṣparīkṣyeti me matiḥ//
+sarve sarvāsvāpatyāni janayanti yadā naraḥ/
+vāṅ maithunam atho janma maraṇaṃ ca samaṃ nṛṇāṃ.
+(I think, great and wise Serpent, birth is hard to ascertain among humankind, because of
+the confusion of classes when any man begets children on any woman: language, inter-
+course, birth and death are common lot of all men).14
+Yudhiṣṭhira asserted that varṇa was determined by observance of task and, hence,
+a brāhmaṇa was one in whom cultured conduct was postulated.15 Yudhiṣṭhira,
+thus, was a complete contrast to Duryodhana. He was doubtful about varṇa, more
+11 Vyāsa, I.89.53, I.90.47.
+12 Ibid., I.94.
+13 Ibid., I.95–6.
+14 Vyāsa, III.177.26.
+15 Ibid., III.177.30–5.
+6 Studies in History
+given to pacifism and renunciation than to his inherent kṣātradharma, always
+questioning the rationale of warfare, and fundamentally Upaniṣadic rather than
+Vedic in his virtue. Therefore, we see that after a long discourse about the relative
+merits of dharma, artha and kāma among the Pāṇḍavas and Vidura—where
+Vidura, Nakula and Sahadeva extolled dharma, Arjuna spoke in favour of artha
+and Bhīma in defence of kāma—Yudhiṣṭhira subordinated all these values to the
+Upaniṣadic ideal of mokṣa.16
+In fact, Yudhiṣṭhira, the dharmarāja, was definitely not a follower of the tradi-
+tional varṇa-based notion of dharma. However, despite his Upaniṣadic leanings,
+he was not a renunciant either. Did he then represent a new notion of dharma?
+Mukund Lath has identified this new notion in a concept called ānṛśaṃsya (non-
+cruelty).17 He thinks that this was an ideal of the pravṛttimārga (path of action)
+espoused by the Mahābhārata, in contrast to the better-known ideal of ahiṃsā
+(non-violence), which was more suitable for the nivṛttimārga (path of renun-
+ciation).18 Of course, ahiṃsā had been a cardinal virtue in non-Brahmanical
+Śramaṇic religions such as Jainism and Buddhism, which also espoused renun-
+ciation. Following Lath, Alf Hiltebeitel has also noted that ānṛśaṃsya has been
+celebrated as the highest dharma nine times in the Mahābhārata (III.67.15,
+III.203–41, III.297.55, III.297.71, V.32.11, XII.220.109, XII.316.12, XIII.47.2,
+XIII.159.6), more than any other ideal, including ahiṃsā, which is called the
+greatest dharma four times (I.11.12–4, III.198.69, XIII.116.1, XIII.117.37–41).19
+He also connects the idea as a response to the notion that the Magadha kings
+(including Aśoka), who patronized the heterodox religions celebrating ahiṃsā,
+had been absolutist despots and murderers of their fathers and brothers.20
+Sibaji Bandyopadhyay takes a cue from Lath and Hiltebeitel and maintains this
+contrastive framework between ahiṃsā and ānṛśaṃsya, considering ānṛśaṃsya
+as a critique of non-violence.21 Is ānṛśaṃsya, then, an alternative to ahiṃsā, a
+response to the Śramaṇic religions such as Jainism and Buddhism, with little con-
+nection with the Later Vedic context of the Mahābhārata narrative? It would seem
+so if one were to focus on the long discourse on ānṛśaṃsya delivered to a proud
+Brāhmaṇa by Dharmavyādha, a righteous meat-seller of Mithilā, who practised
+an ‘impure’ profession for livelihood, but lived according to the tenets of dharma
+in his personal life. Here, Dharmavyādha strongly pointed out the impossibility
+of adhering to complete ahiṃsā and extolled ānṛśaṃsya as an alternative.22 Much
+of Bandyopadhyay’s discussion on ānṛśaṃsya is based on this particular episode.
+However, the ‘Śāntiparvan’ and ‘Anuśāsanaparvan’ were two of the latest didac-
+tic books added to the Mahābhārata during its Brahmanization, with a principal
+16 Ibid., XII.161.
+17 Mukund Lath, ‘The Concept of Anrshamsya in the Mahabharata’, in Reflections and Variations on
+the Mahabharata, ed. T. R. S. Sharma (New Delhi: Sahitya Akademi, 2009), 82–9.
+18 Ibid., 89.
+19 Hiltebeitel, Rethinking the Mahābhārata, 207.
+20 Ibid., 205–6.
+21 Sibaji Bandyopadhyay, ‘A Critique of Non-violence’, in Three Essays on the Mahābhārata:
+Exercises in Literary Hermeneutics (Hyderabad: Orient BlackSwan, 2016), 267–307.
+22 Vyāsa, III.197–206.
+Sinha 7
+orientation to sanitize the anti-varṇa notions of the dharmarāja. Thus, Yudhiṣṭhira,
+before he could assume kingship, had to be schooled by the old kṣatriya patriarch
+Bhīṣma into a rājadharma that espoused a symbiotic relationship between the
+brāhmaṇa and kṣatriya and strict maintenance of the varṇa order. The Dharmavyādha
+episode is placed within the ‘Śāntiparvan’ discourse. If we look beyond this very late
+addition to the text, we may see that the concept of ānṛśaṃsya has a gradual
+development in the central narrative of the text, and it plays a crucial part in what
+Hiltebeitel calls ‘the education of the Dharma-king’. In fact, if the central narrative
+of the Mahābhārata has something to do with the establishment of Yudhiṣṭhira as a
+new kind of hero, the role of ānṛśaṃsya is crucial in the process.
+Hiltebeitel has also noticed that the term ānṛśaṃsya appears for the first time
+in the Mahābhārata not in the context of Yudhiṣṭhira, but as advice to Vyāsa,
+to whom the authorship of the text is attributed. When Vyāsa agreed to beget
+children on the widows of Vicitravīrya, Satyavatī asked him to perform the act
+with ānṛśaṃsya and anukrośa (crying with another).23 In fact, both Lath and
+Hiltebeitel note that anukrośa is an ideal crucial for understanding the nature of
+ānṛśaṃsya.24 Anukrośa, translated as ‘commiseriat’ by Hiltebeitel, literally means
+‘crying with another’, a kind of consideration or empathy for beings. However,
+Vyāsa does not seem to have succeeded in performing the task with ānṛśaṃsya
+and anukrośa. Vyāsa got angry inconsiderately when Ambikā and Ambālikā were
+repulsed by his appearance and body odour. Rather than dealing with their revul-
+sion with empathy, Vyāsa ended up holding them responsible for the physical
+deformities of their sons. The Mahābhārata narrative thus starts with the failure
+of its author to fulfil an ideal set in front of him by his mother. Subsequently, the
+author celebrates the story of a hero, Yudhiṣṭhira, who did not fail.
+In fact, the birth of the Pāṇḍavas themselves has been set in the context of a
+failure to practise ānṛśaṃsya. The curse that had caused Pāṇḍu’s impotence was
+brought forth by his killing of the sage Kiṃdama and his wife, who were copu-
+lating in the disguise of deer.25 The killing itself was not condemned, for it was
+normal for a kṣatriya king to hunt deer. The act was lacking in ānṛśaṃsya because
+Pāṇḍu did not have the consideration to wait until the deer finished making love.26
+Yudhiṣṭhira, the eldest surrogate son of Pāṇḍu, therefore undertook a difficult
+journey to establish an ideal his father and grandfather had failed to live up to.
+We hear Yudhiṣṭhira speak of ānṛśaṃsya for the first time in a very unusual
+context, as one of the qualities of Draupadī before staking her at the dice game.27
+We shall see later that Yudhiṣṭhira’s assumption about Draupadī was not right in
+this case. Ānṛśaṃsya might have been a virtue Yudhiṣṭhira had already started
+to regard in high esteem and expected in his wife, but it was certainly not some-
+thing that Draupadī had much respect for. However, that Yudhiṣṭhira’s regard for
+23 Vyāsa, I.99.33.
+24 Lath, ‘The Concept of Anrshamsya’, 84–5; Hiltebeitel, Rethinking the Mahābhārata, 212.
+25 Vyāsa, I.109.5–31.
+26 See Hiltebeitel, Rethinking the Mahābhārata, 109–200.
+27 Vyāsa, II.58.33–7.
+8 Studies in History
+ānṛśaṃsya had gradually increased would be evident when he would declare it
+to be the highest dharma to Dharma (a deity personifying the ideal) disguised as
+a heron Yakṣa in the ‘Āraṇyakaparvan’.28 That he was now ready to live his ideal
+could be seen when, given the option of saving the life of only one of his brothers,
+he chose to save Nakula (and not Bhīma or Arjuna without whose valour he would
+never get his kingdom back) out of consideration for his already deceased step-
+mother Mādrī.29 Of course, Dharma was pleased with Yudhiṣṭhira’s ānṛśaṃsya,
+and he passed the test convincingly.30 Gradually, ānṛśaṃsya became the cardinal
+value of Yudhiṣṭhira’s life which he kept on preaching and practising.31 When
+Yudhiṣṭhira seemed to have lost his composure temporarily, after the death of his
+nephew Ghaṭotkaca in the War, the author himself intervened to remind him of
+his virtues, including ānṛśaṃsya.32 Even after the battle, he continued to rule with
+ānṛśaṃsya, empathetic to the war widows and the mothers who lost their sons,
+as well as to the poor, blind and helpless.33 Such was the extent of his ānṛśaṃsya
+that he was considerate and empathetic even to Dhṛtarāṣṭra who, along with his
+sons, had been the cause of all of his sufferings.34 In the final journey of his
+life, the mahāprasthāna, Yudhiṣṭhira’s ānṛśaṃsya faced its final test, which he
+had also passed with distinction, by not agreeing to choose heaven if it meant
+leaving out the dog that had accompanied him throughout his journey.35 The poet,
+of course, is emphatic about the view that the journey of Yudhiṣṭhira’s ānṛśaṃsya
+did not end with his mortal life, nor did the multiple tests that such a virtue needed
+to undergo. Therefore, reaching the heaven in his earthly body, and seeing his
+brothers and Draupadī suffering in hell, Yudhiṣṭhira decided to forego heavenly
+pleasure at once, to share the torment of hell with his lifelong companions,36
+for he declared that where his brothers and his dear Draupadī were, that was his
+heaven.37 Finally, Yudhiṣṭhira earned another round of praise from Dharma, for
+not swerving from his heart even after reaching heaven.38
+Ānṛśaṃsya, therefore, is a philosophy of non-cruelty and considerate empathy
+for all beings, including low-borns or former foes, half-rākṣasas or the lowly and
+the destitute, a dead woman (Mādrī) or even a dog, as Hiltebeitel has noted.39
+Moreover, it is a value to be practiced by the capable, who undergo multiple
+tests in life and beyond, and has nothing to do with the varṇa assigned by birth.
+Hence, it is stated that ānṛśaṃsya can be found among the people of all varṇas.40
+28 Ibid., III.297.55.
+29 Ibid., III.297.71.
+30 Ibid., III.298.10.
+31 Ibid., V.30.38, V.32.11, V.52.10.
+32 Ibid., VII.158.53–62.
+33 Ibid., XII.42.10–1.
+34 Ibid., XV.2.3.
+35 Ibid., XVII.3.1–15.
+36 Ibid., XVII.3.36.
+37 Ibid., XVIII.1.20–2.12.
+38 Ibid., XVIII.3.28–30.
+39 Hiltebeitel, Rethinking the Mahābhārata, 213.
+40 Vyāsa, III.117.8.
+Sinha 9
+Moreover, while most other conceptions of dharma were directed at the after-
+life—either the attainment of heaven after death (the goal of the Brahmanical
+kṣātradharma) or the liberation from the cycle of birth and death (the goal of the
+Śramaṇic religions such as Buddhism and Jainism)—ānṛśaṃsya seems to be an
+end in itself. It is an idea suitable even for a completely ‘disenchanted’ universe,
+for neither divine grace nor a happy afterlife is supposed to be the reward of
+its performance. Rather, Yudhiṣṭhira would choose ānṛśaṃsya over heaven and
+continue its practice even in his afterlife.
+It is worth nothing that nowhere in the referred instances is ānṛśaṃsya presented
+as a counterpoint to ahiṃsā. Rather, we see the gradual establishment of Yudhiṣṭhira
+as a counterpoint to Duryodhana, the strict adherent of his prescribed varṇadharma,
+the violent kṣātradharma (for following which he won the promised reward of
+heaven).41 In fact, Hiltebeitel’s list of the various acts considered nṛśaṃsa (cruel)
+in the Mahābhārata—including Purocana’s attempt to burn alive the Pāṇḍavas
+in the lacquer house (I.136.3), Śiśupāla’s verbal attack on Kṛṣṇa, Bhīṣma and the
+Pāṇḍavas during the rājasūya of Yudhiṣṭhira (II.42.6–11), Kaikeyī’s intrigue to send
+her step-son Rāma into exile (III.261.32), Kīcaka’s attempts to molest the helpless
+Draupadī (IV.29.5), the Pāṇḍavas’ conspiracy to disarm Droṇa by deceit and killing
+him unarmed (VII.166.19), and Jayadratha’s role in killing the young Abhimanyu
+(XIV.77.38)42—clearly shows that what ānṛśaṃsya opposed was not the ahiṃsā of
+the Śramaṇic religions, but the cruelty inherent in the violent conflicts in kṣatriya
+clan society. Therefore, Yudhiṣṭhira faced most of the counterarguments not from
+any non-violent ascetic, but from his own mother and wife, Kuntī and Draupadī,
+both firm believers in the kṣātradharma.
+Kevin McGrath rightly notes that ‘women in epic Mahābhārata, more than
+male heroes, speak what is considered to be social truth: what is right for kṣatriyas
+and what constitutes good behaviour’.43 It is the action of the women that ‘weaves
+the tissue of kula clan’, and it is the women’s speeches which sustain and refine
+the values of both kin and varṇa.44 Thus, placed in the context of a clan soci-
+ety, Vyāsa’s heroines are quite vocal and assertive, particularly in the defence of
+kṣātradharma. Kuntī, who controlled her five sons throughout her life, appears
+to have been a staunch adherent of kṣātradharma. In the ‘Udyogaparvan’, she
+tried to instigate the pacifist Yudhisthira to fight by praising kṣatriya virility.45
+Criticising the notion of ānṛśaṃsya, she said,
+na hi vaiklavyasaṃsṛṣṭa ānṛśaṃsye vyavasthitaḥ/
+prajāpālanasaṃbhūtaṃ kiṃ cit prāpa phalaṃ nṛpaḥ//
+41 See the celebration of Duryodhana’s heroic death on the battlefield and journey to heaven in Vyāsa,
+IX.60–4; XVIII.1–3.
+42 Hiltebeitel, Rethinking the Mahābhārata, 211.
+43 Kevin McGrath, Stri: Feminine Power in Epic Mahābhārata (Hyderabad: Orient BlackSwan,
+2011), 154.
+44 Ibid., 158.
+45 Vyāsa, V.130.7.
+10 Studies in History
+(A king infected by cowardice, who does not act ruthlessly, does not win the reward that
+results from the protection of his subjects.)46
+She would rather see Yudhiṣṭhira deliver his patrimony by any kind of
+stratagem:
+pitryam aṃśaṃ mahāvāho nimagnaṃ punar uddhara/
+sāmnā dānena bhedena daṇḍenātha nayena ca//
+(Unearth your ancestral share that lies buried, strong-armed son! Do it with persuasion,
+bribery, subversion, punishment, or policy.)47
+Kuntī had no respect for Yudhiṣṭhira’s considerate policies which, she thought,
+would only drown his ancestors if he did not fight.48 To inspire him, she also
+narrated the story of another aggressive mother, Vidurā, who had urged her lazy
+son Saṃjaya to fight for and recover his lost patrimony.49
+However, the most striking female character in the epic was no doubt the
+principal heroine, the polyandrous Draupadī. Sally J. Sutherland contrasts
+the outward expression of Draupadī’s aggression with the inward aggressive
+masochism of Sītā in the Rāmāyaṇa.50 Whenever there was a need to protect
+herself, Draupadī was not reluctant to be aggressive. It was her questions that
+perturbed the Kuru court during the infamous dice match, and she could rescue
+not only herself but also her husbands from slavery. She was also continuously
+critical of Yudhiṣṭhira’s passivity. In the ‘Āraṇyakaparvan’, she lamented to Kṛṣṇa
+who was the friend, philosopher and guide of the Pāṇḍava camp:
+garhaye pāṇḍavāṃs tv eva yudhi śreṣṭhān mahābalān/
+ye kliśyamānāṃ prekṣante dharmapatnīṃ yaśasvinīm//
+dhig balaṃ bhīmasenasya dhik pārthasya dhanuṣmatām/
+yau māṃ viprakṛtāṃ kṣudrair marṣayetāṃ janārdana//
+(I detest the Pāṇḍavas, those grand strongmen in war, who looked on while their glorious
+consort in Law was molested! A plague on the strength of Bhīmasena! A plague on the
+bowmanship of the Pārtha! Both stood by, Janārdana, when churls manhandled me.)51
+She also complained,
+naiva me patayaḥ santi na putrā madhusūdana/
+na bhrātaro na ca pitā naiva tvaṃ na ca bāndhavāḥ//
+ye māṃ viprakṛtāṃ kṣudrair upekṣadhvaṃ viśokavat//
+46 Ibid., V.130.20.
+47 Ibid., V.130.30.
+48 Ibid., V.130.32.
+49 Ibid., V.131–4.
+50 Sally J. Sutherland, ‘Sītā and Draupadī: Aggressive Behaviour and Female Role-models in the
+Sanskrit Epics’, Journal of the American Oriental Society 109, no. 1 (1989, January–March): 63–79.
+51 Vyāsa, III.13.58–9.
+Sinha 11
+(I have got no husbands, no sons, Madhusūdana, not a brother nor a father, nor you, nor
+friends, if you mercilessly ignored me when I was plagued by the vulgar.)52
+When Jayadratha later tried to assault Draupadi, she physically resisted him, and
+then wanted to avenge her insult by killing him. Infuriated by Yudhiṣṭhira’s pas-
+sivity, she urged Bhīma and Arjuna:
+kartavyaṃ cet priyaṃ mahyaṃ vadhyaḥ sa puruṣādhamaḥ/
+saindhavāpasadaḥ pāpo durmatiḥ kulapāṃsanaḥ//
+(If you want to do me a kindness, kill off that wretched abortion of the Saindhavas, the
+evil, ill-minded defiler of his race.)53
+Similarly, when in disguise in the Matsya realm, she was assaulted by Kīcaka, the
+king’s brother-in-law, in front of the passive Yudhiṣṭhira, she became vocal in rage
+against her husbands and even admonished the king Virāṭa and his court, despite
+being in the disguise of a mere maidservant:
+Where on Earth are the great warriors roaming in disguise, they who were the refuge of
+those who sought shelter? How can those powerful, boundlessly august men like castrates
+suffer that their beloved and faithful wife is kicked by a sūta’s son? Where has their
+intransigence gone, where their virility and splendor, if they choose not to defend their
+wife who is being kicked by a blackguard? What am I to do with Virāṭa here who sees the
+Law violated, an innocent woman kicked, and allows it? King, you do not act like a king
+at all in the matter of Kīcaka, for your Law is the Law of Dasyus and does not shine in the
+assembly! Neither Kīcaka nor the Matsya abide in any way by their own Law. I don’t
+blame you, King Virāṭa, in the assembly of the people, but it is not right that I am struck
+in your presence, Matsya! Let the courtiers bear witness to the crime of Kīcaka.54
+She vented out her disgust about Yudhiṣṭhira to Bhīma, her only husband who
+tried to protect her:
+ahaṃ sairandhriveśeṇa carantī rājaveśmani/
+śaucadāsmi sudeṣṇāyā akṣadhūrtasya kāraṇāt//
+(Because of that gamester I run about in the royal palace in the guise of a chambermaid,
+cleaning up after Sudeṣṇā.)55
+Draupadī would not undergo a fire ordeal like Sītā to prove her chastity. Rather, it
+was the abusers who, according to her, deserved the vengeance of her kṣatriya
+husbands. Thus, she had no remorse in asking Bhīma to crack Kīcaka like a pot
+upon a stone (bhindhi kumbham ivāśmani)56 or tear him out as an elephant tears
+out a reed.57 Clearly, she was not in agreement with Yudhiṣṭhira’s perception of
+52 Ibid., III.13.112–3.
+53 Ibid., III.255.45.
+54 Ibid., IV.15.20–36.
+55 Ibid., IV.19.1.
+56 Ibid., IV.20.32.
+57 Ibid., IV.21.38.
+12 Studies in History
+ānṛśaṃsya and detested such an idea. She would not consider a kṣatriya without
+anger a valid entity (na nirmanyuḥ kṣatriyo’sti loke),58 and berated weakness.59 In
+the series of debates she had on such topics with Yudhiṣṭhira in the forest, she not
+only praised the path of rightful action (svakarma kuru mā glāsīḥ karmaṇā bhava
+daṃśitaḥ),60 which probably meant performing prescribed varṇa-duties, but also
+openly proclaimed violence:
+yo na darśayate tejaḥ kṣatriyaḥ kāla āgate/
+sarvabhūtāni taṃ pārtha sadā paribhavanty uta//
+tat tvayā na kṣamā kāryā śatrun prati kathañcana/
+tejasaiva hi te śakyā nihantuṃ nātra saṃśayaḥ/
+(A kṣatriya who does not show his fierceness when the moment comes all creatures will
+despise forever after. Pārtha! Don’t show patience to your enemies under any condi-
+tions, for with authority alone you can cut them down, no doubt of that!)61
+In fact, the poet describes the character of Draupadī as one who is perpetually
+offended, particularly with Yudhiṣṭhira (abhimānavatī nityaṃ viśeṣeṇa yudhiṣṭhire),62
+which is testified by Draupadī’s comment, ‘aśocyaṃ nu kutas tasyā yasyā bhartā
+yudhiṣṭhiraḥ’ (What pity doesn’t a woman deserve who has Yudhiṣṭhira for her
+husband?).63 Repeatedly complaining about Yudhiṣṭhira’s lack of anger,64 she
+forcefully argued why neither extreme vengeance nor extreme forgiveness was
+desirable, and one had to maintain a balance of both in his dealings.65 She went to
+the extent of arguing that gentleness, patience, uprightness and tenderness—the
+cornerstones of Yudhiṣṭhira’s cherished dharma—were futile.66
+However, even these persistent complaints could not swerve Yudhiṣṭhira from
+the ideal of ānṛśaṃsya. Dismissing Draupadī’s allegation that righteousness
+did not produce any result, he emphatically claimed that he performed dharma
+not because of its rewards but because it was the right conduct and his inherent
+nature.67 Delivering a long discourse on the problematic nature of anger and why
+forgiveness was preferable to cruelty,68 he declared that the birth of creatures was
+rooted in peace.69 Arguing that patience and forgiveness were markers of a supe-
+rior virtue, he pointed out the difference between himself and Duryodhana:
+58 Ibid., III.28.34.
+59 Ibid., III.31.42.
+60 Ibid., III.33.8.
+61 Ibid., III.28.35–6. Translation slightly modified.
+62 Ibid., XII.14.4.
+63 Ibid., IV.17.1.
+64 Ibid., III.28.
+65 Ibid., III.29.
+66 Ibid., III.31.4.
+67 Ibid., III.32.4–5.
+68 Ibid., III.30.
+69 Ibid., III.30.30.
+Sinha 13
+Suyodhana is not capable of patience, and therefore can find none: I am capable of it,
+and therefore patience has found me. This is the way of those who have mastered them-
+selves, this their eternal Law, to be patient and gentle, and thus shall I act.70
+Yudhiṣṭhira’s ānṛśaṃsya therefore seems to be an alternative to the ideal of mar-
+tial heroism, which celebrated violence and cruelty of a kṣatriya clan society,
+rather than a critique of heterodox non-violence. The opposition to the ideal was
+located not in the heterodox religions, but in his surroundings, particularly in his
+cousin Duryodhana, his mother Kuntī, and, most vocally, in his wife Draupadī.
+Yudhiṣṭhira never accepted that violence could ever be righteous, though he could
+be persuaded to fight a war for the sake of his rightful claim when all attempts at
+peace failed. However, the worst sufferer of this battle was Draupadī, the most
+vocal advocate for the battle. She lost her father in the battle, and the night attack
+by Aśvatthāman on the Pāṇḍava camp—probably the most nṛśaṃsa of all the
+incidents in the Mahābhārata narrative—took away the lives of her brothers and
+all her five sons. This was the pivotal moment that showed the vagary of violence,
+since a war to avenge the humiliation of Draupadī produced the worst conse-
+quences for Draupadī herself. Given her natural inclination, she initially wanted a
+violent revenge, the death of Aśvatthāman. However, eventually she settled for
+the gemstone on Aśvatthāman’s head and placed it on Yudhiṣṭhira’s head.71 Thus,
+the cycle of cruelty and violence ended when the crown gem of the nṛśaṃsa
+Aśvatthāman was passed on to the a-nṛśaṃsa Yudhiṣṭhira, and the irony that this
+transfer was prompted by Draupadī herself probably marked the final establish-
+ment of ānṛśaṃsya as a new form of heroism in the text.
+The Mahābhārata narrative represented a new time, a new ideal, and the end
+of an era. Not only did it represent the transition from the age of clan society to an
+age of well-developed polity but also a transition where the attempts to organize
+polity and society according to birth was not effective, except in theory. G. C.
+Pande broadly notes the transition depicted in the Mahābhārata:
+The traditional Varṇa system was becoming unreal in practice, and attempts were being
+made to define and question the social order even as technology was changing tools and
+weapons, trade and towns were emerging as a factor in social and cultural conscious-
+ness, smaller Janapada states were leading to larger empires, the Vedic religious tradi-
+tion was being subjected to scepticism and criticism, the doctrines of Karman, Saṃsāra
+and Nivṛtti posed a challenge to the ritualistic order, new types of spirituality were
+emerging, and attempts were being made of new philosophical syntheses.72
+Though this description is too simplistic, the days when kingship would be a
+monopoly of the kṣatriya clan chiefs, bound by a code of valour and depending on
+the ritual support of the brāhmaṇas, were indeed coming to an end. Within roughly
+70 Ibid., III.30.50.
+71 Ibid., X.10–6.
+72 G. C. Pande, ‘The Socio-cultural Milieu of the Mahabharata: An Age of Change’ in Reflections and
+Variations on the Mahabharata, ed., T.R.S. Sharma (New Delhi: Sahitya Akademi, 2009) 60–1.
+14 Studies in History
+five centuries of the date we have surmised for the origin of the Mahābhārata
+narrative, the throne of Magadha, the most illustrious kingdom of India, would
+not remain beyond the reach of a barber, Mahāpadma Nanda. In fact, post-Nanda
+India would hardly see kṣatriya kingship, at least not until the Early Medieval
+period when the Rajput clans would emerge with a claim to kṣatriya status. New
+channels of legitimization and patronage would be provided by the heterodox
+religions that would question the very basis of the caste system. Almost ignored
+by the Vedic tradition, the Mahābhārata, attributed to the low-born Vyāsa,73 spoke
+of a new ideology as the ‘fifth Veda’, ‘a Veda for the women and the śūdras’,
+greater than the combined weight of the four Vedas,74 a text which, rendering the
+Vedas insignificant, claims to contain everything conceivable about all the four
+ends of life: dharma (social order), artha (power and resources), kāma (material
+pleasure) and mokṣa (salvation):
+dharme cārthe ca kāme ca mokṣe ca bharatarṣabha/
+yad ihāsti tad anyatra yan nehāsti na tat kvacit.75
+Standing on this crossroads of ages, the Mahābhārata provides a new dharma, not
+of varṇa duties or martial violence but of non-cruelty, empathy and consideration.
+As the ṛṣi of the fifth Veda, Vyāsa proclaims,
+mātāpitṛsahasrāṇi putradāraśatāni ca/
+saṃsāreṣv anubhūtāni yānti yāsyanti cāpare//
+harṣasthānasahasrāṇi bhayasthānaśatāni ca/
+divase divase mūḍham āviśanti na paṇḍitam//
+ūrdhvavāhur viraumy eṣa na ca kaś cic chṛṇoti me/
+dharmād arthaś ca kāmaś ca sa kim arthaṃ na sevyate//
+na jātu kāmān na bhayān na lobhād dharmaṃ tyajej jīvitasyāpi hetoḥ/
+nityo dharmaḥ sukhaduḥkhe tv anitye jīvo nityo hetur asya tv anityaḥ//
+Thousands of mothers and fathers, and hundreds of sons and wives, experiencing world
+(or saṃsāra) have gone. And others will go. There are a thousand situations of joy and a
+hundred situations of fear. They affect the ignorant daily, but not the wise. With uplifted
+arms I cry this aloud, but no one hears me. Artha and kāma are from dharma. For
+what purpose is it not served? For the sake of neither desire nor fear nor greed should one
+ever abandon dharma, even for the sake of living. Dharma is eternal, but happiness and
+suffering are not eternal; the soul is eternal but its cause is not eternal.76
+This dharma that Vyāsa claims as the principal end of human life is rooted in the
+new ideal of ānṛśaṃsya.
+73 Vyāsa’s birth as the result of a premarital union between a brāhmaṇa and a dāsī would make his
+social rank dubious. Possibly, he would be categorized as a dāsīputra brāhmaṇa, a controversial social
+category in Vedic literature.
+74 Vyāsa, I.1.208–9.
+75 Ibid., I.56.33.
+76 Vyāsa, XVIII.5.47–50.
+Sinha 15
+If we reflect upon the unstable world order we are living in, where the practice
+of complete non-violence seems desirable but impracticable, we must also consider
+if militant aggression is necessarily the only alternative. At a time when violent
+aggressive nationalism, ruthless authoritarianism, majoritarianism and jingoism
+are becoming dangerously popular all over the world, it is essential to remember
+the Mahābhārata notion of ānṛśaṃsya which, despite accepting the occasions of
+necessary violence in politics and practical life, speaks of the cardinal principle of
+considerate empathy towards all beings, the ally and the opposition, friend and foe,
+and fellow creatures and the natural environment. In a world too confused to decide
+the ends of human life, what we need above all is probably the likes of Yudhiṣṭhira
+who would remind us in the days of crisis: ānṛśaṃsyaṃ paro dharmaḥ.
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to the research, authorship
+and/or publication of this article.
+Funding
+The author received no financial support for the research, authorship and/or publication of
+this article.

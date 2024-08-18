@@ -1,0 +1,1007 @@
+The Story of Sa¯vitr¯ı in the Maha¯bha¯rata:
+a Lineal Interpretation
+SIMON BRODBECK
+Abstract
+This paper presents a new interpretation of the story of Sa¯vitr¯ı as presented in the Maha¯bha¯rata.
+Sa¯vitr¯ıisviewedasanintendedputrika¯,orlinealdaughter,forherfather,andthedeathofherhusband
+andthemisfortunesofherfather-in-lawareexplainedascorollariesofthiscircumstance;butatthelast
+minuteSa¯vitr¯ıswitchesherallegiancetoherhusbandandhisline,becomingapativrata¯ ratherthana
+putrika¯. Following a prompt in the Maha¯bha¯rata text, the paper concludes with an exploration, on
+theSa¯vitr¯ımodel,ofDraupad¯ı’srelationshiptothePa¯n.d.avaline.ThedeathoftheDraupadeyasand
+theresuscitationofParik.sitareviewedintermsofasymbolicswitchfromtheputrika¯ tothepativrata¯
+modeofoperation.
+Introduction
+In the Maha¯bha¯rata, the story of Sa¯vitr¯ı is told by the .r.si Ma¯rkan.d.eya, in seven chapters
+(3.277–283),inresponsetothefollowingquestionvoicedbyYudhis.t.hiraPa¯n.d.ava:
+astis¯ımantin¯ıka¯cidd.r.s.tapu¯rva¯thava¯´sruta¯ |
+pativrata¯ maha¯bha¯ga¯ yatheyam. drupada¯tmaja¯ (cid:2)
+Has anyone before ever seen or heard of such a woman as this daughter of Drupada [that is,
+Draupad¯ı],sonobleandsointentonservingherhusbands?
+Maha¯bha¯rata3.277:3,tr.Smith2009,p.215
+Accordingly, in Indian history and elsewhere, the story of Sa¯vitr¯ı – which is illustrated
+on a sculptural panel from a now ruined temple to S´iva near the village of Ba¯gh1 – has
+served as a paradigmatic story of devoted wifehood. It functions in this way when it is
+mentionedintheRa¯ma¯yan.aandnarratedinvariousPura¯n.as;2 andinhiseighteenth-century
+Str¯ıdharmapaddhati,TryambakayajvanpresentsSa¯vitr¯ıasamodelpativrata¯–awomanavowed
+toherhusband.
+1See Majmudar 1956. There are also temples dedicated to the goddess Sa¯vitr¯ı, for example at Pushkar in
+RajasthanandatBhubaneshwarinOrissa.
+2S¯ıta¯saystoRa¯ma:“Doyounotknow,mymightyhusband,thatIbowtoyourwill,thatIamasfaithfultoyou
+asSa¯vitr¯ıwastoSatyavant,Dyumatsena’sson?”(dyumatsenasutam. v¯ırasatyavantamanuvrata¯m|sa¯vitr¯ımivama¯m. viddhi
+tvama¯tmava´savartin¯ım(cid:2)Ra¯ma¯yan.a2.27:6,tr.Pollock1986,p.140).Ra¯ma¯yan.a5.∗548,interpolatedafter5.22:7,gives
+alistoffaithfulwivesandtheirhusbands,includingSa¯vitr¯ıandSatyavat.ForalistofPura¯n.aversionsoftheSa¯vitr¯ı
+story,seeAnand1988,p.2n.5.
+JRAS,Series3,23,4(2013),pp.527–549 (cid:4)C TheRoyalAsiaticSociety2013
+doi:10.1017/S1356186313000424
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+528 SimonBrodbeck
+In her study of the Str¯ıdharmapaddhati, Julia Leslie summarises the Maha¯bha¯rata’s Sa¯vitr¯ı
+story:
+Sa¯vitr¯ıisborntoKingA´svapatioftheMadrapeople,bythegraceofthegoddessSa¯vitr¯ı,after
+he has offered oblations with the sa¯vitr¯ı formula regularly for eighteen years. When she grows
+up,sincenomanaskstomarryher,A´svapatisendsheronapilgrimagetofindahusband.She
+chooses Satyavat, who lives with his mother and blind father in exile in the forest. Although
+Sa¯vitr¯ılearnsthatheisdoomedtodiewithinayear,shemarrieshimanywayandjoinstheexiled
+family. As the day of his death approaches, Sa¯vitr¯ı undertakes the severe tapas of standing day
+andnightforthreedays.Onthefourthday,sheaccompaniesherhusbandintotheforest.When
+SatyavatcollapsesandYamacomestotakehissoulaway,Sa¯vitr¯ıfollows,answeringYamawith
+suchmeekwisdomthathegivesherthree[separate]wishes(alwaysexcludingSatyavat’slife).She
+asksfirst,thatherfather-in-lawwillregainhissight;secondly,thathewillregainhiskingdom;
+andthirdly,thatherownfatherwillhaveahundredsons.Givenafourthwish,sheasksthatshe
+andSatyavatwillalsohaveahundredsons.Thefifthwishisgivenwithoutqualification:Satyavat
+isfreed.
+Leslie1989,pp.313–314
+ItiswonderfulthewaySa¯vitr¯ıgetsthebetterofYama.Sheimpresseshimwithverses,and
+he offers her any boon other than her husband’s life and tells her to turn back. She names
+herboon;butshekeepsonwiththeverses,alwaysforcinganotherboon.Shekeepsupthe
+pressure,andeventuallyYamacracks.
+ThestoryofSa¯vitr¯ıwasoneofthefirstSanskritstoriestomakeanimpactinEurope;inthe
+nineteenthcenturyitwastranslatedintoseveralGermaniclanguages.Ithasbeentranslated
+aspartoftheMaha¯bha¯rataseveraltimessinceKisariMohanGanguli(inthelate-nineteenth-
+century Roy edition): by Johannes van Buitenen (in the Chicago edition, translating the
+Poona version), and most recently by Will Johnson (in the Clay Sanskrit Library edition,
+translatingN¯ılakan.t.ha’s‘vulgate’version)andJohnSmith(inthePenguinedition,translating
+thePoonaversion).3
+The story has been discussed and/or interpreted in translators’ introductions,4 as well
+as by numerous other commentators and/or retellers, including – in addition to the
+aforementioned Tryambakayajvan – Gustav Holst, who was responsible for the words and
+musicofaone-actoperaSavitri(premieredinLondonin1916;seeTrend1921);JohannJakob
+Meyer,whocalledSa¯vitr¯ı“thepearlofallIndianwomen”(Meyer1930,p.427);Aurobindo
+Ghose,whoselongallegoricalpoem‘Savitri:aLegendandaSymbol’wasleftunfinishedathis
+deathin1950(Aurobindo1995);HermanLommel,whoconnectedthestoryofSa¯vitr¯ıwith
+the Vedic story of the marriage of Soma and Su¯rya¯ (Lommel 1955–1958); John Alphonso-
+Karkala, who compared it with the story of Lemminka¨inen’s resurrection in Kalevala 15
+(Alphonso-Karkala1973);BradWeiss,whoadvancedastructuralistapproach(Weiss1985);
+Narendranath Patil and Subhash Anand, whose symbolic interpretations focused on the
+role of education as a second birth (Patil 1983, pp. 80–85; Anand 1988); Vidyut Aklujkar,
+whocomparedtheMaha¯bha¯rataversionwithtwomodernversions(Aklujkar1991);Konrad
+3Forthesetranslations,seeGanguli1970(reprint),pp.570–585(‘VanaParva’ChaptersCCLXLI–CCLXLVII);
+vanBuitenen1975,pp.760–778;Johnson2005,pp.154–217;Smith2009,pp.214–233.VanBuitenen’stranslation
+isprefacedbyachapter-by-chaptersummaryofthestory,whichisreproduced,forreference,asAppendixI.
+4See,forexample,vanBuitenen1975,pp.214–215;Johnson2005,pp.18–19;Smith2009,p.lii.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 529
+Meisig, who saw in the Sa¯vitr¯ı story an example of successful human revolt against cruel
+fate(Meisig1994);GouriLadandStephanieJamison,whobothfocusedonSa¯vitr¯ı’smarital
+self-determination(Lad1993,pp.232–233;Jamison1996,pp.245–247);ChrisChapple,who
+focusedontheefficacyofSa¯vitr¯ı’stapas(Chapple2006);KevinMcGrath,whoseesherasa
+“woman hero” (McGrath 2009, pp. 106–109); Anita Ray, who discusses the story in terms
+ofthenarrativerepresentationofthefeminine(Ray1998and2006);andMichaelNichols,
+who discusses its representation of Death (Nichols 2012, pp. 23–25). In various Pura¯n.ic
+versions(butnotintheMaha¯bha¯rataversion)thestoryisconnectedwiththeworshipofthe
+banyantree,asdiscussedbySadashivDange(Dange1963)andAskoParpola(Parpola1998
+and2000).
+InthispaperIconcentrateontheversionoftheSa¯vitr¯ıstoryinthePoonareconstituted
+Maha¯bha¯rata (3.277–283, = Sukthankar 1942, pp. 960–990). I argue that the story can
+profitablybeseenintermsoflinealconflictbetweenthefamiliesofSa¯vitr¯ıandSatyavat,and
+thatinthosetermsitprovidesaninterpretivewindowintotheMaha¯bha¯rataingeneral,and
+thecharacterofDraupad¯ıinparticular.AlthoughIamconvincedbythislinealinterpretation
+andhopethereaderwillbe,nonetheless“wedowelltoresistallimpulsetosecurethesingle
+correctreading,sincenosuchthingreallyexists”(Pollock1985,p.53).
+Yama’s boons
+Yama’sfiveboon-offeringspeechesareasfollows:
+nivartatu.s.to’smitava¯naya¯ gira¯ svara¯k.saravyan˜janahetuyuktaya¯ |
+varam. v.rn.¯ı.svehavina¯syaj¯ıvitam. dada¯nitesarvamaninditevaram(cid:2)
+Turn back! But I am pleased with these words you have spoken, every consonant and vowel,
+everypointofyourargument.Chooseanyboon,otherthanthelifeofthisman!Ishallgiveyou
+whatyouwantinfull,blamelesslady.
+3.281:25,tr.Smith2009,p.224
+manonuku¯lam. budhabuddhivardhanam. tvaya¯hamuktovacanam. hita¯´srayam|
+vina¯ punah. satyavato’syaj¯ıvitam. varam. dvit¯ıyam. varayasvabha¯mini(cid:2)
+Thismostsalutaryspeechthatyouhavespokentomepleasesmyheartandenhancesthewisdom
+ofthewise.Lovelygirl,choosefurtherasecondboon,otherthanthelifeofthisSatyavat!
+3.281:30,tr.Smith2009,p.225
+pipa¯sitasyevayatha¯ bhavetpayastatha¯ tvaya¯ va¯kyamidam. sam¯ıritam|
+vina¯ punah. satyavato’syaj¯ıvitam. varam. v.rn.¯ı.sveha´subheyadicchasi(cid:2)
+These words you have spoken are like water to a thirsty man. Choose further whatever boon
+youwish,fairlady,otherthanthelifeofthisSatyavat!
+3.281:36,tr.Smith2009,p.225
+uda¯h.rtam. tevacanam. yadan˙gane´subhenata¯d.rktvad.rtemaya¯´srutam|
+anenatu.s.to’smivina¯syaj¯ıvitam. varam. caturtham. varayasvagacchaca(cid:2)
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+530 SimonBrodbeck
+Fairlady,neverbeforehaveIheardsuchwordsasyouhavespoken,andIampleasedwiththem.
+Chooseafourthboon,otherthanthelifeofthisman;thengo!
+3.281:43,tr.Smith2009,p.226
+yatha¯ yatha¯ bha¯.sasidharmasam.hitam. manonuku¯lam. supadam. maha¯rthavat|
+tatha¯ tatha¯ metvayibhaktiruttama¯ varam. v.rn.¯ı.sva¯pratimam. yatavrate(cid:2)
+The more you speak of dharma so pleasingly and eloquently, and with such great significance,
+themoreIfeelthehighestaffectionforyou.Lady,youareakeeperofyourword;nowchoose
+anincomparableboon!
+3.281:50,tr.Smith2009,p.226
+The prohibitive words, absent from the final boon-offering speech, are vina¯ (satyavato) asya
+j¯ıvitam: “except for his (Satyavat’s) life”. (The word punah. in the second and third speeches
+justmeans“again”.)
+Why does Yama eventually offer a boon without stipulating that the return of Satyavat’s
+life is prohibited? That is the dramatic question. From one angle the joke is on Yama, for
+beingcareless.
+Once Yama has granted Sa¯vitr¯ı and Satyavat the boon of a hundred sons, it may seem
+that when granting further boons he cannot reasonably prohibit Satyavat’s revival.5 But
+the boon of a hundred sons for Sa¯vitr¯ı, made as it is while Satyavat is still dead, evokes a
+situation mentioned by Kunt¯ı at 1.112, when she tells Pa¯n.d.u the story of Vyus.ita¯´sva and
+Bhadra¯. Vyus.ita¯´sva died, but Bhadra¯ mourned most effectively over her husband’s corpse,
+thuswinningtheboon–inthisinstance,fromthedeadhusbandhimself–ofbearingsons
+by him even though he was dead. So she had three S´a¯lva sons and four Madra sons (tr¯ın˜
+´sa¯lva¯m.´s caturo madra¯n suta¯n, 1.112:33). Though Kunt¯ı’s story adverts to the necrophilia of
+the a´svamedha rite (Hiltebeitel 2011, pp. 275–277), it also links to Sa¯vitr¯ı – whose father is
+a Madra and whose husband is a S´a¯lva – and implies that it could be possible for Sa¯vitr¯ı to
+haveSatyavat’ssonswithoutSatyavatbeingrevived.
+If Yama really wants Satyavat to stay dead, he is careless in omitting, fifth time around,
+the prohibition of Satyavat’s revival. But what else can he do? Sa¯vitr¯ı has discovered how
+to make Yama offer her any boon except Satyavat’s life, and she has made it clear that she
+is not willing to let him leave with Satyavat’s soul without doing whatever she can to stop
+him.6 The only way Yama might get away with Satyavat’s soul is to change his policy on
+boon-granting, ignore Sa¯vitr¯ı’s next salvo of verses, and just keep heading south. But it
+seemsthathisdivineintegritywillnotallowhimsuddenlytoremainunmovedbySa¯vitr¯ı’s
+statementsanddemonstrationsofdharma.Andifthatisso,thenhisgivingintoherprimary
+wish is just a matter of time, the outer limit to which would be set, in storytelling terms,
+bythenumberofotherunfortunatethingsinSa¯vitr¯ı’slifethathavebeenmentionedinthe
+storysofarandmightberemediedthroughotherboonschoseninthemeanwhile.
+5Forthisinterpretation,whichSa¯vitr¯ıhintsat(3.281:53),see,forexample,Majmudar1956,p.76;Patil1983,
+p.82;Weiss1985,p.260;Anand1988,p.4;Aklujkar1991,p.325;Meisig1994,p.67.
+6CompareJamesCameron’sfilmTheAbyss,inwhichamaneventuallybringsthewomanhelovesbackfrom
+death–thoughtherehisspeechesaretonothirdpartybutsimplytoherinertform.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 531
+Fromthisperspective,thenarrativenecessityforSatyavat’sfathertobeblind,forexample,
+or for him to have recently lost his kingdom, could potentially be explained simply by the
+storyteller’s desire to give Sa¯vitr¯ı some more things to ask for before Yama eventually gives
+in. But this would be a misjudgement, because, as I will show, Satyavat’s father’s blindness
+and loss of kingdom are significant details within the stereotyped lineal situation that the
+storyshowcases:thesituationwherebytwopatrilineseachneedason,butthereisonlyone
+son to go round. Nonetheless, it is worth keeping in mind that the story is told in broad
+strokessuchthat,initspivotalscene,anumberofemblematicproblemscanberemediedall
+atonce.
+Sa¯vitr¯ı the putrika¯
+Consider Sa¯vitr¯ı’s relationship with her father’s patriline. According to the norm presented
+intheSanskritDharma´sa¯stras,adaughteristobegivenawayinmarriage,atayoungage,to
+anothersuitablefamily.Hernatalfamily’sdutieswithrespecttoherareprincipallytomake
+sure that this happens; thereafter she is the primary responsibility of the family into which
+shehasmarried,andforwhomshewillhavesons.Onceshehasbeenmarriedoff,hernatal
+familywillconcentrateontheirownsons(throughimportedbrides).
+ButSa¯vitr¯ı’sfather,KingA´svapati,hadnosons;andbeforeSa¯vitr¯ıwasbornheundertook
+an eighteen-year vow in the hope of having some. This vow included recitation of the
+famoussa¯vitr¯ıformula(R.gveda3.62:10,alsoknownasthega¯yatr¯ı),andsoitwasthegoddess
+Sa¯vitr¯ıwhocametogranthimaboon.A´svapatiaskedformanysons.
+sa¯vitryuva¯ca|
+pu¯rvamevamaya¯ ra¯jannabhipra¯yamimam. tava|
+jn˜a¯tva¯ putra¯rthamuktovaitavahetoh. pita¯mahah. (cid:2)
+prasa¯da¯ccaivatasma¯ttesvayam.bhuvihita¯dbhuvi|
+kanya¯ tejasvin¯ısaumyak.sipramevabhavi.syati(cid:2)
+uttaram. canatekim.cidvya¯hartavyam. katham.cana|
+pita¯mahanisargen.atu.s.ta¯ hyetadbrav¯ımite(cid:2)
+“Ialreadyknewthispurposeofyours,Oking,”saidSa¯vitr¯ı,“andhadrequestedBrahma¯forsons
+onyourbehalf;andfromthefavourthattheself-bornlordbearstowardsyouhereonearth,you
+willverysoonhavearesplendentdaughter,goodsir.Donotmakeanykindofanswer,forIam
+pleasedwithyou,andItellyouthisthroughBrahma¯’sgenerosity.”
+3.277:16–18,tr.Smith2009,pp.215–216
+The goddess Sa¯vitr¯ı insists that the terms of the boon have been set by her superior, and
+thereisnopointinA´svapati complainingtoherabout it.A´svapati mightpresumably want
+to argue for a son instead, but he does as he is told, asking only – redundantly and rather
+amusingly–thatthechildappearsoon.
+Thegirlisborn,andnamedafterthegoddessandtherecitedverse.Butsinceshehasno
+brothers,onewonderswhowilltakeontheresponsibility–normallytakenbytheeldestson
+– of regularly feeding the patrilineal ancestors via the ´sra¯ddha ritual, and of having sons to
+dothesameinturn.IquotefromGanguli’scommentarialfootnoteintheAnu´sa¯sanaparvan
+(atwhatisverse13.44:14inthecriticaledition):
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+532 SimonBrodbeck
+Whenafatherhappenstohaveanonlydaughter,hefrequentlybestowsherinmarriageupon
+someeligibleyouthontheunderstandingthatthesonbornofhershallbetheson,forpurposes
+ofbothSraddharitesandinheritance,notofthehusbandbegettinghimbutofthegirl’sfather.7
+Suchacontractwouldbevalidwhetherexpressedornotatthetimeofmarriage.Themerewish
+ofthegirl’sfather,unexpressedatthetimeofmarriage,8 wouldconvertthesonintoasonnot
+ofthefatherwhobegetshimbutofthefatherofthegirlherself.Adaughterreservedforsucha
+purposeissaidtobeaputrikadharminior“investedwiththecharacterofason”.Towedsucha
+girlwasnothonourable.Itwasineffectanabandonmentofthefruitsofmarriage.
+Ganguli1970,p.18n.2,in‘AnusasanaParva’ChapterXLIV
+The brotherless maiden is something of a legend in old Sanskrit literature:9 keen for a
+partner,buttobeshunnedbygoodmen.Nowonder,then,thatdespiteSa¯vitr¯ı’sloveliness
+(shelookslikeagoddess,likeS´r¯ıinhumanform,withaslenderwaist,broadhips,andeyes
+likelotuspetals,3.277:23–31),therearenosuitorsforherhand.
+The reason given for the lack of male interest in Sa¯vitr¯ı is that potential partners were
+“wardedoffby[her]brilliance”(tejasa¯prativa¯ritah.,3.277:27).DespiteJamison’sparenthetical
+commentthat“manymodernwomenwillrecognizethisplight”(Jamison1996,p.245),it
+seemstomeratherunlikelythatSa¯vitr¯ıwastooglorioustobewooed.Itakethisexplanation
+as something of a joke, with a nice pun to boot (the verb v.r meaning ‘ward off’ as well as
+‘choose in marriage’), and instead I follow Jamison’s endnoted suggestion that: “As she is
+also the only child of A´svapati, her potential status of ‘appointed daughter’ may have put
+peopleoffaswell,thoughthisobstacleisnotmentionedinthestory”(Jamison1996,p.305
+n.96). I imagine the text’s audience would infer the ‘no-brothers explanation’ without it
+beingmadeexplicit:noonewantedtomarryherbecause,despiteherabundantattractions,
+shewouldhaveseemedveryunlikelytomakeagoodpatrilinealpativrata¯ wife.10
+Satyavat’s lineal death
+AsdiscussedbyJamisonandothers,ifamanfailstofindhisdaughterahusband,according
+to ancient Indian marital theory she is entitled to find one for herself (Jamison 1996,
+pp.236–250;Schmidt1987,pp.76–83;Chatterjee1961,pp.606–608).InSa¯vitr¯ı’scase,her
+fathersendsherouttodojustthat,withministerstoaccompanyher.Beingawayfromher
+family(andmeetingpeoplewhodonotalreadyknowher)mightseemtobeanadvantage.In
+anycase,sheconductswhatMeyercalls“thefairestSvayam.varaintheEpic ... aproceeding
+7See Manusm.rti 9:127–140; Gautama Dharmasu¯tra 28:18–20; Baudha¯yana Dharmasu¯tra 2.3:15–16; Va¯si.s.tha
+Dharmasu¯tra17:15–17.TheManusm.rtipassagesaysthatasonlessmanmayensurehis´sra¯ddhasupplybyappointing
+hisdaughterasaputrika¯ (9:127);thenhersonwillbehisheir(9:131);andthusadaughter’ssonisoperationally
+identicaltoason’sson(9:139).Inthestandard´sra¯ddharitual,pin.d.as(rice-balls)areregularlyofferedinturnforthe
+offerer’sfather,paternalgrandfather,andpaternalgreat-grandfather(seeMaha¯bha¯rata13.92).Butwhenaputrika¯has
+beenappointed,ma¯tuh. prathamatah. pin.d.am. nirvapetputrika¯sutah. |dvit¯ıyam. tupitustasya¯st.rt¯ıyam. tupituh. pituh. (cid:2)“The
+sonoftheputrika¯offersapin.d.afirstlyforhismother,secondlyforherfather,andthirdlyforherfather’sfather”
+(Manusm.rti9:140).Forvariantunderstandings,seeAppendixII.
+8HereGanguligeneralisesanopinionmentionedatGautamaDharmasu¯tra28:19:thatthedaughtermightbe
+madeaputrika¯bymereintention.CompareManusm.rti9:136,whichsuggeststhatpropertyand´sra¯ddha-dutiesmight
+beinheritedbyadaughter’ssonevenifthatdaughterwasnotappointedasaputrika¯byherfather.
+9InadditiontoMaha¯bha¯rata13.44:14,onthebrotherlessmaidenseeManusm.rti3:11;Kane1968–1977,vol.1,
+p.7;vol.2,pp.435–436;Schmidt1987,pp.30–75;Jamison1996,p.234;Chakravarty2000,pp.184–186.
+10McGrathmentionsthispossibility,quotingJamison;buthedoesnotpursueit(McGrath2009,p.206).
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 533
+thatbynomeansfitsintotheframeworkoftheusualorcourttalesoftheSvayam.vara”(Meyer
+1930,p.78n.3);andshecomesbackwiththenewsthatshehasmadeherchoice.11
+Na¯radaisvisitingA´svapatiatthispoint,andwhenhehearsthatSa¯vitr¯ıhaschosenSatyavat,
+theonlysonoftheblindandrealmlessKingDyumatsena,herevealsthatalthoughSatyavat
+is virtuous and from a virtuous family, he will die in exactly one year’s time. Sa¯vitr¯ı is
+accordinglyadvisedtochooseanotherman.Butsherefuses;andsoNa¯radatellsA´svapatito
+giveherawayasshewishes,andthenheleaves.
+Perhaps Na¯rada knows what lies in store for the chosen groom because he habitually
+frequentsallmannerofdifferentlokasandkeepsallkindsofexaltedcompany.Nonetheless,
+itmayseemthathiscommentmakesexplicitsomethingthatwasalreadyimplicitwithinthe
+narrative. Under propitious circumstances, one might expect one year hence to mark the
+birth of Sa¯vitr¯ı’s first son. (As the story goes, Yama comes for Satyavat when Satyavat and
+Sa¯vitr¯ıareoutonafruit-gatheringexpedition.)So,sinceSa¯vitr¯ı’sbrotherlessnesshasalready
+alerted us to her father’s probable lineal interest in her son, we can also interpret Satyavat’s
+impendingdeathinlinealterms.IfSatyavatandSa¯vitr¯ı’ssoniscommandeeredbyA´svapati,12
+thenSatyavatwillnotreceivethe´sra¯ddhaofferingsthathisgenitalson(andhisson,andhis,
+andsoon)wouldordinarilyofferhim,tokeephimaliveinlinealheaven;sohewillstarve
+anddie,andhisdeathwillbebecausehiswife’ssonishisandyetnothis.Asalinealdeath,
+Satyavat’sdeathcanthenrepresentthelinealdeaththatmightoccurwheneveranydaughter
+isusedasaputrika¯dharmin.¯ı.13
+InsomescenariositwouldonlybeSatyavatwhowoulddieinthisway;butinthepresent
+situation the matter is more serious, because King Dyumatsena has no sons other than
+Satyavat,andhewouldthusbeasdependentasSatyavatisuponthefuture´sra¯ddhaofferings
+ofSa¯vitr¯ı’ssons.ThisismadeexplicitwhenSatyavatrepeatstoSa¯vitr¯ıwhathisparentshave
+toldhimpreviously:
+tvaya¯ h¯ınaunaj¯ıva¯vamuhu¯rtamapiputraka|
+ya¯vaddhari.syaseputrata¯vannauj¯ıvitam. dhruvam(cid:2)
+v.rddhayorandhayorya.s.tistvayivam.´sah. prati.s.thitah. |
+tvayipin.d.a´scak¯ırti´scasam.ta¯nam. ca¯vayoriti(cid:2)
+11Sa¯vitr¯ı’s autonomy is at odds withtheview thatawoman must neverbeindependent (see, for example,
+Manusm.rti9:3),andelsewhereintheMaha¯bha¯rataBh¯ıs.mamentionsadiversityofviewsontheproprietyofSa¯vitr¯ı’s
+and/orherfather’sbehaviourhere.Bh¯ıs.mahimselfwouldliketoruleagainstit(heinterruptedasvayam.varato
+performanabductioninstead,1.96;seeChakravarti2009,pp.33–49;compareKr.s.n.a’stipstoArjunaatMaha¯bha¯rata
+1.211:21),butheadmitsthat“nonetheless,theconductofgoodpeopleisthemostimportantmarkerofdharma”
+(svayam. v.rtetisa¯vitr¯ıpitra¯ vaipratyapadyata|tattasya¯nyepra´sam.santidharmajn˜a¯ netarejana¯h. (cid:2)etattuna¯parecakrurna
+pareja¯tusa¯dhavah. |sa¯dhu¯na¯m. punara¯ca¯rogar¯ıyodharmalak.san.am(cid:2)13.45:5–6,implyingthatSa¯vitr¯ıandherfatherare
+sa¯dhus).BehindMeyer’squotedcomment,thesvayam.varaasamarriageformseemstoappearintwovariants:one
+wherethewomanchooses,theotherwheresheispassivelywon.JohnBrockingtonhascollectedtextualdataon
+thesvayam.varaandproposesthatthevariantinwhichthewomanchoosesisthelaterone(Brockington2006);but
+severalscholarshaveproposedtheopposite(forexamplePrzyluski,Sergent,andKatzArabagian;seethediscussion
+inSchmidt1987,pp.92–105),andHerambaChatterjeedeemsthefree-choicesvayam.varatobebothearlierand
+later(Chatterjee1961,pp.608,611).Perhapsonemighteschewallofthesehistoricalviews,atleastasfarasthe
+Maha¯bha¯rata’ssvayam.varasareconcerned.Seefurtherfootnote23below.
+12AtMaha¯bha¯rata13.45:16Bh¯ıs.masaysthatifthebrideissoldtothegroom’sfamily,hernatalfamilycannot
+legitimatelyclaimthesonsresultingfromthemarriage.Butintheinstanceunderdiscussionhere,Satyavatandhis
+familyarepenniless.
+13InterpretingadeathinthiswayfitssituationselsewhereintheMaha¯bha¯rata.Fortheexampleofthelatterly
+snakebittenPariks.it,seeBrodbeck2009a,pp.221–238;Brodbeck2009b.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+534 SimonBrodbeck
+Son,ifweloseyou,weshallnotliveamoment;ourlivesareassuredjustaslongasyousurvive.
+Weareoldandblind,andyouareoursupport;thefamilylinedependsonyou,andsodoour
+ancestraloblation,14 ourfameandourdescendants.
+3.281:86–87,tr.Smith2009,pp.228–229,adapted
+Dyumatsena’s blindness
+Given how precious Satyavat is for King Dyumatsena’s line, why would Dyumatsena allow
+him to marry an only daughter? From one perspective the answer would be: because
+otherwisethesituationwouldnotbesodramaticandparadigmatic.Butintermsofnarrative
+content,thereisnosuggestionthatDyumatsenaandhiswifeappreciatethedangertheyare
+in. A´svapati takes Sa¯vitr¯ı with him and goes to visit Dyumatsena to give Sa¯vitr¯ı away, and
+Dyumatsena receives them with every courtesy, agrees to the match, and even says, at the
+endofthedialogue,thathehadalwayshopedtoestablishamarriagealliancewithA´svapati’s
+family.ButheexpressesconcernthatSa¯vitr¯ımightnotliketherigoursofforestlife,andthat
+sincehisfamilyhasfallenonhardtimes,theyareperhapsnotthemostdesirablein-laws.
+During this brief exchange (3.279:8–14) Dyumatsena expresses reservations concerning
+the match, but these fail to dissuade A´svapati from his intention. It is hard to tell whether
+Dyumatsena is just being modest and polite, or whether he actually wants to avoid this
+marriage; but in any case, the question of whose lineage the offspring will support is not
+raised, so if A´svapati has Sa¯vitr¯ı in mind as his putrika¯, he is keeping his cards close to his
+chest,andifDyumatsenahasanyfearsonthatscore,hekeepsquietaboutthem.Dyumatsena
+isalreadyacquaintedwithA´svapati’sfamilytosomeextent,soperhapshewouldknowthat
+Sa¯vitr¯ıisanonlychild;orperhapshedoesnotknowthis.
+If it seems as though Dyumatsena is rather precipitous in agreeing to the marriage, he
+isblind!Sa¯vitr¯ıhasalreadytoldNa¯radaandA´svapatithatwhileDyumatsenawasrulinghis
+S´a¯lva realm he became blind, and in his hour of weakness he was deposed and exiled by
+“a neighbour whowas an oldenemy”(sa¯m¯ıpyena ... pu¯rvavairin.a¯,3.278:8, tr.Smith 2009,
+p.217).Heisinabadspot;anditseemsthatinhissituationheisgladofanynoblemarriage
+hissonmightmake.PerhapsSa¯vitr¯ı’schoiceofthismanisconnectedwithherfamily’ssearch
+forafamilyvulnerableandneedyenoughtoaccepttheirdaughter.Aswellasservingasan
+explanationforhislossofkingdom,Dyumatsena’sblindnesscanbeinterpreted,regardlessof
+hisallegedoldwishtoestablishmarriagelinkswithA´svapati’sfamily,inlightofhisapparently
+blitheacceptanceofhiscrucialson’smarriagetoabrotherlessdaughter.
+HerewecancomparetheblindDhr.tara¯s.t.ra–theuncleanduncle-in-lawofthePa¯n.d.avas
+and Draupad¯ı, who are listening to the story. As is clear from the various remonstrations
+of Vidura, Sam.jaya and several others, as well as being physically blind, Dhr.tara¯s.t.ra is blind
+to the likely consequences of his decisions and actions (see Hudson 2007); and in this he
+resemblesDyumatsena.Inbothcasestheblindnessbearsuponthebusinessofthecharacter’s
+son. But although Dhr.tara¯s.t.ra in his blindness will suffer enormously and lose his sons,
+14HereIreplaceSmith’s“funeralrites”–aratherminimaltranslationofpin.d.a–withvanBuitenen’s“ancestral
+oblation” (van Buitenen 1975, p. 774). What is invoked is the regular and ongoing ritual that feeds and thus
+maintainstheancestorsintheancestralheaven.Forrelatedexamples,see1.147:8(ayoungwomananticipatesthat
+thedeathsofherfatherandbrotherwillleavetheancestorswithoutpin.d.a);14.65:20(Kunt¯ısaysthatthepin.d.aof
+thelong-deadPa¯n.d.udependsontherevivaloftheinfantPariks.it–onwhichmoreanon).
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 535
+Dyumatsena in contrast will keep his son, and will have his sight restored by Yama’s boon,
+thankstoSa¯vitr¯ı.ThecomparisonmightthusleadonetoDhr.tara¯s.t.ra’sextra,concubinalson
+Yuyutsu, who, as Yudhis.t.hira points out (6.41:93), will carry the pin.d.a line for Dhr.tara¯s.t.ra
+aftertheKuruks.etrawar,butwhoisnotalegitimatek.satriyaheirasSatyavat’ssonwillturn
+outtobeforDyumatsena.
+Dyumatsena’s loss of kingdom
+Like the lineal drama between Dhr.tara¯s.t.ra’s sons and Pa¯n.d.u’s, the lineal drama between
+Dyumatsena’s line and A´svapati’s is enhanced by the fact that both families are royal. The
+necessityforanykingtoarrangehissonasthenextking,andthustoarrangehisfamily’s(and
+his realm’s) lineal succession, makes stories of royal families particularly well suited to the
+playingoutoflinealproblematicsinmoreorlessstereotypedforms;andthisiswhatwesee
+inthoseworksofSanskritliterature–andperhapsofallliterature–thatdeallongitudinally
+withroyalfamilies.IntheA´svapati/Dyumatsenastory,becauseDyumatsenahasalreadylost
+hiskingdom,thestageseemssetforthetakeoverofhislandtobefollowed–oroverlaid–by
+thetakeoverofhislinethroughSatyavat’smarriagetoaputrika¯ fromadifferentroyalfamily.
+Asthefunctionalrepresentativeofhispatriline,Dyumatsena’stenuousgraspoflinealheaven
+isalmostexactlysuperimposeduponhistenuousgraspofthelandthathewouldwishtobe
+handeddownfromfathertosonwithinhispatrilineinthefollowinggenerations.Andthis
+fits,becausearoyalpatrilinecanonlykeepitskingdomifitsucceedsinhavingagoodheir
+ineverygeneration.
+Inthisrespect,onemightinterpretthechronologyofthenarrativeasdeliberatelywarped,
+andsuperimposeelementsthatarepresentedassuccessive–Dyumatsena’slossofhiskingdom,
+and Dyumatsena’s agreement to his son’s marriage to Sa¯vitr¯ı.15 One might even interpret
+the unnamed ‘old enemy’, who has deposed Dyumatsena and appropriated his kingdom,
+to be A´svapati himself. Either way, interpretively adjusting the chronology would allow
+Dyumatsena to lose his kingdom as a consequence of accepting the poisoned gift that is
+Sa¯vitr¯ı. The magical manner in which Sa¯vitr¯ı solves Dyumatsena’s and Satyavat’s problems
+glossesoverbutdoesnotobscurethesuggestionthatsheis(sheembodies)theircause;that
+wouldbewhysolvingthemisherbrief.
+Inthinkingaboutthisissue,onewonderswhetherreligiousstudiescommentatorsmight
+perhapshavebeenratherslowtothinkthroughproperlytheeffectsofsuchmagicalepisodes
+upon the ancient audience. The reason why the story of Yama magically granting specific
+boons looks tall to us is because it is, in those details, a very tall story; it surely anticipates
+beingseenassuch,anditthusanticipatesinterpretivespeculation.
+Sa¯vitr¯ı the pativrata¯, and Yama’s boons revisited
+Once Sa¯vitr¯ı is married, the narrative shows her behaving like a model patrilineal wife
+to an extraordinary degree; a romantic ideal of sorts. But Ray suggests that “the first
+authorstotypecastSa¯vitr¯ıinaromanticlightwerethecolonialists,nationalistsandEuropean
+15SuchsuperimpositiveinterpretationisilluminatinginseveralotherMaha¯bha¯ratainstances,asIhavesuggested
+elsewhere(seeBrodbeck2009a,p.325).
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+536 SimonBrodbeck
+romanticists” (Ray, 2006, p. 23); and Weiss, reviewing scholarship on Sa¯vitr¯ı, says that:
+“In western ideology, the ideal of female fidelity and subservience is well defined, and its
+correspondence to the Hindu ideal seems to obviate the necessity for in-depth analysis”
+(Weiss 1985, p. 261). Nonetheless, it is right and proper for Sa¯vitr¯ı to be seen as a model
+pativrata¯,becausetobecomethisfromhersituationasanintendedputrika¯israreandspecial,
+andbecausealthoughshenodoubtdoesitinresponsetohernewfamily,shedoesiteffectively
+alone,orinpartnershipwithdeath.ConfrontingSatyavat’simminentlinealdemise,shedoes
+three days of supreme tapas, and then she makes everything proper in response to Yama’s
+boons.16
+IfwefollowthesuggestedinterpretationofDyumatsena’slossofsightandkingdom,the
+first two boons – Dyumatsena’s regaining his sight and kingdom – imply that Sa¯vitr¯ı will
+haveherchildrenforSatyavatandforDyumatsena’slineafterall,asperDharma´sa¯stranorm.
+Thethirdboon–ahundredsonsforA´svapati–relatestoherfather’sline;thefirsttwoboons
+willpresumablycauseaproblemforthatline,andthethirdboonpromisesasolution.The
+fourthboonsaysthatSa¯vitr¯ıandSatyavatwillhavemanychildren,andatthispointwemight
+think that these could be distributed between the two lines, as suggested by Kunt¯ı’s story
+ofBhadra¯ –whohasthreeS´a¯lvasandfourMadras–and,forexample,bytheMaha¯bha¯rata’s
+storyofR.´sya´sr.n˙gaandS´a¯nta¯.17 ThefifthboonisSatyavat’slife,whichconsolidatesthefirst
+twoboons.
+WhenSa¯vitr¯ıhasnamedthefifthboonandYamahasgrantedit,Yamagivesasummary
+ofwhatheisgrantingheralltold,includingthefollowingdetail:
+pitu´scateputra´satam. bhavita¯ tavama¯tari|
+ma¯lavya¯m. ma¯lava¯ na¯ma´sa¯´svata¯h. putrapautrin.ah. |
+bhra¯tarastebhavi.syantik.satriya¯strida´sopama¯h. (cid:2)
+YourfathertooshallhaveahundredsonsbyyourmotherMa¯lav¯ı,andtheyandtheirsonsand
+grandsonswillbeforevercalledMa¯lavas.YourbrotherswillbegodlikeKs.atriyas.
+3.281:58,tr.Smith2009,p.227
+SothesolutionforA´svapati,aboutwhichwewerenaturallycurious,willbeforhimtohave
+sonsfromawomanotherthanSa¯vitr¯ı,andthusforSa¯vitr¯ıtohaveahundredlittlebrothers
+withouthavingtogivebirthtothemherself.
+Sa¯vitr¯ı and Satyavat go home
+AfterYamahasgrantedalltheboonsandSatyavatisaliveagain,itisgettinglateintheday,
+and it seems that the couple will have to camp out for the night. Satyavat is not happy at
+the prospect. He is upset at the thought of his parents worrying that he, upon whom they
+depend,mighthavecometogrief;andbecauseofthis,Sa¯vitr¯ıandSatyavattravelthroughthe
+nighttogethome.TheimageofSatyavatcomingtogriefmatchestheinterpretedsituation
+earlierintheday,beforeSa¯vitr¯ımadeherdealwithdeath;anditispresentedhereasifout
+16InsomeMaha¯bha¯rataexamplesofthisstereotypedlinealconflict,thechoice(betweenhisfather’slineand
+hismaternalgrandfather’s)isapparentlymadebytheson(seeBrodbeck2009b).ButintheSa¯vitr¯ıstorywehavea
+differenttypeofexample,wherethefocusisonthewomanasthepivotbetweenonelinealmodeandtheother.
+17Forthislatterstory,seeMaha¯bha¯rata3.110–113;Brodbeck2009a,pp.82–83.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 537
+of sequence, since by this later point everything has, in principle, been solved. But in this
+delayedmoment,DyumatsenaandhiswifeS´aibya¯ areindeedworrying;theyhavebecome
+convincedofSatyavat’spossibledeath,andtheyaretrawlingthea¯´sramaslookingfornews.
+Dyumatsena–whocannowsee–criesinanguish:“Ah,myson,ah,mygooddaughter-
+in-law, where are you, where are you?” (ha¯ putra ha¯ sa¯dhvi vadhu¯h. kva¯si kva¯s¯ıty, 3.282:9, tr.
+Smith 2009, p. 230). The sentiment matches the scene very well, but the scene – and the
+whole sequence between the granting of the boons and the young couple’s arrival home
+– might seem rather narratively gratuitous, or even a bit perverse; it is a new tack to the
+story,andisomittedinLeslie’ssummarypresentedearlier.Nonetheless,theparents-in-law’s
+son-hunting a¯´srama-tour parallels Sa¯vitr¯ı’s husband-hunting t¯ırtha-tour near the beginning
+of the story. Also, it fits very well in allowing a displaced and delayed presentation of the
+existentialmomentbeforeSa¯vitr¯ıreinventsherself–withDyumatsena,S´aibya¯ andSatyavat
+allsuffering,separatelyandtogether.
+Many new characters also appear in this extra section of the story: Suvarcas, Gautama,
+his pupil, the.r.sis, Bha¯radva¯ja, Da¯lbhya, Ma¯n.d.avya and Dhaumya. The association of these
+characters with Sa¯vitr¯ı’s switch from the putrika¯ to the pativrata¯ mode is underlined at this
+juncture by their telling the worried old couple in no uncertain terms, in sequence one
+after another in various ways, that Satyavat is still alive (3.282:10–19); and only then do
+Satyavat andSa¯vitr¯ıturnupandproveit,andexplainwhytheyaresolateback. Wemight
+infer that these.r.sis supported Sa¯vitr¯ı’s revolution against the putrika¯ method; and it is here
+that we see “a socio-political message of vast proportions, seeking to invalidate all other
+versions of femininity” (Ray 2006, p. 23). The .r.sis certainly congratulate Sa¯vitr¯ı on her
+deeds:“Thelineofthekingwassinkinginalakeofdarkness,overcomebydisasters,when
+it was saved by you” (nimajjama¯nam. vyasanair abhidrutam. kulam. narendrasya tamomaye hrade |
+tvaya¯ ... samuddh.rtam.,3.282:43,tr.Smith2009,p.232).
+WenowhearhowDyumatsena’skingdomisregainedaccordingtothesurfacestory:the
+neighbourwhohadtakenitiskilledbyhisownminister,hisgangarealsokilled,hisarmy
+flees, and a party comes to find Dyumatsena and invite him back to his old realm. Then
+Sa¯vitr¯ıhasahundredsons,andsodoeshermotherMa¯lav¯ı.
+And so A´svapati has a hundred sons. The solution to A´svapati’s lineal crisis, after his
+daughterSa¯vitr¯ıswitchessides,seemssimpleandelegant–somuchsothatwewonderagain
+whatitwasthatpreventeditearlier,andmeantSa¯vitr¯ıhadtobeaputrika¯ inthefirstplace.
+A´svapati hadnosons,andnow,becauseofYama’sthirdboon,hehas ahundred.Butthere
+maybeastinginthetaleforA´svapati,becausethehundredlatter-daysonsofMa¯lav¯ı–Ma¯lav¯ı
+whowelearnedearlier(at3.277:22,whenSa¯vitr¯ıwasborn)isthedaughterofaking–are
+called Ma¯lavas, apparently following in the line of their maternal grandfather. So it seems
+thatthesonlessnessthatafflictedA´svapatiatthestart,andwhichledtotheappointmentof
+Sa¯vitr¯ıasaputrika¯,couldhavebeencausedbyhisownwife’sbeingaputrika¯ herself.Andit
+isnotclearthatthethirdboonhasreallysolvedthisproblem.
+If we review our earlier speculation that the takeover of the kingdom by Dyumatsena’s
+neighbour might have represented A´svapati and his putrika¯ trick, we can extend our
+speculations to the identity of the neighbour’s murderous minister (ama¯tya, 3.283:3). One
+possibility might be to identify this minister as a representation of Sa¯vitr¯ı. A better option
+mightbetoidentifyhimasA´svapati’sfather-in-law,theMa¯lavaking.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+538 SimonBrodbeck
+Regardlessofthisdetail,theconsequenceofA´svapati’slinealsonlessnesshasbeenaverted
+within Dyumatsena’s line. The main point of the story is that a woman’s father should not
+take her sons for his own line; but also shown quite clearly now, in retrospect, is that one
+of the reasons why he might want to do so is because his own son is not lineally his own.
+ThisconsequencemeansthatdespitethefactthatnodaughterofDyumatsenaismentioned,
+we can imagine putrika¯ usage spreading in a rippling chain through a wide community of
+possibleintermarriage,unlessitischeckedatsomepoint.
+In this story, the consequence of putrika¯ usage is checked by the disciplined resolve of
+Sa¯vitr¯ı. And this female fulcrum can suggest a third, even more preferable representational
+identity for Dyumatsena’s neighbour’s murderous minister – to wit: A´svapati’s wife Ma¯lav¯ı.
+In any case, if we have been given a glimpse of the infectious nature of putrika¯ usage, we
+arealsoencouragedtoimaginethesimilarcounter-infectiousconsequenceofwomenbeing
+lineally pativrata¯, through their sons, to their husbands. By being pativrata¯ in this way, such
+womenwouldensurethattheirfatherskeeptryingforsonsoftheirown;andthusthestory
+ofonewoman’sreformationcanstandforareformationinlinealcustomacrossacommunity
+ofintermarriage–areformationthatcanthenbecomeconstitutiveofwhatitmeanstobe
+‘highclass’.
+Draupad¯ı’s mirror
+Ma¯rkan.d.eyaconcludestheSa¯vitr¯ıstoryasfollows:
+evama¯tma¯ pita¯ ma¯ta¯´sva´sru¯h. ´sva´suraevaca|
+bhartuh. kulam. casa¯vitrya¯ sarvam. k.rcchra¯tsamuddh.rtam(cid:2)
+tathaivai.sa¯pikalya¯n.¯ıdraupad¯ı´s¯ılasam.mata¯ |
+ta¯rayi.syativah. sarva¯nsa¯vitr¯ıvakula¯n˙gana¯ (cid:2)
+ThusithappenedthatSa¯vitr¯ırescuedfromcalamityherself,herfatherandmother,herparents-
+in-law, and her husband’s whole line; and in just the same way fair Draupad¯ı here, who like
+Sa¯vitr¯ıisahigh-bornwomanrenownedforhergoodcharacter,willsaveyouall.
+3.283:14–15,tr.Smith2009,p.233
+Draupad¯ı has already saved the Pa¯n.d.avas at the dice match by intervening (thanks to
+Yudhis.t.hira’s having staked her) and winning the rescue of her husbands, in a manner
+comparable to Sa¯vitr¯ı, through successive boons (given by Dhr.tara¯s.t.ra), as a result of her
+knowledgeofdharma(2.58–65).Shehasalsodoneherbit,whilelivingintheforest,toensure
+Yudhis.t.hira’sresolvetoregainhiskingdomandpayDuryodhanabackfortheinsultingway
+in which she was treated on that occasion (see 3.28–33). But Ma¯rkan.d.eya uses the future
+tensehere:shewillsavethePa¯n.d.avas.
+How precisely are we to take the tathaiva (‘in just the same way’)? Perhaps the reference
+is to the getting back of the kingdom – an ongoing project as yet unfulfilled. Brian Black,
+ponderingthereferenceofMa¯rkan.d.eya’sprediction,drawsattentiontoanimportantfuture
+move:
+IntheVira¯.taparvanDraupad¯ıoverhearsthearrogantUttaraboastabouthismartialskills,yetmake
+the excuse that there is no charioteer fit to drive him to the battlefield (4.34.1–9). Draupad¯ı
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 539
+suggests that Uttara send for Arjuna, disguised as Br.hannad.a¯. ... Her intervention saves her
+husbandsbecauseArjunaiscalledtothebattlefieldandisabletostaveofftheKauravasuntilthe
+Pa¯n.d.avas’yearinhidingends.
+Black2007,pp.68–69
+Black’scommentsherearesuggestive,andwewillreturntothispassage.Butfirstletusthink
+of the tathaiva in terms of our specific discussions of Sa¯vitr¯ı. Could Draupad¯ı be a sleeping
+putrika¯, who stands in need of converting herself into a pativrata¯? On the face of it she is
+already firmly pledged to the pativrata¯ way; this is implied by Yudhis.t.hira’s initial question
+(3.277:3,quotedearlier),andithasbeenmadeclearwhenshespokeonthesubjecttoKr.s.n.a’s
+wife Satyabha¯ma¯, explaining how devoted she is to the Pa¯n.d.avas (3.222–223). She also has
+severalbrothers.Sa¯vitr¯ıherselfwasonlyeveraputrika¯inbetweenthelines;butifYudhis.t.hira
+weretohaveheardthatsubtextandbecomesubjecttofearsofhisown,thenMa¯rkan.d.eya’s
+comment would seem to be reassuring him that Draupad¯ı’s sons will be dedicated to the
+Pa¯n.d.avaline,nottoDrupada’sline.
+ButthingsgodifferentlyforDraupad¯ı.Herfivesons,theDraupadeyas,thoughtheyfight
+nobly for their fathers at Kuruks.etra, never prosper them as Sa¯vitr¯ı’s sons do theirs; they
+are all killed by A´svattha¯man in the night massacre (10.8:44–58). The Pa¯n.d.ava heir comes
+throughArjunaandSubhadra¯’ssonAbhimanyu,whoiskilledinthebattlebutwhosewidow
+Uttara¯isalreadypregnant;herson,afterbeingstillbornandrevivedbyKr.s.n.a,isPariks.it,the
+nextkingafterYudhis.t.hira.SoweneverknowwhethertheDraupadeyas,hadtheysurvived,
+would have carried their fathers’ line, or their maternal grandfather’s. The latter possibility
+certainlyisthere,though,inthatwhiletheylivetheyarecollectivelynamedafterDrupada.18
+GivenMa¯rkan.d.eya’sstatement,thefateofDraupad¯ı’ssonswarrantsfurtherconsideration.
+Asafirststep,wecanthinkintermsofDraupad¯ı’sdisgracebeforeandfollowingherearlier
+treatment at the dicing match. After Yudhis.t.hira has staked her and lost the throw, the
+Kauravas bring her into the hall while she is menstruating, grab her by the hair, insult her
+verbally,attempttostriphernaked,andmakelewdgestures(2.59–63).Karn.a,respondingto
+Vikarn.a’sclaimthatDraupad¯ıwasnotlawfullywon,concludesthatthistypeoftreatmentis
+appropriateinanycase,becauseofherunconventionalmaritalarrangements:
+ekobharta¯ striya¯ devairvihitah. kurunandana|
+iyam. tvanekava´saga¯ bandhak¯ıtivini´scita¯ (cid:2)
+asya¯h. sabha¯ma¯nayanam. nacitramitimematih. |
+eka¯mbaradharatvam. va¯pyathava¯pivivastrata¯ (cid:2)
+Thegodsordainonehusbandforawoman,heirofKuru,yetshesubmitstoseveral:thussheis
+clearlyawhore,andinmyjudgementitisnotremarkablethatsheshouldbebroughttothehall,
+orthatsheshouldbewearingasinglegarment,or,indeed,noneatall!
+2.61:35–36,tr.Smith2009,p.147
+18Therealsoseemstobeaprecedentforputrika¯usagewithinDrupada’shousehold.ThemotherofDraupad¯ı
+and her brother Dhr.s.t.adyumna is called Pr.s.at¯ı (1.155:34, 47), which is a patronym derived from the name of
+Drupada’sfatherPr.s.ata;sothiswomanwouldbeDrupada’ssister,daughter,orniece,nothis‘wife’inourusual
+senseoftheword.OnthePa¯n˜ca¯lasintheMaha¯bha¯rataseealsoKatz1991,pp.132–136.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+540 SimonBrodbeck
+Whether or not Draupad¯ı is disreputable before the dicing match, she certainly is after it.
+Bh¯ımasaystoArjuna:
+tr¯ın.ijyot¯ım..sipuru.saitivaidevalo’brav¯ıt|
+apatyam. karmavidya¯ cayatah. s.r.s.ta¯h. praja¯statah. (cid:2)
+amedhyevaigatapra¯n.e´su¯nyejn˜a¯tibhirujjhite|
+dehetritayamevaitatpuru.sasyopaja¯yate(cid:2)
+tannojyotirabhihatam. da¯ra¯n.a¯mabhimar´sana¯t|
+dhanam.jayakatham. svitsya¯dapatyamabhim.r.s.tajam(cid:2)
+According to Devala there are three lights in a man: offspring, deeds and learning. Through
+these,creaturesattainbeing,forwhenthebody,impure,lifelessandempty,iscastawaybyone’s
+kin,itisthesethreethatstillexistofaman.Butoneofourlightshasbeenputout,becauseour
+wifehasbeentainted:how,wealth-winnerArjuna,canoffspringbebornfromataintedwoman?
+2.64:5–7,tr.Smith2009,p.154
+So eventually, some time after hearing about Sa¯vitr¯ı, the Pa¯n.d.avas fight the war at
+Kuruks.etra as much to try to restore Draupad¯ı’s honour as to regain their lost realm. But
+when all is said and done, although the kingdom can be won back, there is no remedy for
+Draupad¯ı’s disgrace. How can the next king after Yudhis.t.hira Dharmara¯ja be born from a
+taintedwoman?Accordingly,asthetalewouldhaveit,heisn’t.
+Compare the Ra¯ma¯yan.a, where the doubts over what Ra¯van.a might have done to the
+captive S¯ıta¯ can never be removed. Regardless of whether or not the reader or listener is
+convinced of S¯ıta¯’s purity, Ra¯ma’s subjects are not, and her misadventures, when coupled
+to Ra¯ma’s failure to take another wife after abandoning his first one, spell disaster for the
+royalAiks.va¯kavalineinAyodhya¯.19 Incontrast,Sa¯vitr¯ı’sreputationisunimpeached.When
+shegoesoutontourtofindherselfahusband,herchaperonesarementionedthreetimesin
+thespaceoffourverses.Shetravelsaccompaniedbyaspeciallyappointedretinueincluding
+venerableandtrustworthyministers.20
+Putrika¯ and the night massacre
+If Sa¯vitr¯ı’s story is the story of the putrika¯ option being suppressed in favour of pativrata¯
+wifehood,thenthecomparisonwithDraupad¯ıhasledustothedeathsoftheDraupadeyas
+in the night massacre. This massacre is explicitly designed to annihilate Drupada’s line
+(10.3:28).ItisthelastactinalongstandingfeudbetweenDron.a’sfamilyandDrupada’s(see
+Brodbeck2006and2009c);butintermsoftheMaha¯bha¯rataasataleoftheBha¯ratapatriline,
+itseffectistoeffaceanyPa¯n˜ca¯lainfluenceorancestrywithinthatpatriline.IfinMa¯rkan.d.eya’s
+narrativetheputrika¯ possibilityissuppressedbySa¯vitr¯ı’sreformation,inVai´sam.pa¯yana’sitis
+suppressed by this massacre, as perpetrated by S´iva in the guise of A´svattha¯man. As Ruth
+19WhenHanu¯matfirstlocatesS¯ıta¯inLan˙ka¯,sherefuseshisofferofaliftbacktoRa¯maonhisback,andone
+ofherreasonsisbecauseshefearsthattheridewouldcompromisethepurityofherdevotiontoRa¯ma.Hanu¯mat
+acceptsherdecisionandcommendsherreasoning.ButasS¯ıta¯herselfseemsatsomeleveltorealise,itisalreadytoo
+late(Ra¯ma¯yan.a5.35:20–36:10).
+20v.rddha¯m.´scamantrin.ah.|vya¯dide´sa¯nuya¯tram. ca,3.277:37;sthaviraih.sacivairv.rta¯,3.277:39;ma¯nya¯na¯m. tatrav.rddha¯na¯m.
+k.rtva¯pa¯da¯bhivandanam,3.277:40.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 541
+Katzsays,“allnamedvictimsofthenightraidarePa¯n˜ca¯las”;“someoneisgettingridofthe
+Pa¯n˜ca¯lastomakewayforanotherPa¯n.d.avaheir”(Katz1991,pp.133,135).
+Following the suggestive leads of several other scholars, I have elsewhere argued that
+the suppression of the putrika¯ possibility is dramatised in Vedic literature by the story of
+S´iva’s killing the Praja¯pati who mated with his own daughter, and that the Maha¯bha¯rata’s
+repeatedstoryofS´iva’swreckingDaks.a’ssacrificeisatransformationofthatVedicstoryand
+adramatisationofthesamesuppression(Brodbeck2009a,pp.52–55,90–95;Brodbeck2012,
+pp.152–153).21 InlightoftheseresultsandthefactthattheSa¯vitr¯ıstoryhasledustofocus
+onthenightmassacreinthisregard,itisnotablethatthereareextensivestructuralparallels
+betweenthenightmassacreandthestoryofthewreckingofDaks.a’ssacrifice,assetoutby
+AlfHiltebeitelinthe 1970s(Hiltebeitel1972,pp.105–122; Hiltebeitel1976, pp.312–335).
+Hiltebeiteldetailstheseparallelsunder14headings;somearemoreconvincingthanothers,
+butoverallthepointisverywellmade.TheargumentmountedbyHiltebeitelonthebasis
+of these parallels is peripheral to our present concerns, but the connection he establishes
+betweenthetwostoriesisvital.Insymbolicterms–andthisfitswithDraupad¯ı’sdisgraceas
+discussedabove–wethusseeafirmconnectionbetweenDaks.aandDrupada,eventhough
+thereisnoexplicitsuggestionthatDraupad¯ıwasintendedtobeaputrika¯.
+IftheDraupad¯ınarrativeturnsupontheviolentdestructionofherfather’sline,thisturning
+point is presented in the Sa¯vitr¯ı story in terms of Sa¯vitr¯ı’s loyal dedication to her husband
+and his line. Also, and relatedly, whereas in Draupad¯ı’s case the destruction is initiated by
+A´svattha¯man (who has his own motives), Sa¯vitr¯ı mounts the heroic stand herself. This last
+difference can be closed up if we consider Kr.s.n.a¯ Draupad¯ı not as a single autonomous
+character, but as a functional aspect of a dark force that operates through her as well as
+through Kr.s.n.a Va¯sudeva and Kr.s.n.a Dvaipa¯yana Vya¯sa.22 If Draupad¯ı eschews the putrika¯
+possibility by suffering the destruction of her father’s line as effected by S´iva, she facilitates
+thefurtheringofherhusbands’line,inUttara¯’sdeliveryroom,intheguiseofhernamesake
+Kr.s.n.a.23 Pariks.it’s stillbirth (14.65) can be seen as a representation of the death-by-putrika¯
+thatthePa¯n.d.avalinecouldhavesuffered(anditislinkedbacktothemassacreofthePa¯n˜ca¯las
+throughA´svattha¯man’scurse);butKr.s.n.aintervenes,ashesaidhewould(at10.16:15).Like
+Sa¯vitr¯ı, Kr.s.n.a gets the better of death, reviving the endangered line through the power of
+his discipline and dharma. He uses an ‘act of truth’, a miracle technique employed in the
+Maha¯bha¯ratausuallybywomen:24
+noktapu¯rvam. maya¯ mithya¯ svaire.svapikada¯cana|
+nacayuddhepara¯v.rttastatha¯ sam.j¯ıvata¯mayam(cid:2)
+21At Manusm.rti 9:128 putrika¯ usage is paradigmatically associated with Daks.a; and this is borne out in the
+Bha¯rataancestryatMaha¯bha¯rata1.70:7–9and1.90:7,wherethelinerunsfromDaks.a,throughhisdaughterAditi
+Da¯ks.a¯yan.¯ı,toVivasvat.
+22For Hiltebeitel’s indispensible theory of the many Kr.s.n.as, see, for example, Hiltebeitel 1976, pp. 60–76;
+Hiltebeitel1991.
+23Sa¯vitr¯ı and Draupad¯ı both have svayam.varas, but in each case the choice of husband is later overlaid and
+overshadowedbythechoiceofwhichlinewillsurvive,thelineofthehusbandorthelineofthefather.InSa¯vitr¯ı’s
+case both choices are her own; in Draupad¯ı’s case both choices are made for her. This pattern throws up the
+possibilityofalinkbetweenthesvayam.varaandtheputrika¯option,particularlyastheputrika¯isinmanywaysthe
+incestuouswifeofherownfather.Furtherdiscussionofthesvayam.varawillnotbefoundinthepresentpaper,but
+wouldnecessarilyinvolveDamayant¯ıandKunt¯ı.
+24Onthesatyakriya¯,seeBurlingame1917;Brown1972;So¨hnen-Thieme1995;Thompson1998.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+542 SimonBrodbeck
+yatha¯ medayitodharmobra¯hman.a¯´scavi´se.satah. |
+abhimanyoh. sutoja¯tom.rtoj¯ıvatvayam. tatha¯ (cid:2)
+yatha¯ham. na¯bhija¯na¯mivijayenakada¯cana|
+virodham. tenasatyenam.rtoj¯ıvatvayam. ´si´suh. (cid:2)
+yatha¯ satyam. cadharma´scamayinityam. prati.s.thitau|
+tatha¯ m.rtah. ´si´surayam. j¯ıvata¯mabhimanyujah. (cid:2)
+yatha¯ kam.sa´scake´s¯ıcadharmen.anihataumaya¯ |
+tenasatyenaba¯lo’yam. punarujj¯ıvata¯miha(cid:2)
+AsIhaveneverutteredfalsehood,eveninatrivialmatter,asIhaveneverturnedawayinbattle,
+soletthisonelive!AsIlovedharma,asIgreatlyloveBrahmins,soletthissonofAbhimanyu,
+borndead,nowlive!AsIhaveneverknowndiscordbetweenmyselfandArjuna,bythistruth
+letthisdeadchildlive!Astruthanddharmaalwayshavetheirbasisinme,soletthisdeadchildof
+Abhimanyulive!AsIslewKam.saandKe´sinaccordingtodharma,bythistruthletthischildhere
+liveoncemore!
+14.68:19–23,tr.Smith2009,pp.712–713
+The parallel thus formed between the Sa¯vitr¯ı story and the story of the Pa¯n.d.ava line is
+underlined by Sa¯vitr¯ı’s performance of an ‘act of truth’ after Satyavat has come back to life
+and has expressed concern that his parents will be worried. We know, as Sa¯vitr¯ı does, that
+all danger is already past, provided no one accidentally dies of worry; but the sentiment is
+encapsulatory.
+yadime’stitapastaptam. yadidattam. hutam. yadi|
+´sva´sru¯´sva´surabhartr.¯n.a¯m. mamapun.ya¯stu´sarvar¯ı(cid:2)
+nasmara¯myuktapu¯rva¯m. vaisvaire.svapyan.rta¯m. giram|
+tenasatyenata¯vadyadhriyeta¯m. ´sva´suraumama(cid:2)
+IfIhaveperformedausterities,ifIhavegivengifts,ifIhavemadeofferings,thenletthisnight
+beauspiciousformyparents-in-lawandmyhusband!Idonotrememberhavingeverspokenan
+untrueword,eveninatrivialmatter;bythistruthletmyparents-in-lawsurvivethisday!
+3.281:96–97,tr.Smith2009,p.229
+In this way, the comparison between Sa¯vitr¯ı and Kr.s.n.a¯ Draupad¯ı comes down to Kr.s.n.a in
+Uttara¯’sdeliveryroom.25
+Lestthisnominalshiftbethoughttangential,wereturntoBlack’ssuggestionthatDraupad¯ı,
+in her disguise as Sairandhr¯ı, saves the Pa¯n.d.avas at 4.34. I believe this is so, but not quite
+in the way that Black intended. When King Vira¯t.a and his army are away dealing with
+the Trigartas, and there is no one to defend the nearby Matsya herds from the Kauravas’
+parallelattack,Draupad¯ıspeaksouttoensurethatArjunagoestodothejobwiththefeckless
+PrinceUttara.ViewedthroughtheSa¯vitr¯ılens,theresultofthisinterventionisthatVira¯t.a,
+pleasedwithArjuna’sheroicdeedsanddiscoveringBr.hannad.a¯’strueidentity,offershimhis
+daughter Uttara¯, and Arjuna says can Abhimanyu have her instead, and Vira¯t.a gives her to
+Abhimanyu;andsoafterthewarPariks.it,thePa¯n.d.avas’heir,isbornfromUttara¯,amaiden
+25Kr.s.n.a had already intervened to prompt and facilitate the marriage between Arjuna and Subhadra¯ that
+producedPariks.it’sfatherAbhimanyuinthefirstplace(1.211–213).
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 543
+untaintedbymultiplehusbands,publicinsults,orimpliedputrika¯suspicions.26 ItisDraupad¯ı
+whoarrangesthis,asifatBh¯ıma’ssuggestion(seeagain2.64:5–7,quotedearlier).Speaking
+toUttara,sheextolsBr.hannad.a¯’sdrivingskillsandsays:
+yeyam. kuma¯r¯ısu´sron.¯ıbhagin¯ıteyav¯ıyas¯ı|
+asya¯h. savacanam. v¯ırakari.syatinasam.´sayah. (cid:2)
+Youryoungervirginsisterwiththeshapelyhips,hewillcertainlycarryoutherorders,hero!
+4.34:16,tr.vanBuitenen1978,p.80
+AndsoUttarasendsUttara¯tosendhimBr.hannad.a¯,herdancingtutor,todrivehimintobattle.
+Draupad¯ı’scontributiontowardsthemarriageofAbhimanyuandUttara¯isalsoconfirmeda
+fewsceneslater,whensheintervenestoensurethatabriefdisagreementbetweenYudhis.t.hira
+andVira¯t.adoesnotspoiltherelationshipbetweenthetwofamilies(4.63:46–47;4.64:8).
+Conclusion
+In this paper I have argued for a lineal interpretation of the Maha¯bha¯rata’s Sa¯vitr¯ı story,
+wherebySa¯vitr¯ıwasintendedtobeaputrika¯dedicatedtoherfather’sline.Satyavat’sdeathas
+wellasDyumatsena’sblindnessandlossofkingdomhavebeenexplainedintheseterms,and
+Sa¯vitr¯ı’svictoryoverYamahasbeendeemedtorepresentherswitchfrombeingaputrika¯ to
+beingapativrata¯,withunfortunateresultsforherfather.Manydetailsofthestoryhavebeen
+well explained by this interpretation, and other details unmentioned here could perhaps
+be similarly explained. I have offered a reading of the final phase of the story consonant
+with this theme, and I have shown how the theme and some important structural features
+of the story transfer, via Draupad¯ı with whom Sa¯vitr¯ı is compared, to the wider story of
+thePa¯n.d.avas,thusprovidinganewperspectiveonDraupad¯ı’schequeredreputation,onthe
+nightmassacre,andonPariks.it’srevival.
+In terms of Maha¯bha¯rata studies, one effect of these discussions has been to show that
+denying the putrika¯ possibility is a central theme within the text, even if this is not evident
+atfirstglance.AnothereffecthasbeentoconsolidateHiltebeitel’sworkontheintegrityof
+the Maha¯bha¯rata’s upa¯khya¯nas (‘subtales’; see Hiltebeitel 2005), by showing that the Sa¯vitr¯ı
+story is thematically and structurally of a piece with the wider text of which it forms –
+perchancealwaysformed–part.Ithushopethatthispaperwillmakeasmallcontribution
+tothecollaborativescholarlyexplorationoftheMaha¯bha¯rata’sliterarymerits.
+Appendix I: van Buitenen’s summary of the Sa¯vitr¯ı story
+(van Buitenen 1975, pp. 760–761)27
+277 (41 verses). Yudhis.t.hira asks Ma¯rkan.d.eya whether any woman has ever been such a
+devoted wife as Draupad¯ı. King A´svapati of the Madras, being childless, offers with the
+26For the replacement of Draupad¯ı by Uttara¯, see also Hiltebeitel 1980, pp. 105–107. Following Gehrts,
+Hiltebeitel calls attention to the garments that Arjuna presents to Uttara¯ at 4.64:34–35: “The bestowal of the
+garmentsonUttara¯representsthattheir[thePa¯n.d.avas’]rebirthwillbethroughher,ratherthanthroughDraupad¯ı”
+(Hiltebeitel1980,p.106;compareGehrts1975,pp.206–207,224–225).
+27Ihaveremovedtheblockitalicstheparentheticalinsertsthatgiveapproximateverserangesforthevarious
+episodes,andIhaveaddedthetotalverserangesforeachchapter.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+544 SimonBrodbeck
+sa¯vitr¯ıformula.AftereighteenyearstheGoddessSa¯vitr¯ıappearsandpredictsheshallhavea
+splendiddaughter.SheisbornandnamedSa¯vitr¯ı;whenshegrowsup,nomanchoosesher
+forhiswife.Herfathertellshertofindamanonherown,andshedepartsonapilgrimage.
+278(32verses).Na¯radaisvisitingA´svapatiwhenSa¯vitr¯ıreturns:shehasfoundhermanin
+Satyavat,aS´a¯lvaprince,whosefatherDyumatsenahadgoneblindandwasthendethroned.
+Na¯rada exclaims that her choice is bad: though otherwise a paragon, Satyavat is flawed by
+imminentdeath.Whenherfatherdemandsthatshefindanotherhusband,sheinsistsonher
+choice;Na¯radaagrees,andthekingacquiesces.
+279 (23 verses). A´svapati visits ... Dyumatsena and marries Sa¯vitr¯ı to Satyavat. Sa¯vitr¯ı
+doffsherfineryandwearshermit’sgarb;shesatisfieseveryone.
+280(33verses).Whenthedayofdeathnears,Sa¯vitr¯ıundertakesathree-dayvow,standing
+updayandnight,thoughherfather-in-lawremonstrateswithher;uponitsconclusionthe
+brahmins bless her. Satyavat is about to go to the forest, and she insists on accompanying
+him;herfather-in-lawgiveshispermission.Theygoouttogether.
+281(108verses).WhileSatyavatissplittingwood,heweakens;Sa¯vitr¯ırestshisheadinher
+lap. Yama, the God of death, appears and draws out Satyavat’s thumb-sized soul; when he
+leaves,Sa¯vitr¯ıfollowshim.Shepronouncesformulasofwisdom,forwhichYamagrantsher
+boons:eyesightandrestorationforherfather-in-law,sonsforherfather,sonsforherselfand
+Satyavat,andfinallySatyavat’slife.YamasendsSatyavatbackwithSa¯vitr¯ı,andshereturnsto
+the corpse. Satyavat wakes up, and Sa¯vitr¯ı postpones explanations, for night has fallen and
+hisparentsmustbeworrying.Satyavatagrees:heisthesolesupportofhisparents.Theyset
+out,shecarryinghisax.
+282 (44 verses). Dyumatsena regains his eyesight. Worried, he and his wife look for
+Satyavat. The ascetics console him. The couple returns, and they, the parents, and the
+brahminssitbythefire.Satyavatexplainsthathewastakenillandslept.Sa¯vitr¯ırelateshow
+sheknewofSatyavat’simminentdeathandwonoverYama,whogavehermanyboons.She
+ispraised.
+283 (16 verses). Erstwhile ministers of Dyumatsena arrive and relate the death of his
+kingdom’s usurper. Joyously he returns to his land with his family. All the boons come to
+pass.Draupad¯ı,too,shallsaveherhusband.
+Appendix II: on s´ra¯ddha and inheritance at Manusm.rti 9:140 and 9:13228
+TheManusm.rtispecifiesthatwhenaputrika¯ hasbeenappointed,
+ma¯tuh. prathamatah. pin.d.am. nirvapetputrika¯sutah. |
+dvit¯ıyam. tupitustasya¯st.rt¯ıyam. tupituh. pituh. (cid:2)
+Thesonoftheputrika¯offersapin.d.afirstlyforhismother,secondlyforherfather,andthirdlyfor
+herfather’sfather.
+Manusm.rti9:140
+According to some manuscripts and some commentators, this verse (as also the parallel at
+Baudha¯yana Dharmasu¯tra 2.3:16) stipulates that the second and/or third pin.d.as are for the
+28OnthesemattersIhaveprofitedfromconversationwithHansBakker.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 545
+offerer’spaternalline(seeOlivelle2006,pp.328,772);butsuchreadingsseemforced.The
+wholepointofappointingaputrika¯isthatone’slinebefedjustasifonehadhadadedicated
+son. When Arjuna Pa¯n.d.ava marries the royal putrika¯ Citra¯n˙gada¯ (at Maha¯bha¯rata 1.207:16–
+23)thereisnosuggestionthatArjunaorPa¯n.d.uwillreceivepin.d.asfromBabhruva¯hana,the
+resultingson.
+ThematteriscomplicatedbyManusm.rti9:131–132(compareMaha¯bha¯rata13.45:13–14):
+ma¯tustuyautakam. yatsya¯tkuma¯r¯ıbha¯gaevasah. |
+dauhitraevacaharedaputrasya¯khilam. dhanam(cid:2)
+dauhitrohyakhilam. rikthamaputrasyapiturharet|
+saevadadya¯ddvaupin.d.aupitrema¯ta¯maha¯yaca(cid:2)
+Olivelle’stranslationreadsasfollows:
+Anything that is part of a mother’s separate property becomes the share of her unmarried
+daughters; and the daughter’s son shall take the entire property of a man without a son. The
+daughter’ssonshallindeedtaketheentireestateofthefatherwhoiswithoutason,andheshall
+offertworice-balls,onetohisfatherandonetohismaternalgrandfather.
+Manusm.rti9:131–132,tr.Olivelle2006,pp.196–197
+Accordingtothisreading,thesonofaputrika¯feedsbothsidesofhisfamily,whereasat9:140
+only the mother’s side is fed. But Olivelle’s translation (as also that of Doniger and Smith
+1991, p. 213) is odd, since it apparently presents the same information in two successive
+lines(9:131cdand9:132ab).IncontrastBu¨hler’stranslation,followingtheinterpretationof
+Medha¯tithi, reads the second of these lines differently, with aputrasya pituh. referring not to
+thesonlessfatheroftheputrika¯ buttothesonlessgenitoroftheputrika¯’sson:
+Thesonofan(appointed)daughter,indeed,shall(also)taketheestateofhis(own)father,who
+leavesno(other)son ...
+Manusm.rti9:132ab,tr.Bu¨hler1979,p.353;compareJha1992,vol.2,p.280
+In other words, although the son of a putrika¯ might sometimes be replaced by his brother
+asfarashisownpatriline’s´sra¯ddharitesareconcerned(andthentwobrotherswould,rather
+awkwardly, serve different lines), if his father has no other sons to do this, then the sole
+son must feed both lines. I think Bu¨hler’s reading is to be preferred, but in both readings
+there is a man who must sustain both of his parental lines; the only difference is over the
+circumstances.
+Ifinheritanceand´sra¯ddha-dutiesarealwayslinked(seeRocher1992,p.645),thenaman
+offering´sra¯ddhatobothsidesofhisfamilywouldalsoinheritfrombothsides;andthiswould
+mean that a crown prince wishing to enlarge his realm in the next generation would do
+well, according to Manusm.rti 9:132, to marry a putrika¯ (and, in Bu¨hler’s reading, have only
+oneson).Onewonders,though,whatwouldactuallytranspireinsuchcases.Sustainingtwo
+sets of ancestors would be rather impractical, especially for kings, where the line is traced
+for many generations (as seen in the vam.´sas at Maha¯bha¯rata 1.70–90, Ra¯ma¯yan.a 1.69 and
+2.102,andsoon);andifthesituationspecifiedatManusm.rti9:132weretoobtainrepeatedly,
+thenamanmightfindhimselftheoreticallyresponsibleforamultiplybranchingnetworkof
+ancestral´sra¯ddhalines,whichwouldsurelybeunworkable.Whatwouldhappeninsuchcases,
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+546 SimonBrodbeck
+I suggest, would be that all lines but one would soon be dropped, depending on which of
+themanyancestralidentitieswasfelttobemostsalient;yetthiswouldriskexactlywhatthe
+putrika¯regulationissupposedlydesignedtoavoid.SoitseemstomethatalthoughManusm.rti
+9:132isintendedtosolvewhatisperceivedasaseriousproblem,itcannotsucceedindoing
+so;rather,itseffectistohighlightthatproblem.Possiblesolutions29 wouldbetoremovethe
+putrika¯ optionaltogether(butwedonotseethis),ortowarnmenagainstmarryingputrika¯s
+(weseethistimeandagain),thuseffectivelypassingtheproblemontosomeotherfamily.
+Afinalpointhere:whenManusm.rti9:132saysthatthefatherandthemother’sfatherare
+both to be sustained, it is perhaps possible to interpret these as one and the same person,
+because the father of a putrika¯ is also, in a significant sense, the father of her son. Ganguli
+saysthat“thesonbornofhershallbetheson ... ofthegirl’sfather”(Ganguli1970,p.18
+n.2, in ‘Anusasana Parva’ Chapter XLIV). That is to say, from one perspective the putrika¯
+playsnottheroleofasontoherfather,buttheroleofawife:shehashissonforhim.
+References
+Baudha¯yanaDharmasu¯tra,seeOlivelle2000,pp.191–345.
+GautamaDharmasu¯tra,seeOlivelle2000,pp.116–189.
+Maha¯bha¯rata,V.S.Sukthankar,S.K.Belvalkar,P.L.Vaidya,etal.(eds),TheMaha¯bha¯ratafortheFirst
+TimeCriticallyEdited(Poona,1933–1966).
+Manusm.rti,seeOlivelle2006.
+Ra¯ma¯yan.a,G.H.Bhatt,U.P.Shah,etal.(eds),TheVa¯lm¯ıki-Ra¯ma¯yan.aCriticallyEditedfortheFirstTime
+(Baroda,1958–1975).
+R.gveda,BarendA.vanNootenandGaryB.Holland(eds),RigVeda:aMetricallyRestoredTextwithan
+IntroductionandNotes(Cambridge,MA,1994).
+Va¯si.s.thaDharmasu¯tra,seeOlivelle2000,pp.346–463.
+Aklujkar,Vidyut,‘Sa¯vitr¯ı:oldandnew’,inArvindSharma(ed.),EssaysontheMaha¯bha¯rata(Leiden,
+1991),pp.324–333.
+Alphonso-Karkala, John B., ‘Woman as man’s resurrection in Kalevala and Mahabharata’, Indian
+LiteratureXVI.1–2(1973),pp.70–83.
+Anand, Subhash, ‘Sa¯vitr¯ı and Satyavat: a contemporary reading’, Annals of the Bhandarkar Oriental
+ResearchInstituteLXIX(1988),pp.1–28.
+Aurobindo,Sri,Savitri:aLegendandaSymbol(TwinLakes,1995).FirstpublishedPondicherry,1950–
+1951.
+Black,Brian,‘Eavesdroppingontheepic:femalelistenersintheMaha¯bha¯rata’,inSimonBrodbeckand
+BrianBlack(eds),GenderandNarrativeintheMaha¯bha¯rata(London,2007),pp.53–78.
+Brockington,JohnL.,‘Epicsvayam˙varas’,inRaghunathPandaandMadhusudanMishra(eds),Voiceof
+theOrient:aTributetoProf.UpendranathDhal(Delhi,2006),pp.35–42.
+29Inhisdiscussionofthemultidimensionalcategoryofsapin.d.a,LouisDumontmentionsatraditionofroutinely
+makingofferingstothemother’simmediatepatrilinealascendantsinadditiontothefather’s(Dumont1983,p.3;
+compareKane1968–1977,vol.4,pp.472–474).Dumontconcludesthattheintroductionofthematernalrelatives
+wasaninnovation,“anexampleoftheprocessofaggregation”;thatitwas“alwayssecondary”;andthatinthefirst
+placethecategoryofsapin.d.awas“essentiallyagnatic”(Dumont1983,pp.17–18).Thedevelopmentofabilineal
+traditionwouldgosomewaytowardsmitigatingtheproblemdiscussedinthispaper;butasDumontshows,it
+resultsinacertaindegreeofincoherence.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 547
+Brodbeck, Simon, ‘Ekalavya and Maha¯bha¯rata 1.121–28’, International Journal of Hindu Studies X.1
+(2006),pp.1–34.
+Brodbeck,Simon(2009a),TheMaha¯bha¯rataPatriline:Gender,Culture,andtheRoyalHereditary(Farnham,
+2009).
+Brodbeck, Simon (2009b), ‘Janamejaya’s big brother: new light on the Maha¯bha¯rata’s frame story’,
+ReligionsofSouthAsiaII.2(2009),pp.161–176.
+Brodbeck, Simon (2009c), ‘The Bha¯radva¯japattern in the Maha¯bha¯rata’, in Petteri Koskikallio (ed.),
+Parallels and Comparisons: Proceedings of the Fourth Dubrovnik International Conference on the Sanskrit
+EpicsandPura¯n.as(Zagreb,2009),pp.137–179.
+Brodbeck, Simon, ‘Putrika¯ interpretation of the Maha¯bha¯rata’, Sam.sk.rtavimar´sah.: Journal of Rashtriya
+SanskritSansthanVI(2012),pp.143–159.
+Brown, W. Norman, ‘Duty as truth in ancient India’, Proceedings of the American Philosophical Society
+CXVI (1972), pp. 252–268. Reprint in Rosane Rocher (ed.), India and Indology: Selected Articles
+(Delhi,1978),pp.102–119.
+Bu¨hler,Georg(tr.),TheLawsofManu:TranslatedwithExtractsfromSevenCommentaries(Delhi,1979).
+FirstpublishedOxford,1886.
+vanBuitenen,J.A.B.(tr.),TheMaha¯bha¯rata.2.TheBookoftheAssemblyHall;3.TheBookoftheForest
+(Chicago,1975).
+vanBuitenen,J.A.B.(tr.),TheMaha¯bha¯rata.4.TheBookofVira¯.ta;5.TheBookoftheEffort(Chicago,
+1978).
+Burlingame,E.W.,‘Theactoftruth(saccakiriya):aHinduspellanditsemploymentasapsychicmotif
+inHindufiction’,JournaloftheRoyalAsiaticSocietyXLIXn.s.(1917),pp.429–467.
+Chakravarti,Uma,OfMeta-Narrativesand‘Master’Paradigms:SexualityandtheReificationofWomenin
+EarlyIndia(Delhi,2009).
+Chakravarty,Uma,‘Vedicdaughter’,AnnalsoftheBhandarkarOrientalResearchInstituteLXXXI(2000),
+pp.179–189.
+Chapple,ChristopherKey,‘YogaandtheMaha¯bha¯rata:engagedrenouncers’,JournalofVaishnavaStudies
+XIV.2(2006),pp.103–114.
+Chatterjee,Heramba,‘Svayam.vara,theninthformofmarriage’,AdyarLibraryBulletinXXV(1961),
+pp.603–615.
+Dange,SadashivA.,‘Sa¯vitr¯ıandthebanyan’,Pura¯n.aV.2(1963),pp.258–266.
+Doniger,Wendy,withBrianK.Smith(trs),TheLawsofManu(London,1991).
+Dumont, Louis, ‘The debt to ancestors and the category of sapin.d.a’, tr. David Manson, in Charles
+Malamoud(ed.),DebtsandDebtors(Delhi,1983),pp.1–20.
+Ganguli,KisariMohan(tr.),TheMahabharataofKrishna-DwaipayanaVyasa,TranslatedintoEnglishProse
+fromtheOriginalSanskritText(Delhi,1970).FirstpublishedCalcutta,1883–1896).Alsoavailableat
+http://www.sacred-texts.com/hin/maha/index.htm
+Gehrts,Heino,Maha¯bha¯rata:DasGeschehenundseineBedeutung(Bonn,1975).
+Hiltebeitel,Alf,‘TheMaha¯bha¯rataandHindueschatology’,HistoryofReligionsXII.2(1972),pp.95–
+135.
+Hiltebeitel, Alf, The Ritual of Battle: Krishna in the Maha¯bha¯rata (Ithaca, 1976). Reprint (New York,
+1990).
+Hiltebeitel,Alf,‘Draupad¯ı’sgarments’,Indo-IranianJournalXXII.2(1980),pp.97–112.
+Hiltebeitel, Alf, ‘Two Kr.s.n.as, three Kr.s.n.as, four Kr.s.n.as, more Kr.s.n.as: dark interactions in the
+Maha¯bha¯rata’,inArvindSharma(ed.),EssaysontheMaha¯bha¯rata(Leiden,1991),pp.101–109.
+Hiltebeitel,Alf,‘Notwithoutsubtales:tellinglawsandtruthsintheSanskritepics’,JournalofIndian
+PhilosophyXXXIII.42005,pp.455–511.
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+548 SimonBrodbeck
+Hiltebeitel,Alf,‘Epica´svamedhas’,inVishwaAdluriandJoydeepBagchee(eds),ReadingtheFifthVeda:
+StudiesontheMaha¯bha¯rata.EssaysbyAlfHiltebeitel,Volume1(Leiden,2011),pp.259–278.
+Hudson,EmilyT.,‘Listenbutdonotgrieve:grief,paternity,andtimeinthelamentsofDhr.tara¯s.t.ra’,
+inSimonBrodbeckandBrianBlack(eds),GenderandNarrativeintheMaha¯bha¯rata(London,2007),
+pp.35–52.
+Jamison,StephanieW.,SacrificedWife/Sacrificer’sWife:Women,Ritual,andHospitalityinAncientIndia
+(NewYork,1996).
+Jha,Ganganath(ed.),Manu-sm.rtiwiththe‘Manubha¯.sya’ofMedha¯tithi(Delhi,1992).
+Johnson,W.J.(tr.),Maha¯bha¯rataBookThree:theForest,VolumeFour(NewYork,2005).
+Kane, Pandurang Vaman, History of Dharma´sa¯stra: Ancient and Mediæval Religious and Civil Law, 2nd
+edn(Poona,1968–1977).
+Katz,Ruth,‘TheSauptikaepisodeinthestructureoftheMaha¯bha¯rata’,inArvindSharma(ed.),Essays
+ontheMaha¯bha¯rata(Leiden,1991),pp.130–149.
+Leslie, Julia, The Perfect Wife: the Orthodox Hindu Woman According to the Str¯ıdharmapaddhati of
+Tryambakayajvan(Delhi,1989).
+Lommel, Herman, ‘Die aufopferungsvolle Gattin im alten Indien’, Paideuma VI (1955–1958),
+pp.95–109.ReprintinKlausL.Janert(ed.),KleineSchriften(Wiesbaden,1978),pp.374–388.English
+summaryavailableathttp://www.indologie.uni-goettingen.de/cgi-bin/read/bin/webconnector.pl
+Majmudar,M.R.,‘ArarepanelofSa¯vitr¯ı-Upa¯khya¯na’,Bha¯rat¯ıyaVidya¯XVI.2(1956),pp.73–78.
+McGrath,Kevin,Str¯ı:WomeninEpicMaha¯bha¯rata(BostonandWashington,DC,2009).
+Meisig,Konrad,‘Sa¯vitr¯ıor:Whymanissuperiortothegods.Ontheinterpretationofalegendfrom
+theMaha¯bha¯rata’,Mitteilungenfu¨rAnthropologieundReligionsgeschichteVIII(1994),pp.65–81.
+Meyer,JohannJakob,SexualLifeinAncientIndia:aStudyintheComparativeHistoryofIndianCulture
+(London,1930).FirstpublishedasDasWeibimaltindischenEpos(Leipzig,1915).
+Olivelle,Patrick(ed.,tr.),Dharmasu¯tras:theLawCodesofA¯pastamba,Gautama,Baudha¯yana,andVasi.s.tha
+(Delhi,2000).
+Olivelle,Patrick(ed.,tr.),withtheeditorialassistanceofSumanOlivelle,Manu’sCodeofLaw:aCritical
+EditionandTranslationoftheMa¯nava-Dharma´sa¯stra(Delhi,2006).
+Parpola, Asko, ‘Sa¯vitr¯ı and resurrection: the ideal of devoted wife, her forehead mark, sat¯ı, and
+humansacrificeinepic-Pura¯n.ic,Vedic,Harappan-DravidianandNearEasternperspectives’,Studia
+OrientaliaLXXXIV(1998),pp.167–312.
+Parpola, Asko, ‘The religious background of the Sa¯vitr¯ı legend’, in Ryutaro Tsuchida and Albrecht
+Wezler (eds), Hara¯nandalahar¯ı: Volume in Honour of Professor Minoru Hara on his Seventieth Birthday
+(Reinbek,2000),pp.193–216.
+Patil,NarendranathB.,TheFolkloreintheMaha¯bha¯rata(Delhi,1983).
+Pollock,Sheldon,‘Ra¯ma’smadness’,WienerZeitschriftfu¨rdieKundeSu¨dasiensXXIX(1985),pp.43–56.
+Pollock, Sheldon (tr.), The Ra¯ma¯yan.a of Va¯lm¯ıki: an Epic of Ancient India. Volume II: Ayodhya¯ka¯n.d.a
+(Princeton,1986).
+Ray,AnitaC.,AnAnalysisoftheSa¯vitr¯ıLegendinAncientIndianLiteratureandCulture,PhDthesis(La
+TrobeUniversity,Melbourne,1998).
+Ray, Anita C., ‘Sa¯vitr¯ı and narrative representations of the feminine’, revised version of a paper
+presentedatthe13thWorldSanskritConference(Edinburgh,July2006).Manuscriptsuppliedby
+theauthor.
+Rocher,Ludo,‘Inheritanceand´sra¯ddha:theprincipleof“spiritualbenefit”’,inA.W.vandenHoek,
+D.H.A.KolffandM.S.Oort(eds),Ritual,StateandHistoryinSouthAsia:EssaysinHonourofJ.C.
+Heesterman(Leiden,1992),pp.637–649.
+Schmidt,Hanns-Peter,SomeWomen’sRitesandRightsintheVeda(Poona,1987).
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424
+TheStoryofSa¯vitr¯ıintheMaha¯bha¯rata 549
+Smith,JohnD.(tr.),TheMaha¯bha¯rata:anAbridgedTranslation(London,2009).
+So¨hnen-Thieme,Renate,‘Ontheconceptandfunctionofsatya(“truth”)inancientIndianliterature’,
+in Cezary Galewicz et al. (eds), International Conference on Sanskrit and Related Studies: Proceedings
+(CracowIndologicalStudies1)(Cracow,1995),pp.235–244.
+Sukthankar,VishnuSitaram(ed.),TheA¯ran.yakaparvan,beingtheThirdBookoftheMaha¯bha¯rata,theGreat
+EpicofIndia,fortheFirstTimeCriticallyEdited(Poona,1942).Largelyalsoavailableathttp://bombay.
+indology.info/mahabharata/statement.html
+Thompson,George,‘Ontruth-actsinVedic’,Indo-IranianJournalXLI.2(1998),pp.125–153.
+Trend,J.B.,‘Savitri,anoperafromtheSanskrit’,MusicandLettersII.4(1921),pp.345–350.
+Weiss, Brad, ‘Meditations on the myth of Sa¯vitr¯ı’, Journal of the American Academy of Religion LIII.2
+(1985),pp.259–270.brodbecksp@cardiff.ac.uk
+SimonBrodbeck
+UniversityofCardiff
+Downloaded from http:/www.cambridge.org/core. Washington University St. Louis, on 19 Dec 2016 at 01:37:54, subject to the Cambridge Core terms of use, available at
+http:/www.cambridge.org/core/terms. http://dx.doi.org/10.1017/S1356186313000424

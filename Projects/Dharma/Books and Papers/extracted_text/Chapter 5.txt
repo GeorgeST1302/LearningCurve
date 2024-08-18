@@ -1,0 +1,375 @@
+InternationalJournalofHinduStudies
+DOI10.1007/s11407-016-9200-y
+REVIEW ARTICLE
+Ethics and Hermeneutics in the Mahābhārata
+Vishwa Adluri
+©SpringerScience+BusinessMediaDordrecht2017
+EmilyT.Hudson,DisorientingDharma:EthicsandtheAestheticsofSufferingin
+the Mahābhārata. New York: Oxford University Press, 2013.
+In Disorienting Dharma, Emily T. Hudson reads the Mahābhārata from the
+perspective of its “aesthetics of suffering.” By this she means “the ways in which
+the epic’s literary devices, or narrative strategies, use the theme of suffering to
+impact its audiences in ethically significant ways” (6). According to Hudson, the
+Mahābhārata“operatesasaliterarytext…morethroughwhatit‘does’thanthrough
+what it says, that is by ‘doing’ something to its audience” (5). The specific action
+undertakenbythetextisthatit“bringsitsaudiencestothebrinkofmeaninglessness
+andthen,insteadofrecedingfromit,ittoys withpushingthem overthe precipice”
+(26). This, Hudson contends, is where the “real work” (60, 96) of the epic is done,
+because,throughthisexperience,wecometorealizethat“afundamentalfeatureof
+human life is suffering on a monumental scale and nothing, not even dharma, can
+protect us from this fact” (220, see also 222).
+Hudson argues that, by forcing us to confront the “truth of universal suffering”
+(72, see also 31, 34, 39, 44, 45, 68, 69, 108, 178, 179, 196, 219, 221) and the fact
+thatwe,ashumans,“haveadesperateneedtorationalizesuffering(inordertoavoid
+confronting it)” (216), the Mahābhārata’s “aesthetics of suffering” helps us see
+throughtheunsatisfactorynatureofeverytheodicy.Weseethat“sufferingexists…
+andthatisit.Sufferingisnotaphenomenonthatcanbeunderstood,orjustified,or
+rationalized away; it simply exists” (215). Further, we see that concepts like
+dharma,farfromhelpinguscopewithsorrow,areactuallyresponsibleformuchof
+our suffering in that: (i) “the path of dharma” itself turns out to be implicated in
+& VishwaAdluri
+vadluri@hunter.cuny.edu
+DepartmentofPhilosophy,HunterCollege,NewYork,NY,USA
+123
+V.Adluri
+“sufferingandsorrow”(7);(ii)byholdingouttheprospectofamoralorderorofa
+justification,dharma“blind[s]ustothepervasiveexistenceofsuffering”(103);and
+(iii) as a consequence, dharma actually causes us to suffer more, for “the person
+whoseeksthiskindofarationaleforsufferingisthepersonwhorefusestofacethe
+harshrealityoflife,thatsufferingexistssimplyandtotally…”(215).Thisraisesan
+all-important question: “If the path of dharma not only does not protect one from
+misfortuneandsorrow,but,onthecontrary,potentiallyisimplicatedintheproblem
+of suffering, is the dharmic path even a noble or worthy pursuit?” (103).
+This is the central question of Hudson’s book, and she tries to answer it by
+showing how characters who pursue dharma in the epic are inevitably frustrated.
+Herconclusionisexpectablypessimistic:conceptssuchasdharma“donotprovide
+uswith theconceptual clarity andsecurity thatwelong for”(103).Although many
+characters in the epic operate under the “illusion…that dharma will protect them
+from suffering[,] [t]he reality in the world of the text is that nothing protects one
+from suffering” (32, see also 33, 220, and 222). Indeed, “the notion of dharma
+performedfor thesake ofsomething, particularlyforthe sakeofacquiring meritto
+safeguard one from misfortune—either in this life or beyond” turns out to be “a
+fundamentally flawed conception of dharma” (219). Thus, if we wish in the future
+“torecoveradeeper,truerunderstandingofdharma,”wemustbe“reorientedtoan
+understanding of it that would be divested of all pretenses of security” (103–4).
+“One would,” Hudson concludes, “according to the logic of this understanding of
+the concept, follow dharma for the sake of nothing” (104, see also 32).
+This is a radical thesis and Hudson’s approach of reading the Mahābhārata
+through the lens of its performative aspect is an interesting idea. In practice,
+however, both the thesis and the approach are seriously flawed. The Mahābhārata
+explicitlycallsitselfadharmatext(1.1.19c,47a,1.56.16a,21a,33a),committedto
+upholding and explaining the normative dharma. It does not share Hudson’s
+skepticism regarding the possibility of dharma; indeed, it could be asked whether
+such a rejection is at all possible within Indian thought. As “the cosmically or
+‘religiously’determinedactivityofallexistingbeingstomaintainthenormalorder
+of the world,” dharma simply refers, maximally, to the innate propensity of all
+beings to act in accordance with their natures (Van Buitenen 1957: 36). “It is the
+dharmaofthesuntoshine,ofthepoletobefixed,oftheriverstoflow,ofthecowto
+yieldmilk,ofthebrahmintoofficiate,ofthekṣatriyatorule,ofthevaiśyatofarm”
+(VanBuitenen1957:36).Asanāstikatext,theMahābhārataexplicitlylocatesitself
+within this long tradition of Indian thought (see 1.1.19a, 191a, 204). It regards
+dharma in this sense as the cosmic background, the sine qua non of its specific
+inquiry into the obligations and duties of the various varṇas, especially as the
+dharma declines in the Kali Yuga (1.58.3–34). Next to the Manusmṛti (which it
+frequentlyinvokes),1thereisnootherworkascentralfortheformulationofdharma
+in the Indian tradition.
+1 SeeKane’s(1930:159)listingofthesectionswhereDharmas´a¯strictopicsoccurintheMahābhārata.
+Hudsonliststhisworkinherbibliographybutdoesnotseemtohavemadeuseofit.SeealsoOlivelle’s
+IntroductioninhisManu’sCodeofLaw(2005)ontherelationshipoftheMānavaDharmaśāstratothe
+Mahābhārata.
+123
+EthicsandHermeneuticsintheMahābhārata
+Hudson also misunderstands the way dharma operates in the epic. Although she
+repeatedly asserts that it fails to provide a satisfactory solution to the problem of
+human suffering, she does not clarify which sense of dharma she means. The
+Mahābhārata distinguishes between pravṛtti dharma, the dharma of activity, and
+nivṛtti dharma, the dharma of renunciation (12.322.3a and 12.327.2–4).2 At the
+level of pravṛtti dharma, there is no final answer to suffering, though certain
+compensations(forexample,thebirthofachild,thejoyofanencounter,andsoon)
+exist. If all that Hudson means by the statement that dharma “fails” is that pravṛtti
+dharmaisnotafinalsolutiontotheproblemofhumanexistence,sheisquiteright.
+Butthisismerelystatingtheobvious.TheMahābhārataisawareofthefinitenature
+of pravṛtti dharma. It repeatedly emphasizes the temporary nature of worldly
+success, using the dicing game as a metaphor for this in the text.3 Repeated
+statements about the impermanence of wealth, power, or fortune—many of them
+scatteredthroughthepostdicingĀraṇyakaparvan(see,forexample,S´aunaka’sbrief
+sermon;3.2.15–48)—reinforce themessage.Theepicusesthisfinitude asawayto
+open up the nivṛtti axis. Here, there really is an answer to the problem of human
+suffering, but it is an answer that requires going beyond the kind of “aesthetic”
+lamentation Hudson’s book emphasizes.
+Surprisingly for a work that claims to embody a “hermeneutics of respect” that
+“seekstolistentoratherthandisembowelthetext”(20),Hudson’sbookhacksaway
+atmostofthetext.Sheneveroncementionstheconceptofnivṛttidharma.Shealso
+sets aside all the other essential elements of the Mahābhārata’s soteriological
+response to the problem of pravṛtti: prādurbhūti, bhārāvataraṇa, avataraṇa,
+devarahasya, bhakti, krīḍa,4 yugānta, the devāsura conflict, and the vision of
+Becoming as a raṇa yajña through which are born both jñāna and mokṣa. Having
+snappedthetext’sspinalcordofideas,shethenlamentsthat“thetextdoesnotgrant
+us the solace of divine retribution, or justice, or even an explanation for the
+tremendoussufferingthatmanyofthecharactersendured”(214–15).Moreover,she
+insists that the Mahābhārata is trying to get us to see a “fundamental truth of
+existence: the truth ofuniversalsuffering” (219, see also72) and claims that—asa
+consequence—“academic discussion of ethics in the Mahābhārata should be de-
+centered from the topic of dharma and re-centered on the issue of suffering,
+particularlyontherelationshipbetweensufferinganddharma”(49,seealso35and
+2 Othertermsthatwouldhaverequiredclarificationarevarṇāśramadharma(thedharmaofthevarious
+castesandstagesoflife),ṛṣidharma(thedharmaofrenunciates),strīdharma(thedharmaofwomen),
+rājadharma(thedharmaofkings),andāpaddharma(thedharmaofemergencies).Additionally,thereare
+dharmasspecifictothefamilyandsubcasteorcommunity(kuladharmaandjātidharma).Hudsonisusing
+thetermdharmainanindiscriminatesensethatsimplydoesnotapplyinIndianthought.
+3 SeethestoryofNalaandDamayanti(Mahābhārata3.50–78),recountedtoYudhisthiraintheforestby
+˙˙
+way of consolation; the dice are the work of Kali, driven by the law of entropy to bring loss and
+destructiontotheking.
+4 IcannotagreewithCouture(2001)thattheconceptofplayis,asyet,presentonlyinimplicitformin
+theMahābhārata.ThetermismentionedtwiceintheNārāyaṇīya:Na¯ra¯yanaisthe“UndecayingPurusa,
+thenondoerandthedoer,theactionandalsothecause”who“plays(krīḍate˙ )asHepleases”(akartācai˙
+va
+kartācakāryaṃkāraṇamevaca|yathecchatitathārājankrīḍatepuruṣo’vyayaḥ;12.336.56);“divided
+into four,” he, the Purusa, “plays as he pleases” (caturvibhaktaḥ puruṣaḥ sa krīḍati yathecchati;
+˙
+12.339.20ab;mytranslations).
+123
+V.Adluri
+224). These claims would be credible if Hudson could account for the fact that, in
+the concept of nivṛtti dharma, the epic has a sophisticated response to the problem
+ofhumansuffering.Byignoringkeycomponentsoftheepic’sproject,Hudsonlives
+up neither toher claim to take the Mahābhārata seriouslyas “a work of literature”
+(4)nortoherclaimtohaveshownthatsufferingis“theprimaryaestheticgroundfor
+ethics in the epic” (49, 224). In fact, this claim appears to be true only because
+Hudson considers suffering only from an “aesthetic” (that is, disinterested)
+perspective:consequently,itnowappearsasthoughtheepic’sonlyanswerconsists
+in its “stark revelation of the structure of the world” (49).5
+Even at the level of pravṛtti dharma, Hudson’s analysis is problematic. She sets
+aside the theme of adharma (unrighteousness, injustice, irreligion, wickedness),
+eventhough,withinpravṛtti,itisimpossibletoformulatedharmawithoutseeingit
+in its relationship to adharma. As V. S. Sukthankar notes, what gives the
+Maha¯bha¯rataWarits“realdepthandsignificanceistheprojectionofthestoryonto
+a cosmic background, by its own interpretation of the Bha¯rata War as a mere
+incident in the ever recurring struggle between the Devas and the Asuras; in other
+words,asamerephaseincosmicevolution”(1957:62).Thiscosmicbackgroundis
+akeyelementintheepic’sexplorationofthedynamicsofdharma.Notonlydoesit
+permit the epic to explain the reality of adharma (as the result of egotism and the
+shortsightedseeking ofone’sadvantage),butitalsopermits ittoillustratethefinal
+triumph of dharma (with the destruction of the asurasand the reestablishment ofa
+justorder).Hudson,however,viaareferencetoSimonBrodbeck’swork,6removes
+thisontologicaldimensionfromthetext.7Sheattributesalltheproblemsinthetext
+5 HudsonisprobablycorrecttonotethatthereisaperformativeaspecttotheMahābhārata,but,contrary
+toherclaimthatthereisacontrastbetweentheepic’scontentanditsform,thetextisfullyconsciousof
+thisaspect.Hudsonclaims,“onewayinwhichthenarrativestrategiesintheMahābhāratafunctionisto
+createadistancebetweentheimage(orcontent)andthetelling(orform),andtheemotionalexperience
+comesfromthedisjuncturebetweenthetwo”(29,seealso60,72,and207).Inherview,thisdisjunction
+betweenformandcontentgivesthereader“accesstolevelsofmeaningthatliefarbeyonditsexplicit
+content”(220),butthisistopresumethatthetext’sdoctrinesareinsomewaytheproductsofafalse
+consciousness—something she has not shown. The Mahābhārata fashions its performative aspect to
+reflectitsstatedcontents.YudhisthirastatesinanexchangewiththegodDharmathatthemind“doesnot
+grievewhentamed”(manoyam˙ y˙ anaśocantisadbhiḥsaṃdhirnajīryate;Mahābhārata3.297.55;Van
+Buitenen’s translation). This statement vitiates Hudson’s thesis because it shows: (1) that there is no
+contrastbetweenthetext’scontentandform,asinequanonofher“aesthetic”approachtotheepicof
+setting aside its doctrines; and (2) that she is carrying out even this “aesthetic” approach from the
+truncated perspective of someone who has not gained control of his mind. Had Hudson read beyond
+Dhrtara¯stra,shewouldhaveseenthat,ratherthanidentifywithanyonecharacter,thereaderissupposed
+˙ ˙˙
+todevelopasynopticvisionofthetext,realizeitsmessage,andfinallyattainhappiness.AsNabokovputs
+it:“Thegood,theadmirablereaderidentifieshimselfnotwiththeboyorthegirlinthebook,butwiththe
+mindthatconceivedandcomposedthatbook”(1981:11).
+6 “AsSimonBrodbecknotes(andIagreewithhim),thiscosmicexplanationforthewarisusedsparingly
+inthetextandremains‘firmlyinthebackground’”(139n132,citingBrodbeck2009:50,52).
+7 The ontological dimensions of the text are those aspects that are crucial for a clarification of what
+“Being”means,specificallyintheformofmostimmediateconcerntousashumans:whatitmeanstobe
+asbeingsintime.
+123
+EthicsandHermeneuticsintheMahābhārata
+to dharma’s failure to function as a theodicy, not realizing that within pravṛtti,
+dharmaexistsinanessentialtensionwithadharma.Thus,attheādhibhautikalevel,
+therewillalwaysbeaviolationofdharma;attheādhidaivikalevel,aprotectionof
+dharma;butitisonlyattheādhyātmikalevelthattherecanbeafullvindicationof
+dharma through achieving emancipation.8
+The epic is aware of these aspects. It sets up the conflict over dharma
+(dharmayuddha; 7.164.1c, 10.9.23a) in order to clarify, within the context of a
+confusion over the meaning of dharma (dharmasaṃmūḍha; 6.24.7a), the utmost
+importanceofholdingontodharma.Further,throughanapocalypticwar,itclarifies
+that the unjust are destroyed and that the just triumph even on a temporal plane.
+Indeed,thereisnoprincipletheepiccouldbesaidtobemorecommittedtothanthe
+idea that where there is dharma, there is victory.9 Hudson, however, sets aside
+adharma as the counterconcept to dharma and generates a perverse thesis. Rather
+than seeing that suffering is the result of a violation of dharma, she attributes the
+presenceofsufferingtodharmaitself.IntheMahābhārata,Draupad¯ı’sdishonoring
+in the Kuru assembly hall is the paradigmatic example of how individuals, drunk
+with lust or power, perpetrate injustice. Yet, rather than condemn the Kauravas for
+theircruelty,Hudsonscapegoatsdharmainstead.Thus,shedeclaresthatDraupad¯ı’s
+“virtue fail[s] her; dharma fails her” (99). Hudson has not understood the basic
+distinctionbetweendharmaandadharma.Shedoesnotseethatdharmaprotectsby
+saving the soul’s virtue and not by making one immune to aggression.10 She also
+does not understand that there is such a thing as innocent suffering, caused by the
+injusticeofothersorthatthosewhoperpetrateadharmaareultimatelypunishedfor
+their transgression. In issuing a blanket condemnation of the principle of dharma
+itself,shecreatesafalsedichotomy(‘eitherthereshouldbenoadharmawhatsoever
+in the world, or dharma has failed’). Dharma exists in a constant struggle with
+adharma,but, even underpain ofdeath,oneoughtnotabandonthe right path.11In
+contrasttotheepic’sprojectofusingtheconflictbetweendharmaandadharmaasa
+way to demonstrate the basically moral character of the universe (evil does not go
+unpunished;dharmafunctionsasaprincipleofretribution[seeBhagavadgītā4.7–8;
+8 AlthoughmostfrequentlyassociatedwiththeSāṃkhyakārikaof¯Is´varaKrsna,thetermsādhibhautika,
+ādhidaivika, and ādhyātma are not foreign to the epic. There is a wel˙ l˙ -d˙ eveloped doctrine of the
+distinctionsbetweenthe“elemental,”“divine,”and“individual”levels(VanBuitenen’stranslations)in
+theBhagavadgītā(see7.30,8.1–4);inthechapterknowninsomemanuscriptsastheĀdhyātmādhibhū-
+tikaṃ or the Ādhyātmādhibhautikaṃ (Mahābhārata 12.301.1–13, see also 12.300.17) of the Yājña-
+valkyajanakasaṃvāda (12.298–306); in the encomimum of the Purusa in the Dānadharmaparvan
+(13.16.18);andintheGuruśiṣyasaṃvādasectionoftheAnugītā(14.42.2˙
+7–40).
+9 See Mahābhārata 5.39.7c, 5.141.33c, 5.146.16c, 6.20.14c, 6.21.11c, 6.61.16c, 6.62.34c, 6.117.33c,
+7.158.62a, 9.62.58c, 11.13.9c, 11.17.6c, 13.153.9c; see also 1.197.25c, 5.66.9c, 6.21.12c, 6.21.14c,
+6.41.55a, 9.61.30c (“where there is Krsna, there is victory”—highlighting the role of the avatāra in
+ensuringdharma’striumph). ˙˙˙
+10 SeeMahābhārata3.298.8a:nonviolence,equanimity,tranquility,austerity,purity,andunenviousness
+(ahiṃsāsamatāśāntistapaḥśaucamamatsaraḥ)arethedoorstoDharma;thegodDharmahimselfstates
+“Nomishapbefallsthosemenwhoaredevotedtome!”(yehimepuruṣābhaktānateṣāmastidurgatiḥ;
+3.298.11c;VanBuitenen’stranslation).
+11 SeeMahābhārata1.143.2:“PreservetheLaw,Pa¯ndava,beforeyoupreserveyourlife”(śarīra-guptyā-
+bhya-dhi-kaṃdharmaṃgopayapāṇḍava;VanBuite˙ n˙
+en’stranslation).
+123
+V.Adluri
+see also Mahābhārata 3.187.26]), she uses the dharmasaṃśaya (uncertainty or
+doubt about dharma) to undermine the very notion of dharma. Adopting the blind
+Dhrtara¯stra, the king who enables much of the adharma in the epic as her
+˙ ˙˙
+spokesperson,12 she argues for a similar moral relativism.13 Like the king, she
+invokestheuniversalityofsufferingasawaytofrustratetheepic’smoralargument.
+Her argument, which sets aside the role of personal responsibility in one’s
+misfortunes, is a perfect restatement of the king’s views in the Mahābhārata.14
+Blind and blinded by his lust for power and his attachment to a wicked son,
+Dhrtara¯straisnotatragicfigure,asHudsonclaims(69,106).Rather,heisaVrtra-
+˙ ˙˙ ˙
+like15 figure who uses pretended doubts about dharma as a way to avoid doing the
+right thing.16 As readers of the Mahābhārata, are we really supposed to read the
+epic from the perspective of this king whose very name suggests a lust for the
+kingdom (dhṛtam rāṣṭram yena saḥ), a lust that triumphs over even his professed
+love for his son?
+ManyoftheseproblemscouldhavebeenavoidedhadHudsonreadthetextmore
+attentively.Yet,herviewoftheMahābhārataappearstohavebeenshapedbyonly
+ahandfulofepisodes:Dhrtara¯stra’slamentintheĀdiparvan,thedicingmatchinthe
+˙ ˙˙
+Sabhāparvan, Vidura’s discourse in the Udyogaparvan, Samjaya’s narration of the
+˙
+battleanditsaftermathintheBhīṣmaparvan andtheStrīparvan,andthe Pa¯ndavas’
+final journey in the Svargārohaṇaparvan. Utterly crucial dharma tracts such˙˙ as the
+Bhagavadgītā, the Mārkaṇḍeyasamāsyāparvan, the Śāntiparvan (including the
+MokṣadharmaparvanandespeciallytheNārāyaṇīya),andtheAnuśāsanaparvanare
+12 Contrary to Hudson, Dhrtara¯stra does not merely suffer from commonplace human failings:
+˙ ˙˙
+indecisiveness,incontinence,andexcessiveloveandpartialitytowardshisownsons.Asaking,hefailsto
+counter adharma and so fails in his own duty, or svadharma, as well, which is to protect the people
+throughwieldingthedaṇḍa,orstaff(see1.11.15c).Thisiswhy,mediatedviaSamjaya,hebecomesthe
+proximaterecipientofKrsna’ssermonintheBhagavadgītā:liketheeffectofadhar˙
+ma,thedestructionof
+˙˙˙
+theDha¯rtara¯stras,whichisnarratedtohimbySamjayainthewarbooks,the“ultimates”ofdharmaand
+adharmaare˙ a˙ lsonarratedtohimbySamjayainth˙ eGītā.OntherelationofrelationshipofDhrtara¯stra’s
+lamentintheĀdiparvantotheBhagava˙ dgītā,seeAdluri(2011). ˙ ˙˙
+13 Dhrtara¯stra’spostdicingmatchrationalizationsare“specificinsightsintotheforcesthatimpelhuman
+˙ ˙˙
+beingstocommitactsofcrueltyandthusproducesuffering”;itwas“mentalconfusionwhich…caused
+them[thatis,Dhrtara¯straandDuryodhana]tosee‘thewrongcourse’as‘therightone’”;“neitherofthe
+˙ ˙˙
+two…sawtheiractionsascruel;insteadtheysawthemassomehowproper”;theyarenotjust“agentsof
+suffering,”but“victimsofdespair”aswell(89).
+14 TheepicwouldnotacceptHudson’srationalizationsforDhrtara¯stra’sactionsanymorethanitaccepts
+˙ ˙˙
+his. It is explicit about the principle that when the law is hurt, it hurts back (dharmo hi hato hanti;
+1.37.22c) and, similarly, that those who protect the law are protected by it (dharmo rakṣati rakṣitaḥ;
+3.31.7b;compareManusmṛti8.15:dharmoevahatohantidharmorakṣatirakṣitaḥ).Hudson’sargument
+overlooksthekeyelementofpersonalresponsibility,sobrilliantlyreinstatedbyArendt(2003)afterthe
+Holocaust.
+15 Vrtra, meaning “Obstructor” (see Macdonnell 2002: 58, 159) and sometimes associated with the
+˙
+serpentAhi(58,152–53)isbestknownintheṚgVedafordamminguptheprimevalwatersinhiscoils;
+Indrahastostrikehimwithhisthunderbolttoreleasethewaters(58–59forcitations).Dhrtara¯straisalso
+thenameofasnakeintheMahābhārata(see1.31.13c):thetextisawareofthesereson˙ ance˙ s˙
+.
+16 Dhrtara¯stra—notDuryodhana—istherecipientofmostofthedharmasermonsintheUdyogaparvan.
+˙ ˙˙
+Butinsteadofheedinghisadvisors’warnings,thekingexploitsthecomplexityofdharmatogenerate
+aporias. He repeatedly leads the dharma discourse astray (see 5.39.1, 5.39.7, and 5.40.28–30 for
+examples).
+123
+EthicsandHermeneuticsintheMahābhārata
+conspicuous by their absence. The Ādiparvan, the first book of the Mahābhārata
+and the book that contains essential hermeneutic instructions on reading the
+Mahābhārata (see Adluri 2011, 2013), such as the motif of the descent of the
+dharma-minded S´esa to uphold the earth (dhārayat, 1.32.21c; the word is
+˙
+etymologically related to dharma through the root dḥr) and of the cursing of
+Dharma to be born from a S´u¯dra’s womb (1.57.77–81 and 1.101.1–28), is barely
+mentioned.ThiswouldbeworryinginanintroductiontotheMahābhārata;inatext
+that claims to be “one of the first book-length studies to view the subject [that is,
+dharma in the Mahābhārata and its relation to “South Asian religious, social, and
+political thought”] through the lens of Indian aesthetics” (back cover),17 it is an
+unforgivable omission.
+ThesecriticismsofDisorientingDharmashouldnotdetractfromthestrengthsof
+Hudson’swork.ShewiselyavoidsthepitfallofseekingtheA¯ryan“Ur-epic,”which
+led nearly two generations of scholars astray (see Adluri and Bagchee 2014,
+especially chapters 1–2). Hudson rightly eschews discussion of the work of an
+earlier generation of German scholars on the epic, above all, their theories of “oral
+transmission,” which gave them license to neglect the text as it exists for a fantasy
+epic of their own devising.18 Likewise, she places no trust in their fabricated
+histories of the text (for example, its “heroic” origins, its “corruption” by the
+Bra¯hmanas,thefusionof“epic”with“didactic”elements,andsoon).Infact,where
+˙
+I found problems with her work they were primarily due to her recurrence to
+nineteenth-century attitudes to Indian texts: reading them selectively, reading them
+withouttheguidanceofanauthoritativetradition,andreadingtheminordertofind
+meanings at variance with the received interpretation.19
+References
+Adluri, Vishwa. 2011. “Frame Narratives and Forked Beginnings: Or, How to Read the Ādiparvan.”
+JournalofVaishnavaStudies19,2:143–210.
+17 SpacedoesnotpermitanengagementwithHudson’sreadingofA¯nandavardhanahere,butthereare
+severalproblemswiththispartofheranalysis.A¯nandawouldnotcountenancethesuggestionthat“thereare
+significantareasofoverlapbetween[his]…specificreadingoftheMahābhārata—hiscontentionthatit
+contains a single predominant rasa, śāntarasa” and “the aesthetics of suffering” (61), because, as a
+philosopherandcritic,heisconcernedwiththeproblemoftheMahābhārata’sunityandheiswellawarethat
+therasaofkaruṇaorbhayānakawouldneversufficetoaccountfortheepic’sliteraryunity.Further,he
+wouldnotcountenancetheassertionthat“bothreadingslocatethecentralaestheticexperienceofthetextin
+theepic’spreoccupationwithdeath,destruction,andruin”(61),becauseforhim,thecentralaesthetic
+experienceofthetextisexplicitlyinthecreationof“thebliss(whicharises)intheheartsofsensitivereaders
+on their noticing it in (the poems that form) the object of their attention” and his central aim in his
+Dhvanyālokacommentaryisto“reveal”thisdhvani“sothat…[it]maytakefirmholdintheir[thatis,the
+readers’]hearts”(1.1e;Ingalls,Masson,andPatwardhan1990:68).Therecouldnotbeareadingmore
+opposedtoHudson’sthanA¯nanda’s.
+18 Foradiscussionofthedifficultiestheoriesof“oraltransmission”encounter(aboveall,circularityand
+theabsenceofobjectivecriteria),seeAdluriandBagchee(2016).
+19 AlongerversionofthisreviewisscheduledtoappearintheInternationalJournalofDharmaStudies,
+withaninvitedresponsebyEmilyT.Hudson.
+123
+V.Adluri
+Adluri,Vishwa.2013.“HermeneuticsandNarrativeArchitectureintheMahābhārata.”InVishwaAdluri,
+ed.,WaysandReasonsforThinkingAbouttheMahābhārataasaWhole,1–27.Pune:Bhandarkar
+OrientalResearchInstitute.
+Adluri,VishwaandJoydeepBagchee.2014.TheNayScience:AHistoryofGermanIndology.NewYork:
+OxfordUniversityPress.
+Adluri,VishwaandJoydeepBagchee.2016.PhilologyandCriticism:AGuidetoMahābhārataTextual
+Criticism.London:Anthem.
+Arendt,Hannah.2003.“PersonalResponsibilityUnderDictatorship.”InHannahArendt,Responsibility
+andJudgment(ed.JeromeKohn),17–48.NewYork:SchockenBooks.
+Brodbeck,Simon.2009.“HusbandsofEarth:Ksatriyas,Females,andFemaleKsatriyasintheStrīparvan
+oftheMahābhārata.”InRobertP.Goldma˙ nandMuneoTokunaga,eds.,Ep˙
+icUndertakings,33–63.
+Delhi:MotilalBanarsidass.
+Couture,Andre´.2001.“FromVisnu’sDeedstoVisnu’sPlay,orObservationsontheWordAvata¯raasa
+˙˙ ˙˙
+DesignationfortheManifestationsofVisnu.”JournalofIndianPhilosophy29,3:313–26.
+Ingalls,DanielH.H.,JeffreyMoussaieffMass˙ o˙ n,andM.V.Patwardhan,trans.1990.TheDhvanyāloka
+of Ānandavardhana, with the Locana of Abhinavagupta (ed. Daniel H. H. Ingalls). Cambridge:
+HarvardUniversityPress.
+Kane,PandurangVaman.1930.HistoryofDharmaśāstra:AncientandMedievalReligiousandCivilLaw.
+Volume1.Poona:BhandarkarOrientalResearchInstitute.
+Macdonnell,A.A.2002[1897].VedicMythology.Delhi:MotilalBanarsidass.
+Nabokov,Vladimir.1981.LecturesonRussianLiterature.NewYork:HarcourtBrace.
+Olivelle,Patrick.2005.“Introduction.”InPatrickOlivelle,trans.,Manu’sCodeofLaw:ACriticalEdition
+andTranslationoftheMānava-Dharmaśāstra,3–70.NewYork:OxfordUniversityPress.
+Sukthankar,V.S.1957.OntheMeaningoftheMahābhārata.Bombay:AsiaticSociety.
+vanBuitenen,J.A.B.1957.“DharmaandMoksa.”PhilosophyEastandWest7,1–2:33–40.
+van Buitenen, J. A. B., trans. and ed. 1973–78. The Mahābhārata. 3 volumes. Chicago: Chicago
+UniversityPress.
+123

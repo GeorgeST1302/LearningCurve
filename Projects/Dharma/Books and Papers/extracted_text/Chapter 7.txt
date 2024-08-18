@@ -1,0 +1,609 @@
+Praxis, Vol. 3, No. 1, Spring 2011 ISSN 1756-1019
+Maximizing Dharma: Krsna’s Consequentialism in the
+Mahabharata
+JOSEPH DOWD
+UNIVERSITY OF CALIFORNIA-IRVINE
+Abstract
+The Mahabharata, an Indian epic poem, describes a legendary war between
+two sides of a royal family. The epic’s plot involves numerous moral
+dilemmas that have intrigued and perplexed scholars of Indian literature.
+Many of these dilemmas revolve around a character named Krsna. Krsna
+is a divine incarnation and a self-proclaimed upholder of dharma, a system
+of social and religious duties central to Hindu ethics. Yet, during the war,
+Krsna repeatedly encourages his allies to use tactics that violate dharma. In
+this paper, I try to make sense of Krsna’s actions by analyzing them in terms
+of categories from Western moral philosophy. I show that Krsna seems to
+embrace an ethical approach called consequentialism, but that his version
+of consequentialism differs from Western theories of consequentialism by
+seeing adherence to dharma as an intrinsic good.
+Note: In citing passages from the Bhagavad-Gita in this paper, I cite Zaehner’s 1969
+translation. In citing passages from the rest of the Mahabharata, I cite two volumes
+(1973, 1975) of Buitenen’s translation, except where otherwise indicated. Where available
+volumes of Buitenen’s translation do not include sections of the Mahabharata that I want
+to cite, I use Ganguli’s 1883-1896 translation.
+1. Introduction
+This paper’s purpose is to situate moral issues in the Mahabharata, an Indian epic poem, in
+relation to some categories from Western moral philosophy. Some scholars have already
+tried to do this. For example, Agarwal (1992, pp. 129-142) sees in the Mahabharata a
+conflict between utilitarianism and a more Kantian approach to ethics. In the Bhagavad-
+33
+JOSEPH DOWD
+Gita, a famous section of the Mahabharata, two characters named Arjuna and Krsna
+discuss the morality of an impending war. According to Agarwal, Arjuna argues as a
+utilitarian, voicing concern about the consequences of fighting, whereas Krsna tells
+Arjuna to fight because it is his duty. However, this cannot be the whole story regarding
+Krsna’s moral viewpoint. During the war, Krsna repeatedly urges the Pandavas to violate
+dharma, or duty, in order to win. In these cases, he does not seem to think that dharma
+overrides concern about consequences. At the same time, the Mahabharata affirms that
+adherence to dharma is the most valuable of human goals, and that Krsna’s purpose on
+earth is to restore adherence to dharma. In this paper, I argue that Krsna advocates a form
+of consequentialism—but one according to which adherence to dharma is good in itself.
+The Mahabharata revolves around the legendary Bharata war, a war between two sides
+of a royal family. These two sides are commonly called the Pandavas and the Kauravas.1
+The Pandavas and the Kauravas are the sons of the princes Pandu and Dhrtarastra,
+respectively. Dhrtarastra is blind, and his blindness makes him ineligible for the throne.
+After Pandu becomes king, he accidentally wounds a sage. The sage curses Pandu to die
+if he engages in sexual activity. Pandu goes into exile with his wives Kunti and Madri,
+and Dhrtarastra rules despite his blindness. Kunti and Madri bear sons through divine
+intervention. The gods Indra, Vayu, and Dharma father Kunti’s sons, Arjuna, Bhima,
+and Yudhisthira respectively. The Asvins, divine twins, father Madri’s sons, Nakula and
+Sahadeva. Meanwhile, Dhrtarastra fathers the Kauravas, the eldest of whom is named
+Duryodhana. The Kauravas are incarnate demons.
+Duryodhana wants the throne for himself. However, when the Pandavas return from
+exile, Dhrtarastra makes Yudhisthira the crown prince. As one might imagine, this creates
+tension between the Pandavas and the Kauravas. After a failed assassination attempt, a
+failed partition of the kingdom, and a rather extreme gambling match that results in exile
+for the Pandavas, the two sides of the family prepare for war. Friends and relatives must
+take sides in the conflict. Thus, the Pandavas find themselves facing loved ones on the
+battlefield. The Pandavas “win” the war, but at a horrible cost. Only the Pandavas and a few
+others survive. Moreover, the Pandavas find themselves resorting to dishonorable tactics
+in order to win.
+1 Technically, both sides of the family are Kauravas (“descendants of Kuru”), for they share an ancestor
+named Kuru. However, tradition has often reserved the label “Kaurava” for the Pandavas’ cousins, and that
+is how I will use the term in this paper.
+34
+JOSEPH DOWD
+To make matters more disturbing, those tactics are often suggested by Krsna, Arjuna’s
+charioteer, who is an incarnation of the supreme god Visnu and a self-proclaimed
+upholder of dharma. For example, consider Krsna’s treatment of Bhisma, a warrior for the
+Kauravas. Bhisma knows that Sikhandi, a warrior for the Pandavas, was a woman in his
+previous life. Krsna tells the Pandavas to set Sikhandi on Bhisma. Bhisma refuses to fight
+Sikhandi, who deals Bhisma a mortal wound. Another example concerns Karna, another
+warrior for the Kauravas. When Arjuna fights Karna, Karna’s chariot wheel gets stuck.
+Karna asks Arjuna to let him get his chariot unstuck before continuing with the battle.
+But Krsna reminds Arjuna of Karna’s misdeeds and tells him to kill Karna immediately.
+During a mace fight between Bhima and Duryodhana, Krsna tells Bhima to violate the
+warrior code by using a low blow.
+In light of his divine status, Krsna’s apparent disregard for dharma presents a puzzle.
+Remarking on Krsna’s adharmic behavior, Sukthankar calls him “that paradox of
+paradoxes” (1957, p. 12). The actions of this “devious divinity”, as Matilal (1991, pp. 401-
+418) calls Krsna, create numerous ethical—not to mention theological—issues. In this
+paper, I try to make sense of Krsna’s moral viewpoint.2
+2. Intrinsic and extrinsic goods
+Before continuing, I must introduce some terminology. First I will distinguish between
+various kinds of goods. By “goods”, I mean things that are good. Goods are either intrinsic
+or extrinsic. When I say that X is an intrinsic good or is intrinsically good, I mean that
+X is good in itself. When I say that X is an extrinsic good or is extrinsically good, I mean
+that X is good because of its relations to other things. The most obvious examples of
+extrinsic goods are instrumental goods. When I say that X is an instrumental good or
+is instrumentally good, I mean that X is a means to other goods.3 For instance, consider
+money. Money allows one to buy other goods. Thus, money is instrumentally good.
+2 In writing a two-paragraph summary of a sprawling epic, I have not bothered to support every statement
+with burdensome and unnecessary citations. However, a published summary of the Mahabharata, which
+includes most of the details that I mentioned, can be found in Buitenen (1973, pp. xiii-xv).
+3 As Anderson (1993, p. 19-20) points out, not all extrinsic goods are instrumental goods. (Anderson uses
+the term “intrinsic value” where I use the term “intrinsic goodness”, but her point is the same.) Anderson
+uses the following example to illustrate this point. Suppose that a friend gives me an ugly bracelet as a gift.
+For me, the bracelet is only an extrinsic good: I value it only because of its relation my friend. Yet the bracelet
+is surely not a means to achieving other good things. Thus, the bracelet is not an instrumental good.
+35
+JOSEPH DOWD
+Note that a thing can be both an intrinsic good and an extrinsic good. Consider happiness.
+A person regards his happiness as good in itself. Thus, he regards his happiness as an
+intrinsic good. At the same time, if a person is happy, then he is more likely to benefit
+others. Thus, a person may also regard his happiness as a means to the good of others. That
+is, he may also regard his happiness as an instrumental good.
+3. Consequentialism, deontology, and dharma
+I will now discuss two ethical terms that appear frequently throughout this paper—
+consequentialism and deontology.
+Consequentialism is one approach to ethics. For consequentialists, the sole aim of
+morality is to produce good consequences. More specifically, consequentialists think that
+the sole aim of morality is to maximize intrinsic goods.4 Consequentialists disagree about
+what counts as an intrinsic good. According to one kind of consequentialism, hedonistic
+utilitarianism, pleasure is the only intrinsic good. Other consequentialists believe that
+pleasure is not the only intrinsic good. In fact, some consequentialists regard certain
+consequences as good apart from their impact on people’s welfare.5 Besides disagreeing
+about what counts as an intrinsic good, consequentialists disagree about the use of rules.
+According to act-consequentialism, the right action is whatever action maximizes intrinsic
+goods. According to rule-consequentialism, right actions are actions that obey certain rules,
+where the rules have been chosen based on their tendency to maximize intrinsic goods.
+However, despite their disagreements, consequentialists agree that the point of morality is
+to maximize intrinsic goods.
+4 According to the usual definition, consequentialism seeks to maximize goods or good consequences.
+However, given our division of goods into intrinsic and extrinsic goods, and our further division of extrinsic
+goods into instrumental and non-instrumental extrinsic goods, we must specify what kind of goods con-
+sequentialism ultimately seeks to maximize. Purely instrumental goods are good only as a means to other
+goods. Thus, no one, consequentialist or otherwise, is interested in maximizing purely instrumental goods
+for their own sake. It is less obvious to me that no one would seek to maximize non-instrumental extrinsic
+goods for their own sake. Nonetheless, consequentialism is generally understood as a moral system whose
+goal is to maximize intrinsic goods (cf. Anderson, 1993, pp. 30-31: Anderson uses the term “intrinsic value”
+instead of “intrinsic goodness”, but her point is the same), and I define consequentialism accordingly in this
+paper. If consequentialism’s goal were expanded to include the maximization of non-instrumental extrinsic
+goods, my main line of argument in this paper would not be much affected.
+5 For example, Hurka (1993) advocates a form of “maximizing consequentialism” (p. 55) whose account of
+what is good in life “should never be expressed in terms of well-being” (p. 17). For discussion and overview
+see Sinnott-Armstrong 2006.
+36
+JOSEPH DOWD
+In contrast, according to deontological ethics, morality is a matter of adhering to duties.
+For a deontologist, if an action violates a duty, then the action is wrong—even if the
+action produces intrinsic goods. A deontologist need not believe that duties require no
+justification. In fact, some deontologists provide sophisticated justifications for duties. For
+example, Immanuel Kant attempts to derive duties from the very presuppositions that
+agents make when choosing their actions.6 Moreover, some deontologists think that, in
+extreme situations, the need to avoid bad consequences can override duties (Alexander
+and Moore, 2007). However, to qualify as a deontologist, one must hold that an agent has
+moral duties that are not justified in terms of their consequences.
+What does all this have to do with the Mahabharata? In the Mahabharata, the concept
+of dharma figures prominently. Dharma is a “metaphysically based system of laws,
+duties, rites and obligations incumbent upon a Hindu according to his class and stage
+of life” (Dimmitt and Buitenen, 1978, p. 353). The words “order”, “justice”, “morality”,
+“righteousness”, “virtue”, “custom”, and “ritual” each indicate a part of its meaning (Buitenen
+1973, p. xli). Buitenen (1973, p. xli) translates dharma as “Law” in his translation of the
+Mahabharata. Dharma’s negative counterpart is adharma, “non-dharma”, which can be
+roughly defined as violation of dharma. (In this paper, I will use the term “dharmic” as an
+adjective for actions that adhere to dharma and the term “adharmic” as an adjective for
+actions that violate dharma.) We will explore the nature of dharma in more detail later in
+this paper. For now, the following observation suffices. Dharma refers at least partly to a
+person’s “norms of conduct” (Killingley 2003, p. 40), to his duties. Thus, if Krsna advocates
+adherence to dharma irrespective of consequences, then we have reason to classify him as
+a deontologist. If he advocates dharmic behavior only when, or only because, it produces
+6 A full discussion of Kant’s ethical theory would be out of place here. However, I will provide a brief over-
+view of Kant’s attempt to establish moral duties. According to Kant, I presuppose that I am free whenever
+I make a choice. Thus, my practical reason—the reason that I use when making choices—must presuppose
+that my will is free, i.e. not governed by forces outside of it (Kant, 1785, p. 60). If my will is not governed
+by forces outside of it, then my will must be “autonomous”: it must be governed by laws that it imposes on
+itself (Kant, 1785, p. 44). But if my will is governed by laws that it imposes on itself, then my choices must all
+adhere to principles that my will can accept as laws. Or, as Kant puts it, my choices must obey the command
+“Always choose in such a way that in the same volition the maxims of the choice are at the same time present
+as universal law” (Kant, 1785, p. 44). Kant seeks to derive all duties from this “categorical imperative”. (To be
+precise, this is one formulation of the categorical imperative. Kant gives various formulations of the impera-
+tive, e.g. “Act in such a way that you treat humanity, whether in your own person or in the person of another,
+always at the same time as an end and never simply as a means” [Kant, 1785, p. 36]. He claims that these
+formulations are equivalent to each other.)
+37
+JOSEPH DOWD
+good consequences, then we have reason to classify him as a consequentialist.7
+4. Krsna and adharmic behavior
+In the Bhagavad-Gita, Arjuna faces a dilemma. It is the beginning of the Bharata war.
+Looking across the battlefield, Arjuna sees his old friends and relatives in the opposing
+ranks. As he reflects on the oncoming war, he fears that it will produce bad consequences—
+death, destruction, social collapse, and finally hell for all those involved (Zaehner, 1969, p.
+47). However, Arjuna is a warrior, so his dharma includes the duty to fight (Zaehner 1969,
+p. 50). At face value, this looks like a choice between consequentialism and deontology:
+on one hand, Arjuna can try to minimize bad consequences by not fighting; on the other
+hand, he can adhere to his duty and fight, regardless of the consequences. In response
+to Arjuna’s dilemma, Krsna urges Arjuna to fight (Zaehner, 1969, pp. 50, 137) without
+anxiety about the consequences (Zaehner, 1969, p. 51). Thus, as a first guess, we might
+say that Krsna rejects consequentialism and accepts “a sort of Kantian ethics of duty”
+(Agrawal, 1992, p. 137), a deontological ethics.
+However, this first guess does not work. Throughout the war, the Pandavas repeatedly
+pursue victory through adharmic means (Sukthankar, 1957, p. 12). In many cases, Krsna
+is responsible for the Pandavas’ decisions to violate dharma (Matilal, 1991, p. 405).
+Moreover, at the end of the war, voices from heaven confirm that the Pandavas have killed
+Bhisma, Karna, and others by adharmic means (Goldman, 1997, p. 210). Unfazed by the
+heavenly voices, Krsna defends the Pandavas’ adharmic actions in the following words:
+Ye could never have slain them in battle by fighting fairly! King Duryodhana also could
+never be slain in a fair encounter! The same is the case with all those mighty car-warriors
+headed by [Bhisma]! From desire of doing good to you, I repeatedly applied my powers
+of illusion and caused them to be slain by diverse means in battle. If I had not adopted
+such deceitful ways in battle, victory would never have been yours […] You should
+not take it to heart that this foe of yours hath been slain deceitfully. When the number
+of one’s foes becomes great, then destruction should be effected by contrivances and
+means. The gods themselves, in slaying the [demons], have trod the same way. That way,
+therefore, that hath been trod by the gods, may be trod by all. (Ganguli, 1883-1896b)
+7 As an aside, I should note here that, in addition to consequentialism and deontology, there is another ma-
+jor approach to ethics in contemporary philosophy—virtue ethics. The term “virtue ethics” covers a variety
+of different ethical theories that focus on the cultivation of positive character traits or virtues (Hursthouse,
+2007). I ignore virtue ethics in this paper. The Mahabharata has a great deal to say on the subject of charac-
+ter and virtue. However, virtue ethics is not centrally relevant to my argument in this paper. In this paper,
+I argue that Krsna is a kind of consequentialist. As far as I can tell, the main objections to my thesis would
+rely on passages that suggest that Krsna is a deontologist.
+38
+JOSEPH DOWD
+Thus, Krsna clearly believes that adharmic actions can be justified by their good
+consequences. Therefore, he does not appear to be a deontologist. On the contrary, his
+defense of the Pandavas’ adharmic behavior seems clearly consequentialist.
+At the same time, Krsna’s primary goal is apparently to restore dharmic behavior. In the
+Gita, Krsna says that he comes to earth “whenever the law of righteousness [i.e. dharma]
+withers away and lawlessness [i.e. adharma] arises” (Zaehner, 1969, p. 58). Visnu says the
+same thing in another part of the epic: “Whenever, sage, the Law languishes and Unlaw
+rears up, I create myself” (Buitenen, 1975, p. 592). (Recall that Krsna is an incarnation
+of Visnu.) If Krsna’s mission is to restore dharmic behavior, then why does he encourage
+adharmic behavior?
+Here is one possible answer: perhaps Krsna is a “threshold” deontologist (cf. Alexander
+and Moore, 2007). That is, perhaps he is a deontologist who believes that, in extreme cases,
+the need to avoid bad consequences can override duties. Suppose that Krsna is a threshold
+deontologist. Further, suppose that horrible consequences will ensue if the Pandavas lose
+the war. In that case, Krsna can violate dharma in order to help the Pandavas win the war.
+Here is another possible answer: perhaps Krsna values dharmic behavior merely as a means
+to good consequences. According to the Mahabharata, the rules of dharma are designed
+to produce good consequences: “Dharma is created for the wellbeing of all creation. All
+that is free from harm to any created being is certainly Dharma” (Mahabharata, Kama
+Parvan 69.51, quoted by Khan, 1965, p. 35). Thus, dharmic behavior tends to produce
+good consequences. In that case, perhaps Krsna has come to earth to restore dharmic
+behavior, but only because dharmic behavior is a means to good consequences. If so, then
+nothing prevents Krsna from acting adharmically whenever doing so will produce good
+consequences.
+Both of these proposals have something to be said for them. In fact, perhaps both of
+these proposals are true of Krsna at different times. I cannot rule out this possibility.
+The Mahabharata is an epic, not a modern philosophical treatise, and Krsna’s moral
+viewpoint may not be completely consistent throughout. However, I believe that the text
+of the Mahabharata suggests another possibility. This possibility makes Krsna a consistent
+consequentialist, but without reducing dharmic behavior to a mere means.
+39
+JOSEPH DOWD
+5. Dharmic behavior as an intrinsic good
+According to a widespread Hindu tradition, dharma is one of the purusarthas, or goals of
+man (Krishan, 1992, p. 53). The other purusarthas are kama, sensual pleasure, and artha,
+worldly prosperity. Here dharma means not the set of rules called dharma but, rather,
+adherence to those rules: “As an aim in life, rather than as a rule of conduct, dharma refers
+to ‘being established in dharma’” (Koller, 1972, p. 131). Thus, according to this tradition,
+dharmic behavior is one of life’s goals. This tradition appears in the Mahabharata.
+Moreover, the Mahabharata repeatedly says that dharma is more valuable than kama and
+artha (Krishan, 1992, p. 62). Thus, at least within the epic, dharmic behavior seems to be
+the most valuable of earthly goals.
+This implies that dharmic behavior is an intrinsic good. If dharmic behavior were good
+only as a means to other goods, then it would not be one of life’s goals; rather, it would
+be only a means to those goals. But in the Mahabharata, dharmic behavior is one of life’s
+goals. Thus, dharmic behavior is not a purely instrumental good. Is dharmic behavior
+some other kind of purely extrinsic good? That is, does dharmic behavior have value only
+in relation to other things? This strikes me as unlikely, given the Mahabharata’s claim that
+dharmic behavior is the most valuable of earthly goals. At any rate, for want of a more
+plausible proposal, I conclude that dharmic behavior is an intrinsic good.
+The Mahabharata’s characters also seem to view dharmic behavior as an intrinsic
+good. In many cases, they go out of their way to adhere to the letter of dharma. In one
+passage, the Pandavas trick Drona, a warrior for the Kauravas, into thinking that his son
+Asvatthaman is dead. At Krsna’s suggestion, they kill an elephant named Asvatthaman
+and then tell Drona, “Aswatthaman hath been slain” (Ganguli, 1883-1896a). As a result,
+Drona withdraws from the war to grieve. Now, whether or not the Pandavas had killed
+the elephant, the outcome would have been the same: Drona would have been tricked into
+thinking that Asvatthaman was dead. However, truthfulness is a supreme norm in Hindu
+thought (Buitenen, 1975, p. 177; Goldman, 1997, p. 189; Khan, 1965, p. 204). By killing
+the elephant, the Pandavas ensure that they are technically speaking the truth when they
+say, “Aswatthaman hath been slain.”
+Why do Krsna and the Pandavas go out of their way to qualify as “truthful” here? After
+all, their “truthfulness” has no obvious good consequence. A rule-consequentialist might
+argue as follows: “A rule that requires truthfulness at all times will tend to produce good
+40
+JOSEPH DOWD
+consequences. Thus, one should adhere to that rule, even when it is does not appear to have
+good consequences.” Thus, perhaps Krsna and the Pandavas are rule-consequentialists:
+perhaps they are always truthful, but only as a means to producing good consequences.8 If
+so, then they view truthfulness as a purely instrumental good. However, I find it implausible
+that Krsna and the Pandavas view truthfulness as a purely instrumental good. As we have
+seen, the Mahabharata appears to describe dharmic behavior as an intrinsic good. Thus,
+it seems more likely to me that Krsna and the Pandavas regard the dharmic behavior of
+truthfulness as an intrinsic good. If they do, then it makes sense for them to go out of their
+way to qualify as truthful, even when truthfulness has no obvious good consequence apart
+from truthfulness itself.
+Let us consider another example. Arjuna vows to kill anyone who slights his bow.
+Yudhisthira slights Arjuna’s bow. Naturally, Arjuna does not want to kill his brother. So
+instead of killing Yudhisthira, Arjuna insults him, because insulting one’s older brother is
+disrespectful enough to be “like” killing him (Goldman, 1997, p. 190). Because insulting
+Yudhisthira is in some sense equivalent to killing him, Arjuna is not technically breaking
+his vow. Why does Arjuna go to such lengths to avoid breaking his vow? Granted, Arjuna
+refrains from killing Yudhisthira in pursuit of a good consequence, the preservation of
+Yudhisthira’s life. But Arjuna could have achieved that consequence without insulting
+Yudhisthira, by simply refraining from killing him. By insulting Yudhisthira, Arjuna
+suggests that he views the dharmic act of keeping his vow as an intrinsic good.
+Again, one could argue that Arjuna is simply being a rule-consequentialist. After all, the
+rule “Always keep your promises” tends to produce good consequences. Perhaps that is
+the only reason why Arjuna goes to such lengths to avoid breaking his vow. If so, then
+Arjuna sees the act of keeping his vow as a purely instrumental good. Again, however, the
+Mahabharata elsewhere seems to describe dharmic behavior as an intrinsic good. Thus, I
+think it is more plausible to say that Arjuna keeps his vow because he regards the dharmic
+act of promise-keeping as an intrinsic good.
+One might object that dharmic behavior cannot be an intrinsic good in the Mahabharata.
+As we have seen, dharma exists to promote wellbeing: “Dharma is created for the wellbeing
+of all creation. All that is free from harm to any created being is certainly Dharma”
+8 I would like to thank an anonymous referee for pointing out this possibility to me.
+41
+JOSEPH DOWD
+(Mahabharata, Kama Parvan 69.51, quoted by Khan, 1965, p. 35).9 In that case, isn’t
+dharmic behavior good only as a means to wellbeing? And if it is good only as a means
+to wellbeing, then isn’t it only an extrinsic good, not an intrinsic good? There is a simple
+answer to this objection. As we have seen, something can be both an extrinsic good and
+an intrinsic good. Thus, dharmic behavior can be both an extrinsic good—specifically, a
+means to wellbeing—and an intrinsic good.
+6. Krsna and dharma-consequentialism
+Now we can take another stab at understanding Krsna’s moral viewpoint. As we have seen,
+the Mahabharata’s characters seem to regard dharmic behavior as intrinsically good. If
+dharmic behavior is intrinsically good, then it is something that a consequentialist would
+want to maximize. In that case, a consequentialist might violate dharma if doing so would
+maximize the dharmic behavior of others. After all, a consequentialist might sacrifice
+his own welfare to maximize others’ welfare. In fact, the upright character Bhisma does
+precisely that, renouncing sexual activity so that his father can marry a fisher-girl. (For
+the context of Bhisma’s decision, see Buitenen, 1973, p. 226, and the surrounding passage.)
+Likewise, if a consequentialist believes that dharmic behavior is intrinsically good, then he
+might sacrifice his own dharmic behavior in order to maximize the dharmic behavior of
+others. Thus, I propose that Krsna is a “dharma-consequentialist”, a consequentialist who
+sees dharmic behavior as intrinsically good.
+Interpreting Krsna as a dharma-consequentialist seems to give us everything we want. If the
+Pandavas lose the war, then adharma will triumph in the world. Thus, as a consequentialist
+who sees dharmic behavior as intrinsically good, Krsna helps the Pandavas to win the war,
+even by means of adharmic behavior. Krsna violates dharma for the sake of dharma itself.
+Thus, his adharmic actions do not conflict with the Mahabharata’s claim that dharma is
+supremely valuable. Nor do they conflict with his claim that his primary goal is to restore
+dharmic behavior.
+An act-consequentialist may feel inclined to object at this point. If Krsna and the Pandavas
+are violating dharma for the sake of intrinsic goods, then are they really violating dharma?
+9 Does this passage force us to infer that the dharmic action is whatever action will maximize wellbeing? I
+do not think so. The passage’s literal meaning does not support such an inference. Taken literally, the passage
+simply says (1) that the rules of dharma are designed to promote wellbeing (hence, we can infer that dharmic
+behavior tends to promote wellbeing) and (2) that if an action harms absolutely no one at all, then we can
+rest assured that it is dharmic.
+42
+JOSEPH DOWD
+Perhaps Krsna and the Pandavas never actually violate dharma. Perhaps dharma ultimately
+commands that an agent do whatever will maximize intrinsic goods. In other words,
+perhaps the dharmic action is whatever action will maximize intrinsic goods. If so, Krsna
+and the Pandavas do not violate dharma during the war.
+I do not think that this suggestion works. Recall that, at the end of the war, voices from
+heaven condemn the Pandavas’ actions (Goldman, 1997, p. 210). Thus, the Pandavas’
+actions are apparently adharmic.10 Yet those actions contribute to winning the war and,
+thus, to maximizing intrinsic goods. Thus, an action is not dharmic simply in virtue of
+maximizing intrinsic goods. By winning the war by any means necessary, Krsna and the
+Pandavas do the right thing from a consequentialist perspective, but they are not thereby
+doing the dharmic thing.
+To understand this point more fully, we must distinguish between Dharma and dharmas.11
+By dharmas, I mean particular duties for particular contexts. The Mahabharata refers to
+many such dharmas. For example, there is a specific dharma for warriors, “the Law of
+the baronage” (Buitenen, 1975, p. 586), which includes fighting (Zaehner, 1969, p. 50),
+and a specific dharma for brahmins (priests), which includes prayer (Buitenen, 1975,
+p. 586). However, Indian tradition often mentions a single universal Dharma, which
+deteriorates with the passing of great periods of cosmic time called yugas (Creel, 1972, p.
+160). According to the Mahabharata, this Dharma declines by one quarter with each yuga
+(Buitenen, 1975, pp. 505, 593-594).
+What is the relationship between dharmas and Dharma? The concept of dharma as a
+cosmic principle seems to have evolved from the early Indian concept of rta (Creel, 1972,
+p. 157; Khan, 1965, p. 30-34). Rta is the cosmic order (Khan, 1965, p. 24). But it has a
+moral aspect, for people can deviate from the cosmic order: the wicked man does not
+follow the path of rta (Khan, 1965, p. 27). Likewise, in the Mahabharata, dharma seems
+10 There is some ambiguity here, since Krsna’s divine authority may trump that of the celestial voices.
+In the Mahabharata, Visnu (of whom Krsna is an incarnation) is one of the supreme gods (the other is
+arguably Siva). Nonetheless, when the voices declare that the Pandavas had acted adharmically, Krsna does
+not respond by challenging the voices’ understanding of dharma. Instead, he simply points out that the
+Pandavas could not have won by fighting fairly. Thus, it appears that the Pandavas did in fact violate dharma.
+11 I take this distinction from a lecture delivered by Professor Robert Goldman (South Asian Studies C142,
+University of California, Berkeley, CA, 9-13 March 2009), which distinguished between “little-d dharma”
+and “big-D Dharma”.
+43
+JOSEPH DOWD
+to be a principle not only of morality but also of cosmic order. As dharma declines, the
+natural world deteriorates: “The cows will yield little milk, and the trees, teeming with
+crows, will yield few flowers and fruits” (Buitenen, 1975, p. 587). Thus, it appears that
+Dharma is a principle of cosmic order, and that the dharmas are the different rules that
+different people must follow in order to be in harmony with Dharma. As one scholar puts
+it, “all ordinary human [little-d] dharma is only an aspect of the universal [big-D] dharma,
+and is justified not in itself, but only in the function of the universal dharma” (Koller,
+1972, p. 141). As another scholar puts it, to violate one’s own dharma is “to be out of step
+with the universe” (Creel, 1972, p. 157).
+Now we can explain exactly why Krsna authorizes the Pandavas’ adharmic actions. When
+Krsna comes to earth, the universe is out of order: demons have incarnated themselves
+as the Kauravas (Buitenen, 1973, p. 137). To restore the cosmic order—Dharma—
+the Pandavas must win the war, exterminating the demonic incarnations. Thus, Krsna
+encourages the Pandavas to violate dharmas when doing so will help them to win the war.
+By violating dharmas, the Pandavas deviate from the cosmic order themselves, but they
+help to preserve order in the universe at large.
+To grasp this point more clearly, we can use the metaphor of a dance routine. The cosmic
+order is a huge, coordinated dance routine with many different assigned roles. Demons
+have started to run amok on the dance floor, interfering with the dance. To save the dance
+routine from being completely ruined, the Pandavas must stop the demons. But to stop
+the demons, they must perform actions (e.g. running after the demons) that deviate from
+their choreography within the dance routine. From a consequentialist perspective, that
+is exactly the right thing to do: if the cosmic order is intrinsically good, then one should
+sacrifice one’s own participation in the cosmic order in order to save the cosmic order.
+7. Rule-consequentialism in the Gita
+However, we should not forget the starting-point of our discussion—the Bhagavad-Gita.
+In the Gita, Arjuna fears that his fighting will have a negative effect on dharma. If he fights,
+then the war will proceed as planned. If the war proceeds, then the elders of his family
+will die. Without the elders, there will be no one to maintain the family’s norms, and its
+women will mix with men of lower castes. Caste-mixing, in turn, will lead to widespread
+adharmic behavior (Zaehner, 1969, p. 47). In the situation in which Arjuna finds himself,
+“the injunctions of svadharma [i.e. individual dharma], therefore, appear […] to be self-
+44
+JOSEPH DOWD
+destructive in character” (Santina, 1992, p. 107). Arjuna’s individual dharma demands
+that Arjuna participate in the war; however, from Arjuna’s standpoint, it appears that the
+war’s ultimate effect will be to decrease dharmic behavior.
+Of course, Arjuna is wrong about this. The battle between the Pandavas and the Kauravas
+is not a battle between two merely human foes. Instead, it is a battle between incarnate
+gods and demons. Arjuna’s concerns would be valid if his enemies were mere humans.
+However, as incarnate demons, the Kauravas must be defeated at all costs. Arjuna is
+certainly correct in thinking that the war will weaken the social order. However, if the
+Kauravas are not exterminated, then the social and cosmic order may be utterly destroyed.
+With his God’s-eye view, Krsna does not encounter any moral crisis (Dubey, 1992, p. 39);
+he knows what is necessary to maintain dharma. He knows that, contrary to what Arjuna
+thinks, Arjuna’s fighting will actually help to preserve dharma.
+However, this is not quite the argument that Krsna presents to Arjuna. In the Gita, Krsna’s
+main argument is not that Arjuna’s fighting will help to restore the cosmic order. Instead,
+Krsna tells Arjuna that he must do the work prescribed by his dharma (Zaehner, 1969, pp.
+50, 137) without anxiety over the consequences (Zaehner, 1969, p. 51). This advice sounds
+deontological. Thus, we face a problem: If Krsna is a consequentialist, as we have argued,
+then why does he present Arjuna with a deontological-sounding argument?
+We can mitigate this problem to an extent by noting that Krsna mentions consequentialist
+considerations in the Gita. He points out that some of the bad consequences that Arjuna
+fears—namely, the deaths of his relatives—are outweighed by the intrinsic goodness of
+dharmic behavior. Krsna reveals that Arjuna is not really killing his relatives when he kills
+their bodies, for their souls are immortal (Zaehner, 1969, p. 49). Agrawal argues that this
+revelation makes the deaths of Arjuna’s relatives irrelevant to Arjuna’s decision:
+Realizing not only intellectually but deeply, existentially, that the inner self is
+immortal, Arjuna now feels no grief at the thought of the death of his affectionate
+and respected ones. […] The result of this new orientation of mind is that
+certain considerations drop out as irrelevant in determining how to act. Thus, for
+example, the fact that Arjuna’s dear ones will die in the war becomes irrelevant to
+the question of fighting a righteous war. (1992, p. 140-141)
+I would not go so far. The soul’s immortality does not change the fact that murder is
+usually wrong. For example, the Mahabharata affirms that the murder of brahmins
+(priests) is extremely sinful (Buitenen, 1973, p. 134). And, presumably, murder is wrong at
+45
+JOSEPH DOWD
+least partly because the preservation of bodily life is good and the loss of bodily life is bad.
+Thus, the soul’s immortality does not mean that the death of Arjuna’s relatives is morally
+irrelevant. It simply means that the intrinsic goodness of his relatives’ bodily life is not
+great enough to outweigh the intrinsic goodness of dharmic behavior. Thus, by adhering
+to his warrior dharma, Arjuna produces more intrinsic good than he would produce by
+not fighting. Therefore, when Krsna tells Arjuna to fulfill his warrior dharma without
+worrying about the deaths that it will cause, he is in fact making a largely consequentialist
+argument, contrary to appearances.
+The problem is also mitigated once we realize that the Gita is not just a set of advice
+for Arjuna. The Gita discusses many subjects in minute detail—subjects only tangentially
+related to Arjuna’s dilemma. For example, it discusses the Day and Night of Brahma
+the creator12 (Zaehner, 1969, p. 73), the different afterlives awaiting different kinds of
+worshippers (Zaehner, 1969, p. 76), the greater difficulty of contemplating an impersonal
+God as opposed to a personal God (Zaehner, 1969, p. 88), and the theory of the three
+constituents of reality, “goodness” (sattva), “passion” (rajas), and “darkness” (tamas)13
+(Zaehner, 1969, p. 352). The Gita does not simply present moral advice; it presents a
+cosmology. If the Gita’s author intended the Gita merely as part of the story of the Bharata
+war, then this degree of complexity would be odd. After all, Krsna’s long-winded sermon
+hardly helps to move the plot forward, except insofar as it motivates Arjuna to fight. Thus,
+the Gita’s author probably intends the Gita largely as a message to ordinary people reading
+the Mahabharata.
+Once we realize that the Gita is intended primarily as a message to ordinary people, we can
+interpret Krsna as consequentialist even in the Gita. As we have seen, the Pandavas often
+violate dharma during the war. However, in those cases, they have Krsna—God incarnate—
+nearby to assure them that their adharmic actions will produce good consequences.
+Ordinary people do not have God at their side to tell them when it is permissible to violate
+12 Brahma is the creator of the universe, although most contemporary forms of Hinduism do not identify
+him with the supreme being (Visnu and another god named Siva often receive that honor). The Day of
+Brahma and the Night of Brahma are vast periods of cosmic time. The universe is destroyed and recreated
+repeatedly during the Day of Brahma. At the beginning of the Night of Brahma, the universe dissolves com-
+pletely, to remain “unmanifest” until the next Day. The Day and Night follow each other in an endless cycle
+(cf. Zaehner, 1969, p. 73).
+13 Here I follow Zaehner’s translations of the terms sattva, rajas, and tamas (cf. Zaehner, 1969, pp. 16, 140).
+I enclose the translations within quotation marks to indicate that they are translations of what the Gita treats
+as technical terms.
+46
+JOSEPH DOWD
+dharma. Hence, ordinary people would be most likely to produce good consequences
+if they simply had a policy of adhering to dharma. As we have seen, the Gita’s author
+intends the Gita primarily as advice for ordinary people. Thus, he has Krsna preach a
+policy of unwavering adherence to dharma. In preaching this policy, Krsna is being a good
+consequentialist: by convincing ordinary people to always follow dharma, he is indirectly
+producing good consequences.
+8. Rule-consequentialism and dharma-consequentialism
+Before concluding this paper, I must address a final issue. One might think that Krsna’s
+dharma-consequentialism is simply a form of rule-consequentialism. After all, an
+individual’s dharma consists of a set of rules. So can’t we simply replace the word dharma
+with “rule” and conclude that Krsna is a rule-consequentialist? In response to this question,
+I will make two points.
+First of all, the term “dharma-consequentialism” is not simply a synonym for “rule-
+consequentialism”, a synonym that substitutes the word dharma for the word “rules”. A rule-
+consequentialist selects rules based on the rules’ tendency to maximize intrinsic goods.
+He then says that actions must obey those rules. In other words, rule-consequentialism
+is called rule-consequentialism because it says that right actions adhere to certain rules.
+In contrast, Krsna’s moral system is called dharma-consequentialism because it says that
+right actions aim at maximizing global adherence to the rules of dharma; this is very
+different from saying that right actions themselves adhere to the rules. When Krsna breaks
+the rules of dharma in order to win the war, he adheres to dharma-consequentialism, but
+he obviously does not adhere to rule-consequentialism.
+Secondly, however, I agree that Krsna’s dharma-consequentialism sometimes takes the
+form of rule-consequentialism. In the Gita, Krsna advocates strict adherence to dharma
+without anxiety over consequences. As I have argued, that is because the rules of dharma
+tend to produce good consequences. So, in the Gita, Krsna does advocate a form of rule-
+consequentialism.
+9. Conclusion
+The Krsna of the Mahabharata holds a complex moral outlook. He urges the Pandavas to
+violate dharma, to deviate from the cosmic order. But for Krsna, conformity to the cosmic
+order, conformity to dharma, is intrinsically good. He urges the Pandavas to violate
+47
+JOSEPH DOWD
+dharma only because their adharmic actions will help to restore dharmic behavior in the
+universe at large. In short, Krsna is a consequentialist, but he holds a peculiar form of
+consequentialism in which dharmic behavior itself is intrinsically good.
+This dharma-consequentialism probably will not find many adherents in the philosophy
+departments of Western universities. The majority of Western philosophers are neither
+Hindus nor Indians. Hence, the majority of Western philosophers do not believe in the
+principle of cosmic order called dharma.14 Thus, although many Western philosophers
+are consequentialists, the content of their consequentialism differs from the content of
+dharma-consequentialism. Nonetheless, the dharma-consequentialism found in the
+Mahabharata is a coherent moral theory and represents an alternative to the kinds of
+consequentialism known in the West.
+References:
+Agrawal, M.M., 1992. Arjuna’s Moral Predicament. In B. Matilal, ed. Moral Dilemmas in
+the Mahabharata. Shimla: Indian Institute of Advanced Study, pp. 129-142.
+Alexander, L., & Moore, M., 2007. Deontological Ethics. Stanford Encyclopedia of Philosophy.
+[online] Available at: <http://plato.stanford.edu/entries/ethics-deontological/> [Accessed
+7 Apr 2009].
+Anderson, E., 1993. Value in Ethics and Economics. Cambridge: Harvard University Press.
+Buitenen, J.A.B. van, ed. and trans., 1973. The Mahabharata. Vol. 1. Chicago: University
+of Chicago Press.
+-----, 1975. The Mahabharata. Vol. 2. Chicago: University of Chicago Press.
+Creel, A., 1972. Dharma as an Ethical Category Relating to Freedom and Responsibility.
+Philosophy East and West, 22(2), pp. 155-68.
+Dimmitt, C., & Buitenen, J.A.B. van, eds. and trans., 1978. Classical Hindu Mythology: A
+Reader in the Sanskrit Puranas. Philadelphia: Temple University Press.
+14 However, some Western philosophers—ancient, medieval, and modern—have argued that human ethics
+is a function of some sort of cosmic principle. For example, the Stoics claimed that a divine fire permeates
+and organizes the universe, giving each being its characteristic nature (White, 2003, pp. 133-134), and that
+virtue consists of living according to one’s nature (Schofield, 2003, pp. 242-243). We may wonder whether
+any Western philosopher would agree with Krsna’s consequentialist approach to preserving the cosmic or-
+der. Does any Western philosopher believe that one should deviate from the cosmic order when doing so will
+help to keep others in harmony with the cosmic order? Answering this question would require a separate
+essay. If any Western philosopher did hold such a belief, then his moral theory would be structurally similar
+to dharma-consequentialism. However, it would not be dharma-consequentialism, because its principle of
+cosmic order would not be the dharma of Hinduism.
+48
+JOSEPH DOWD
+Dubey, S.P., 1992. The Concept of Moral Dilemma: Its Applicability in the Context of
+the Mahabharata. In B. Matilal, ed. Moral Dilemmas in the Mahabharata. Shimla: Indian
+Institute of Advanced Study, pp. 35-48.
+Ganguli, K.M., trans., 1883-1896a. The Mahabharata, Book 7: Drona Parva: Drona-vadha
+Parva: Section CXCI. [online] Sacred-Texts. Available at: <http://www.sacred-texts.com/
+hin/m07/m07187.htm> [Accessed 13 March 2011].
+-----, 1883-1896b. The Mahabharata, Book 9: Shalya Parva: Section 61. [online] Sacred-
+Texts. Available at: <http://www.sacred-texts.com/hin/m09/m09061.htm> [Accessed 13
+March 2011].
+Goldman, R., 1997. Esa Dharmah Sanatanah: Shifting Moral Values and the Indian
+Epics. In P. Bilimoria & J.N. Mohanty, eds. Relativism, Suffering, and Beyond: Essays in the
+Memory of Bimal K. Matilal. Delhi: Oxford University Press, pp. 187-223.
+Hooker, B., 2008. Rule Consequentialism. Stanford Encyclopedia of Philosophy. [online]
+(Updated 9 Jan 2008) Available at: <http://plato.stanford.edu/entries/ethics-virtue/>
+[Accessed 4 Oct 2010].
+Hurka, T., 1993. Perfectionism. New York: Oxford University Press.
+Hursthouse, R., 2007. Virtue Ethics. Stanford Encyclopedia of Philosophy. [online]
+(Updated 18 Jul 2007) Available at: <http://plato.stanford.edu/entries/ethics-virtue/>
+[Accessed 10 Sep 2010].
+Kant, I., 1785. Grounding for the Metaphysics of Morals: with On a Supposed Right to
+Lie Because of Philanthropic Concerns. Translated by J.W. Ellington, 1993. Indianapolis:
+Hackett.
+Khan, B., 1965. The Concept of Dharma in Valmiki Ramayana. Delhi: Munshi Ram
+Manohar Lal.
+Killingley, D., 2003. Hinduism. In L.V.J. Ridgeon, ed. Major World Religions: From Their
+Origins to the Present. London: Routledge, pp. 8-58.
+Krishan, Y., 1992. The Meaning of the Purusarthas in the Mahabharata. In B. Matilal, ed.
+Moral Dilemmas in the Mahabharata. Shimla: Indian Institute of Advanced Study, pp.
+53-68.
+Koller, J., 1972. Dharma: An Expression of Universal Order. Philosophy East and West,
+22(2), pp. 131-44.
+Matilal, B., 1991. Krsna: In Defence of a Devious Divinity. In A. Sharma, ed. Essays on the
+49
+JOSEPH DOWD
+Mahabharata. Leiden: E. J. Brill, pp. 401-81.
+Santina, P., 1992. Conceptions of Dharma in the Sramanical and Brahmanical Traditions:
+Buddhism and the Mahabharata. In B. Matilal, ed. Moral Dilemmas in the Mahabharata.
+Shimla: Indian Institute of Advanced Study, pp. 97-115.
+Schofield, M., 2003. Stoic Ethics. In B. Inwood, ed. The Cambridge Companion to the Stoics.
+Cambridge: Cambridge University Press, pp. 242-243.
+Sinnott-Armstrong, W., 2003. Consequentialism. Stanford Encyclopedia of Philosophy.
+[online] (Updated 9 Feb 2006) Available at: <http://plato.stanford.edu/entries/
+consequentialism/> [Accessed 7 April 2009].
+Sukthankar, V.S., 1957. On the Meaning of the Mahabharata. Town Hall: Asiatic Society
+of Bombay.
+White, M.J., 2003. Stoic Natural Philosophy (Physics and Cosmology). In B. Inwood, ed.
+The Cambridge Companion to the Stoics. Cambridge: Cambridge University Press, pp.
+133-34.
+Zaehner, R.C., trans., 1969. The Bhagavad-Gita, With a Commentary Based on the Original
+Sources. London: Oxford University Press.
+50
