@@ -2,7 +2,6 @@ pandas
 numpy
 scikit-learn
 matplotlib
-keras
 imblearn
 seaborn
 imbalanced-learn                                                     
@@ -13,3 +12,4 @@ pdfminer.six
 pdfplumber                   
 pymupdf
 nltk
+ ucimlrepo
