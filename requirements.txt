@@ -13,3 +13,4 @@ pdfplumber
 pymupdf
 nltk
 ucimlrepo
+openai
