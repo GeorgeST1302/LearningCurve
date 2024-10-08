@@ -14,3 +14,4 @@ pymupdf
 nltk
 ucimlrepo
 openai
+tensorflow
