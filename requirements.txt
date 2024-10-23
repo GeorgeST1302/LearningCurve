@@ -15,3 +15,5 @@ nltk
 ucimlrepo
 openai
 tensorflow
+pycuda
+tensorflow_datasets
