@@ -38,7 +38,7 @@ largest = left;
         while (index > 0) {
             int parentIndex = (index - 1) / 2;
             if ((hT.get(parentIndex) < hT.get(index) && isMaxHeap) ||
-                (hT.get(parentIndex) > hT.get(index) && isMaxHeap)) {
+                (hT.get(parentIndex) > hT.get(index) && isMaHeap)) {
                 // Swap
                 int temp = hT.get(parentIndex);
                 hT.set(parentIndex, hT.get(index));

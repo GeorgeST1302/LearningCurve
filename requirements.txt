@@ -17,3 +17,4 @@ openai
 tensorflow
 tensorflow_datasets
 memory_profiler
+torch torchvision
