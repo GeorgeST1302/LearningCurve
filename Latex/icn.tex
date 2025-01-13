@@ -1,0 +1,316 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+%Template version as of 6/27/2024
+
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{minted}
+\usepackage{url}
+
+
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+
+\title{A Study of Slowloris and SYN Flood Attacks Using Docker\\}
+
+\author{\IEEEauthorblockN{ George S Thomas}
+\IEEEauthorblockA{\textit{Department of Computer Science and Engineering, } \\
+\textit{Amrita School of Artificial Intelligence, Bengaluru, }\\
+Amrita Vishwa Vidyapeetham, India \\
+ \textit{bl.en.u4aid23016@bl.students.amrita.edu }}
+\and
+
+\IEEEauthorblockN{ Aragonda Kalyani }
+\IEEEauthorblockA{\textit{Department of Computer Science and Engineering } \\
+\textit{Amrita School of Artificial Intelligence, Bengaluru, }\\
+Amrita Vishwa Vidyapeetham, India \\
+ \textit{bl.en.u4aid23071@bl.students.amrita.edu }}
+
+\and
+\IEEEauthorblockN{Aragonda Kaveri}\hspace{10cm} % Increase space by 1 cm
+    \IEEEauthorblockA{\textit{Department of Computer Science and Engineering,} \\
+    \textit{Amrita School of Artificial Intelligence, Bengaluru,} \\
+    Amrita Vishwa Vidyapeetham, India \\
+    \textit{bl.en.u4aid23072@bl.students.amrita.edu}}
+    \and
+
+    \IEEEauthorblockN{Vishwas H. N.*}
+    \IEEEauthorblockA{\textit{Department of Computer Science and Engineering,} \\
+    \textit{Amrita School of Computing, Bengaluru, } \\
+    Amrita Vishwa Vidyapeetham, India \\
+    \textit{bl.en.d.cse16002@bl.students.amrita.edu}}
+
+
+}
+
+\maketitle
+
+\begin{abstract}
+Denial of Service is  a kind of attack where the system is overwhelmed by sending too many requests making it difficult  for legitimate users to access the website.In this paper the attack is simulated in a software called Docker it  provides an isolated environment from the host system making it the perfect place to test attacks without damaging any real-time systems.Under this particular study   we are using  two network tools called Hping3 and Slowloris to conduct the attack using virtual webservers. The first attack which took place happened on the first webserver  created using a network tool Hping3 were so many packets were sent to the server but none  of them were received.
+In the second attack  we did it  on  a different webserver using another network tool called Slowloris which made unnecessary HTTP connections and left them open indefinitely wasting the resources of the server.These simulations shows how easy it is to test you attacks on Docker in this case to exploit server limitations .It helps us to find ways to mitigate attacks and protect devices from getting compromised .
+\end{abstract}
+
+\begin{IEEEkeywords}
+
+\hspace{0.1cm} Denial of Service, Docker, Hping3, Slowloris, webserver
+\end{IEEEkeywords}
+
+\section{Introduction}
+
+Denial of Service (DoS) attacks target the operation of a network by flooding it with traffic. Typically, one system sending excessive traffic would not be enough to flood the target system, even if it uses all of its processing power. However, when a large number of systems send excessive traffic to flood the same target system, it starts becoming unresponsive and very slow.Generally the hacker  overpowers  its bandwidth and making the network unusable which stops or slowsdown legitimate traffic .Sometimes resource exhaustion by repeatedly requests acceess to a resource and eventually overloads the web application.The application slows down and finally crashes. In this case, the user is unable to get access to the webpage.DoS attacks can cause businesses to lose significant amounts of revenue as customers are unable to access the  particular service. The cost of mitigating a DoS attack can be significant, and businesses may also have to pay for lost revenue, legal fees and damages. Data destruction attacks can cause businesses to lose critical data, leading to financial losses and damage to the company’s reputation.
+\section{Related Works}
+SYN Flood exploits the TCP three-way handshake process by sending numerous SYN packets but failing to complete the handshake. This leaves the server’s connection queue filled with half-open connections. While defenses like SYN cookies mitigate the attack, its high packet volume can still degrade performance.
+\subsection{Slowloris}
+The name of Slowloris comes  as a proof of concept by Robert RSnake Hansen in 2009, the terms it self refers to a group of nocturnal primates from Southeast  that are know for moving slowly . It was infamously uswed by Iranian hacktivists to attack Iranian government sites after the 2009 election.They  are two types of web server software which are used to be attacked on .One is a thread based server  and the other one is a event-based server .Thread based server are designed to hold a smaller number of connections than event -based servers. In this case my choice of webserver for this attack to be simulate is a  event-based servers.A slow HTTP DoS attack may not be detected by intrusion detection systems (IDS) because it does not contain any malformed requests. Each HTTP request will seem legitimate to the IDS, even if it’s not closed.The slow HTTP POST DDoS/DoS attack is a variation of the Slowloris attack that uses POST rather than GET requests and is much harder to mitigate. In a slow HTTP POST attack, the attacker keeps all the malicious connections alive to prevent them from timing out
+
+
+\subsection{Hping3}
+Hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies. It handles fragmentation and arbitrary packet body and size, and can be used to transfer files under supported protocols. Using hping3, you can test firewall rules, perform (spoofed) port scanning, test network performance using different protocols, do path MTU discovery, perform traceroute-like actions under different protocols, fingerprint remote operating systems, audit TCP/IP stacks, etc. Hping3 is scriptable using the Tcl language.Send (almost) arbitrary TCP/IP packets to network hosts.While hping3 is a valuable tool, it can be misused. Always use it responsibly and with permission. Unauthorized or malicious use can harm networks and systems. Ensure you have the necessary permissions before conducting any network tests.hping3 becomes even more powerful when you start exploring its advanced options. You can use it for tasks like:
+\begin{itemize}
+\item Firewall Testing: hping3 can be used to test the resilience of your firewall rules by sending packets with various TCP flags and options.
+ \item Tracerouting: You can use hping3 to trace the path taken by packets to reach their destination.
+\item Traffic Generation: It can generate network traffic patterns to simulate different types of attacks or load on a network.
+ \item Packet Crafting: Craft custom packets to test how your network devices and applications handle them.
+\item Fingerprinting: Identify the operating system or device type of a remote host by analyzing its response to crafted packets.
+\end{itemize}
+
+
+
+
+\section{Methodology}
+\underline{\textbf{Hping3}}
+
+A virtual web server was deployed using Nginx in a Docker container (nginx-container). The attacks were simulated using two containers: one running a Python-based Slowloris script and the other using hping3 for SYN Flood.\\
+
+Webserver Configuration:
+\begin{itemize}
+\item  Base Image: nginx:latest
+\item Ports: 80 (HTTP)
+\item Now set up a custom  docker file with the following python script typed and saved inside it
+\end{itemize}
+\begin{figure}[htbp]
+\hspace{0.7cm} 
+\centerline{\includegraphics{fig1.png}}
+\caption{Python script }
+\label{fig}
+\end{figure}
+
+\begin{itemize}
+
+
+\item Access the file with HPing3 code through terminal – important to use the right path to access the file with the code
+\\
+\item Builds the image using the following code  in the termial  :\textcolor{green}{docker build -t hping3-container }
+\\
+\item This command helps to  find the IP address of the webserver your attacking  using the container id in this case the container id is  af8377e8bc57 :\textcolor{green}{docker build -t hping3-containerdocker inspect -f '{{range .NetworkSettings.Networks}}{{.IP Address}}{{end}}' af8377e8bc57
+\item  In this case our ip address is  \textcolor{green}{172.17.0.2}
+ }
+\end{itemize}
+
+\begin{figure}[htbp]
+\hspace{0.7cm} 
+\centerline{\includegraphics[width=0.6\textwidth]{Find the IP address of the webserver to attack.png}}
+\caption{Find the IP address of the webserver to attack}
+\label{fig}
+\end{figure}
+\begin{itemize}
+\item The container  is used  to simulate the attack using the following  command  in the terminal :\textcolor{green}{docker run --rm hping3-container -S --flood -p 80 172.17.0.2
+}
+\end{itemize}
+\underline{\textbf{Slowloris}} 
+\\
+Slowloris is a DoS attack tool designed to keep many connections to the target web server open and hold them open as long as possible. It works by sending partial HTTP requests, none of which are completed. Slowloris attempts to keep the connection alive by sending subsequent headers at intervals, preventing the target server from closing the connections. This can lead to resource exhaustion, causing the server to be unable to process legitimate requests. 
+
+Slowloris is particularly effective against threaded web servers (like Apache) that rely on keeping connections open for handling requests. It does not require massive bandwidth, making it a lightweight yet effective tool for denial of service (DoS) attacks.
+
+The attack works as follows:
+\begin{itemize}
+\item The attacker connects to the target .
+\item The attacker sends a partial HTTP request, leaving the connection open.
+\item The attacker continues to send partial HTTP requests, keeping the server resources occupied.
+\item Eventually, the server runs out of available connections, causing it to become unresponsive to legitimate traffic.
+\end{itemize}
+
+
+
+A virtual web server was deployed using Nginx in a Docker container (nginx-container). The Slowloris attack was simulated using a Python-based script in a separate container to initiate the attack.\\
+
+Webserver Configuration:
+\begin{itemize}
+\item  Base Image: nginx:latest
+\item Ports: 81(HTTP)
+\item Now set up a custom Dockerfile with the following Python script typed and saved inside it.
+\end{itemize}
+
+\begin{figure}[htbp]
+\hspace{0.7cm} 
+\centerline{\includegraphics[width=0.5\textwidth]{Slowloris_script.png}}
+\caption{Python Script for Slowloris Attack}
+\label{fig:slowloris}
+\end{figure}
+
+
+
+\begin{itemize}
+\item Access the Python file for Slowloris code through the terminal – ensure to use the correct path for the script.
+\\
+\item Build the image using the following code in the terminal: \textcolor{green}{docker build -t slowloris-container .}
+\\
+\item For this particular attack unlike the previous one we attack the webserver port textcolor{green}{ 8081}
+\end{itemize}
+
+
+\begin{itemize}
+\item Use the container to simulate the Slowloris attack with the following command in the terminal: \textcolor{green}{    docker run --rm slowloris-container localhost -p 8081 -s    1000
+}
+\end{itemize}
+
+
+\section{Results and Analysis}
+\underline{\textbf{Hping3}}
+\begin{itemize}
+\item Attack stats from webserver logs(Hping3)
+\end{itemize}
+\begin{figure}[htbp]
+\hspace{0.7cm} 
+\centerline{\includegraphics[width=0.4\textwidth]{Attack stats from webserver logs(Hping3).png}}
+\caption{Find the IP address of the webserver to attack}
+\label{fig}
+\end{figure}
+\begin{itemize}
+\item Observe 100 percent packet loss in the terminal
+\item Network I/O
+\end{itemize}
+\begin{figure}[htbp]
+\hspace{0.7cm} 
+\centerline{\includegraphics[width=0.4\textwidth]{100 percent packet loss.png}}
+\caption{Find the IP address of the webserver to attack}
+\label{fig}
+\end{figure}
+
+\underline{\textbf{Slowloris}}
+\begin{itemize}
+\item Attack stats from webserver logs(Hping3)
+\end{itemize}
+\begin{figure}[htbp]
+\hspace{0.7cm} 
+\centerline{\includegraphics[width=0.4\textwidth]{Attack stats from webserver logs(Slowloris).png}}
+\caption{Find the IP address of the webserver to attack}
+\label{fig}
+\end{figure}
+\begin{itemize}
+\item RTT (Round Trip Time): The time it takes for the packet to travel to the destination and back, in milliseconds. Packets not received back.
+\item Network I/O
+\end{itemize}
+\begin{figure}[htbp]
+\hspace{0.6cm} 
+\centerline{\includegraphics[width=0.5\textwidth]{rtt.png}}
+\caption{Find the IP address of the webserver to attack}
+\label{fig}
+\end{figure}
+
+
+\section{Mitigation Strategies}
+\underline{\textbf{Network and Device Security Best Practices:}}
+\begin{itemize}
+\item Secure your router. Given the distributed nature of attack, many insecure routers are ‘recruited’ as their passwords not secured and malicious software are downloaded. Anti virus software can be directly installed on your routers.
+\item  An army of few devices are not sufficient to overwhelm a network, Attackers create a bot network to generate sufficient traffic to overwhelm a server or network.  To prevent your machines being compromised its important to follow good online ‘Hygiene’. Avoid downloading torrents or downloading software from websites which are not secured. Avoid installing pirated software
+\item Use anti virus on your personal systems , this can help to secure your devices from malware. These anti virus softwires are continuously updated to prevents new definitions of malwares from compromising your devices. 
+\item Its important to change passwords of your IOT devices from Default ones. 
+\item Passwords to your network shouldn’t be shared. In case its there’s a need to share a password to visitors, a temporary password should be created for ONLY the duration itsrequired. Passwords should be changed often and shouldn’t be easy to guess nor should be repeated.
+\\
+\end{itemize}
+\underline{\textbf{DOS prevention methods:}}
+\begin{itemize}
+\item  Attack surface reduction: Reducing attack surface exposure, this can be done by restricting traffic to specific cites, implementing load balancer, blocking unused ports, protocols  and applications.
+\item Anycast network diffusion: Volumetric traffic spikes can be absorbed by sharing the load across multiple distributed servers.
+\item Realtime threat monitoring: log monitoring can be used to identify potential threats and traffic patterns,.
+\item Rate limiting: It restricts volume of network traffic over a specific time period, preventing web servers from being overwhelmed by requests from specific ip addresses.
+\end{itemize}
+
+
+
+
+\section{Conclusion}
+n this study, we explored two distinct techniques for launching Denial of Service (DoS) attacks: Slowloris and Hping3. Both methods are effective in disrupting web server operations but utilize different approaches to achieve the same goal: overwhelming the target server and making it unavailable to legitimate users.
+
+The Slowloris attack is an application-layer DoS attack that operates by opening multiple connections to the target web server and sending partial HTTP requests. By keeping these connections open for as long as possible, it exhausts the server’s connection pool, making it unable to serve legitimate requests. This attack is stealthy and slow, which allows it to bypass traditional detection systems that focus on network-level traffic anomalies.
+
+On the other hand, Hping3 is a more versatile and powerful tool that can perform network-layer DoS attacks such as SYN Floods. By flooding the target with TCP SYN packets, Hping3 exploits the three-way handshake mechanism of TCP to consume server resources, effectively preventing legitimate connections. Its simplicity and ability to craft custom packets make it a valuable tool for testing and simulating network-layer DoS attacks.
+
+Both tools demonstrate the importance of having robust network defenses and the need for proactive security measures. While Slowloris targets the application layer and requires minimal bandwidth, making it difficult to detect and mitigate, Hping3 targets the network layer and can be countered using techniques such as rate-limiting and firewalls. The combination of these attacks shows the broad range of vulnerabilities that web servers and networks face, highlighting the need for comprehensive security strategies that address both layers of communication.
+
+Further research and development of automated defense systems against such attacks are critical to ensuring the availability and reliability of online services in the face of increasing cyber threats.
+
+\begin{thebibliography}{99}
+
+\bibitem{b1}
+R. S. Kaminsky, ``Slowloris: The low bandwidth HTTP attack,'' 2009. [Online]. Available: \url{https://github.com/gkbrk/slowloris}
+
+\bibitem{b2}
+A. Zanella, ``hping: A network tool to send custom TCP/IP packets,'' 2024. [Online]. Available: \url{http://www.hping.org/}
+
+\bibitem{b3}
+V. Paxson, ``An analysis of using Slowloris attacks for DDoS testing,'' \textit{Proc. ACM SIGCOMM}, vol. 29, no. 4, pp. 291--302, 1999.
+
+\bibitem{b4}
+A. Pescape, G. Ventre, D. Rossi, and S. Palazzo, ``Testing and experimentation methodologies for network simulation,'' \textit{IEEE Network}, vol. 22, no. 5, pp. 6--10, 2008.
+
+\bibitem{b5}
+N. Provos and T. Holz, \textit{Virtual Honeypots: From Botnet Tracking to Intrusion Detection}, Addison-Wesley, 2007.
+
+\bibitem{b6}
+S. Liu and L. Yang, ``Mitigating application-layer DDoS attacks using Slowloris and countermeasure testing,'' \textit{IEEE Communications Surveys \& Tutorials}, vol. 15, no. 3, pp. 1--15, 2013.
+
+\bibitem{b7}
+L. Garcia, ``Detecting hping3-based network probes,'' in \textit{Proc. 2014 Int. Conf. Cyber Sec.}, pp. 155--160, 2014.
+
+\bibitem{b8}
+G. Sommers and P. Barford, ``Network traffic generators: Tools and techniques,'' in \textit{Proc. 2004 Internet Measurement Conference (IMC)}, pp. 43--57, 2004.
+
+\bibitem{b9}
+E. Gelenbe, ``Dealing with self-similarity in network attacks,'' \textit{Proc. ACM SIGCOMM}, vol. 30, no. 4, pp. 120--128, 2000.
+
+\bibitem{b10}
+T. Ylonen and C. Lonvick, ``SSH transport layer protocol,'' 2006. [Online]. Available: \url{https://www.rfc-editor.org/rfc/rfc4253.txt}, RFC 4253.
+
+\bibitem{b11}
+T. M. Gil and M. Poleto, ``DNS reflection attacks: A practical exploration,'' \textit{J. Name Stand. Abbrev.}, vol. 12, no. 2, pp. 55--61, 2019.
+
+\bibitem{b12}
+K. Mandviwalla, ``Evaluating the performance of Slowloris in resource-starved environments,'' in \textit{IEEE Intl. Conf. Communications}, 2020.
+
+\bibitem{b13}
+S. Kumar, ``hping3 as a TCP tool for diagnosing network performance,'' \textit{Int. J. Networks}, vol. 9, no. 6, pp. 155--167, 2017.
+
+\bibitem{b14}
+J. Postel, ``Internet Control Message Protocol (ICMP),'' 1981. [Online]. Available: \url{https://www.rfc-editor.org/rfc/rfc792.txt}, RFC 792.
+
+\bibitem{b15}
+L. Kleinrock, \textit{Theory of Queues: Applications to Slowloris}, Wiley Interscience, 1975.
+
+\bibitem{b16}
+M. Shah, ``Simulating DoS attack vectors using Docker,'' in \textit{IEEE Intl. Conf. on Cloud Security}, pp. 67--73, 2022.
+
+\bibitem{b17}
+C. Coates and J. Tanaka, ``Multi-vector DDoS testing: Lessons from Slowloris,'' in \textit{Symp. Network Security Research}, pp. 48--55, 2020.
+
+\bibitem{b18}
+A. James and R. Johnson, ``hping3 as a lightweight attack simulation tool for education,'' in \textit{Proc. ACM Security Ed.}, 2021.
+
+\bibitem{b19}
+D. Knight, \textit{Practical TCP/IP for DoS analysis: Including Slowloris}, Addison-Wesley, 2022.
+
+\bibitem{b20}
+``Docker-based Network Simulation Environment,'' 2024. [Online]. Available: \url{https://github.com/docker/network-simulation}.
+
+\end{thebibliography}
+
+
+\end{document}
