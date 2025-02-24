@@ -1,0 +1,1 @@
+{"model": ["ollama/mistral"], "attack_modes": ["def", "art"], "classifier": ["har"], "extra": ["blacklisted_words=bomb"]}
