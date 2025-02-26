@@ -1,0 +1,3 @@
+[submodule "AI-ML"]
+	path = AI-ML
+	url = https://github.com/GeorgeST1302/AI-ML.git
